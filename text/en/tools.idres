@@ -1,0 +1,65 @@
+
+tcn_tool_language=Language
+tcn_tool_btn_looking_tree=Find Tree
+tcn_tool_btn_show_or_hide_hp=Show % HP
+tcn_tool_btn_shortcuts=Shortcuts
+tcn_tool_btn_pass_ruong=Chest password
+tcn_tool_btn_noitu=Internal Cultivation
+tcn_tool_btn_shop=Open Stall
+tcn_tool_btn_fast_mount=Fast Mount
+tcn_tool_btn_reclaim_shop=Retrieve Sundries
+tcn_tool_btn_taphoa=Groceries
+tcn_tool_btn_blink_screen=Blink
+tcn_tool_btn_qin=Play Music
+tcn_tool_btn_cd_nmq3=Forbidden Place
+tcn_tool_btn_guard_set=TCN Guard
+tcn_tool_btn_crop=Farmer
+tcn_tool_btn_hunter=Hunter
+tcn_tool_btn_new=Task new
+tcn_tool_btn_new_hint=Supports running <font color="#47c15b">newbie</font> missions, guide <font color="#47c15b">account creation</font> missions, and all <font color="#47c15b">received</font> missions. Additionally, it has the ability to <font color="#47c15b">Auto accept</font> missions to run mission <font color="#47c15b">sequences seamlessly</font>!
+tcn_tool_btn_nc6=Task T6I
+tcn_tool_btn_task_round=Recluslve/Faction
+tcn_tool_btn_di_tam=Spa (Delightful Island)
+tcn_tool_btn_oaoa=Smelt Jade Doll
+tcn_tool_btn_thu_nghiep=Impart Knowledge
+tcn_tool_btn_swap=Auto Swap
+tcn_tool_btn_swap_vip=Swap VIP
+tcn_tool_btn_def=Auto Defense
+tcn_tool_btn_ping=De Ping
+tcn_tool_btn_ping_vip=De Ping VIP
+tcn_tool_btn_ngu_hanh_thien_cung=Five Elements Palace
+tcn_tool_btn_buff_ptc=Buff HBP
+tcn_tool_btn_fps=Set FPS
+tcn_tool_btn_bo_khoai=Constable
+tcn_tool_btn_hai_bo=Issue Bounty
+tcn_tool_btn_find_qin=Find Musician
+tcn_tool_btn_find_book=Find Book
+tcn_tool_btn_receive_mail=Auto Mail
+tcn_tool_btn_receive_mail_hint=Auto clean up mail
+tcn_tool_btn_ky_si=Farm Weiqi
+tcn_tool_btn_farm_tm=Farm Possessed
+tcn_tool_btn_dien_vo_bac_nen=Practice Martial Arts
+tcn_tool_btn_dien_vo_bac_nen_hint=Practice Martial Arts <font color="#47c15b">compressed silver</font> martial arts at the lowest level until out of silver or manually stop!
+tcn_tool_btn_auto_login=Auto login
+tcn_tool_btn_fixitem=Fix items
+tcn_tool_btn_fixitem_hint=Auto repair <font color="#47c15b">equipment</font> with durability from <font color="#47c15b">50%</font> downwards, compared to the <font color="#47c15b">maximum</font> durability of that equipment!
+tcn_tool_btn_ride_config=Auto Mounts
+tcn_tool_btn_ride_config_hint=Auto summon <font color="#47c15b">Mounts</font> or <font color="#47c15b">Divine Water Steed</font>, according to the settings!
+tcn_tool_btn_throw_money=Throw money
+tcn_tool_btn_throw_money_hint=Auto <font color="#47c15b">spend bound silver</font> until there are <font color="#47c15b">2D</font> left, then stop auto. If auto <font color="#47c15b">Pet</font> is activated for automatic spending of bound silver, when the player reaches <font color="#47c15b">7D</font> bound silver, the auto pet will Auto activate the <font color="#47c15b">spending silver</font> mode with the condition of having the <font color="#47c15b">kidnap buff</font>!
+tcn_tool_btn_modskin=Mod skin
+tcn_tool_btn_auto_ot=Hot Spring
+tcn_tool_btn_auto_ot_hint=Participate in the <font color="#47c15b">Hot Spring</font>
+tcn_tool_btn_qpvv=GMAC
+tcn_tool_btn_qpvv_hint=Auto farm <font color="#47c15b">Clone</font>
+tcn_tool_btn_diem_danh=Cultivation Sign-in
+tcn_tool_btn_diem_danh_hint=Auto claim and open the <font color="#47c15b">Attendance Reward Bag</font> at the <font color="#47c15b">configured</font> time. Additionally, Auto receive <font color="#47c15b">Free Blessing</font> every day.
+tcn_tool_btn_auto_lam=Bug Pluck the Peacock's Plume
+tcn_tool_btn_auto_tran=Tactical formation
+tcn_tool_btn_auto_pvn=Fengyun Cliff
+tcn_tool_btn_auto_pvn_hint=Auto <font color="#47c15b">Fengyun Cliff</font>
+tcn_tool_btn_grow_flower=Plant flowers
+tcn_tool_btn_grow_flower_hint=Auto <font color="#47c15b">Plant flowers - Murong Family</font>
+tcn_tool_btn_ltt=Lingxiao City
+tcn_tool_low_quality_display=Low Quality Display
+

@@ -1,0 +1,1209 @@
+
+tcn_ui_start=Запуск
+tcn_ui_stop=СТОП
+tcn_ui_off_end=СТОП
+tcn_ui_save=Сохранить
+tcn_ui_apply=Применить
+tcn_ui_ok=OK
+tcn_ui_setting=Настройки
+tcn_ui_setup=Настройки
+tcn_ui_add=Добавить
+tcn_ui_retry=Повторить
+tcn_ui_return=Назад
+tcn_ui_cancel=Отмена
+tcn_ui_close=Закрыть
+tcn_ui_open=Открыть
+tcn_ui_open_now=Открыть сейчас
+tcn_ui_delete=Удалить
+tcn_ui_clear=Очистить
+tcn_ui_default=По умолчанию
+tcn_ui_status=Состояние
+tcn_ui_done=Выполнено
+tcn_ui_exchange=Поменять
+tcn_ui_default_and_refresh=По умолчанию / Обновить
+tcn_ui_refresh=Обновить
+tcn_ui_continue=Продолжить
+tcn_ui_find_range=Дальность поиска монстров (m)
+tcn_ui_support=Поддержка
+tcn_ui_activate=Активировать
+tcn_ui_extend=Продлевать
+tcn_ui_collapse=Крах
+tcn_msg_done=<font face="font_title" color="#ff9c22">Сделано</font>
+tcn_stopped=Остановился
+tcn_ui_all=Все
+tcn_ui_list=Список
+tcn_ui_default_list=Список по умолчанию
+tcn_ui_select_label=Выбирать:
+tcn_msg_added_param=Добавлен: <font color="#ffcc00">{@0:name}</font>
+tcn_msg_deleted=Удалить!
+tcn_msg_saved=Сохранить!
+tcn_msg_default_saved=Сохранить по умолчанию!
+tcn_msg_cancelled=Отмененный!
+tcn_msg_copied=Скопирован!
+tcn_msg_changed=Измененный!
+tcn_msg_cannot_open_file=Не удается открыть файл!
+tcn_msg_already_exist=Уже существует!
+tcn_msg_file_saved_success=Сохранить <font color="#47c15b">successful</font>! Вы хотите <font color="#47c15b">Открыть файл</font>?
+tcn_mc_note_msg=В настоящее время Авто поддерживает только <font color="#ffcc00">Демон (4)</font>!
+tcn_ot_waiting_18h=Подождите до <font color="#ffcc00">18h</font>!
+tcn_boss_full_5=Все <font color="#ffcc00">противники</font> побеждены <font color="#ffcc00">5 bosses</font>, обновите локацию.
+tcn_ui_not_found_fish_pos=Вы не задали координаты рыбалки, нажмите настройки, чтобы установить!
+tcn_ui_fast_action=Выполняется слишком быстро, пожалуйста, подождите немного и повторите попытку!
+tcn_ui_select_fish=Пожалуйста, выберите рыбу, которую вы хотите поймать:
+tcn_ui_not_found_fish=В радиусе 20 метров рыбы не обнаружено, пожалуйста, подойдите ближе!
+tcn_ui_choose_collect_mode=Выберите режим сбора данных:
+tcn_ui_go_near=Вы стоите слишком далеко, пожалуйста, подойдите ближе!
+tcn_ui_must_target=Пожалуйста, укажите товар, который вы хотите забрать!
+tcn_ui_must_merchant_target=Пожалуйста, ориентируйтесь на продавца!
+tcn_kuangshi=Рудокоп
+tcn_qiaofu=Рубка деревьев
+tcn_cailiao=Аптекарь
+tcn_caidu=Мастер Ядов
+tcn_you_not_set_coordinates=Вы не задали координаты!
+tcn_ui_not_found_collect_pos=Вы не задали координаты сбора!
+tcn_ui_select_bag=Выберите сумку с предметом, который вы хотите использовать
+tcn_ui_select_item=Выберите элемент, который вы хотите использовать
+tcn_ui_zhuangbei=Оборудование
+tcn_ui_wupin=Итемы
+tcn_ui_yuanliao=Материалы
+tcn_ui_renwu=Задание
+tcn_ui_not_found_item=В этой сумке не найдено никаких предметов
+tcn_ui_select_buff=Выберите эффект, который появится после использования предмета
+tcn_ui_no_need_buff=Авто обновление Бафа
+tcn_ev_reset=Параметры сброшены, автоматически начинается прием заданий
+tcn_ev_start=Примечание: Необходимо сохранить точку воскрешения в Сучжоу
+tcn_ev_not_have_q=Квест завершен, начинайте получать новые
+tcn_ev_have_q=У вас уже есть задание или еще не пришло время для проведения мероприятия, идите и выполняйте его
+tcn_ev_accepted=Задание выполнено
+tcn_hand_no_item=Пожалуйста, заберите эту вещь!
+tcn_pvn_min_max_require=Минимальные требования <font color="#ffcc00">10%</font> и Максимальные <font color="#ffcc00">80%</font> здоровья!
+tcn_pvn_max_require=Максимальное требование <font color="#ffcc00">80%</font> здоровья!
+tcn_running_can_change_mode_msg=Запущен АВТО, изменить нельзя!
+tcn_pvn_activate_require=Извините <font color="#ffcc00">Captain</font> Это <font color="#ffcc00">является</font><br>ВИП<br>функцией <font color="#ffcc00">member</font> КУПИ ВИП!
+tcn_pvn_join_require=Для участия <font color="#ffcc00">в ивенте</font> Башни <font color="#ffcc00">Нужен ВИП</font>
+tcn_pvn_warning=Обновление данных башни...
+tcn_pvn_completed_this_week=Завершено на этой неделе!
+tcn_pvn_completed_round=Завершен один раунд!
+tcn_use_sword=Используй только один меч!
+tcn_use_dual_swords=Используй два меча
+tcn_not_special_map=Это не специальная карта
+tcn_please_enter_coordinates_or_click_btn=Пожалуйста, введите координаты или нажмите на кнопку, чтобы получить их!
+tcn_coordinates_selected_invalid=Неверные координаты
+tcn_item_exist=Этот товар уже существует!
+tcn_member_removed=Участник удален!
+tcn_invited_name_to_team=Приглашение сохранено: <font color="#ffcc00">{@0:name}</font>
+tcn_auto_skip_movie_is_on=В Auto TCN скрыта 1 сюжетная линия, чат / фильм, чтобы отключить эту функцию!
+tcn_auto_skip_movie_is_off=Чат / фильм для автоматического скрытия сюжетной линии
+tcn_auto_skip_movie_turn_on=Включена функция автоматического скрытия сюжетной линии
+tcn_auto_skip_movie_turn_off=Функция автоматического скрытия сюжетной линии отключена
+msg_find_way=Поиск пути к
+tcn_min=минуту
+tcn_end_sec={@0:num} секунд
+tcn_end_min={@0:num} минут
+tcn_end_second={@0:num} секунды
+tcn_end_minute={@0:num} минуты
+tcn_param_map_default={@0:map} (Default)
+tcn_save_success=Успешное сохранение
+tcn_setup_success=Успешная настройка
+tcn_type_label=Тип:
+tcn_ui_choose_type=Выберите тип:
+tcn_ui_account=НикНейм
+tcn_enter_account_hint=Введите <font color="#47c15b">account</font> имя для входа!
+tcn_ui_password=Пароль
+tcn_enter_password_hint=Введите <font color="#47c15b">пароль</font>!
+tcn_enter_chest_password_label=Введите пароль от сумки:
+tcn_enter_chest_password_hint=Введите пароль от сумки!
+tcn_enter_activation_available=Код активации (введите, если он доступен)
+tcn_enter_activation_available_hint=Введите <font color="#47c15b">код активации</font>!
+tcn_not_open_chest_password_msg=Не введен пароль от сумки
+tcn_ui_merchant=Торговец
+tcn_ui_pos_find=Поиск пути
+tcn_npc_exist=Этот NPC уже существует!
+tcn_pos_invalid=Координаты уже существуют в радиусе 5 метров, пожалуйста, перейдите в другое место!
+tcn_ui_go_near_7=Вы стоите более чем в 7 метрах от цели, пожалуйста, подойдите ближе!
+tcn_ui_merchant_min=Вам нужно добавить как минимум 2 продавца на эту карту, чтобы авто заработало!
+tcn_ui_show_ph_turn_on=Здоровье в процентах % вкл
+tcn_ui_show_ph_turn_off=Здоровье в % выкл
+tcn_ui_escort_name_1=Ченду - Шэнь
+tcn_ui_escort_name_2=Ченду - Няньгунь
+tcn_ui_escort_name_3=Ченду - горнизон Нищих
+tcn_ui_escort_name_4=Сучжоу - вилла Йонг Цуй
+tcn_ui_escort_name_5=Сучжоу - гробница короля
+tcn_ui_escort_name_6=Сучжоу - Карьер
+tcn_ui_escort_name_7=Нанкин - Ворота сливы
+tcn_ui_escort_name_8=Нанкин - Императорские ворота
+tcn_ui_escort_name_9=Нанкин - Дворец императора Мочоу
+tcn_ui_escort_name_10=Лоян - Резиденция лорда Чина
+tcn_ui_escort_name_11=Лоян - Яньмень
+tcn_ui_escort_name_12=Лоян - Крепость Байду
+tcn_ui_escort_name_13=Пекин - Армейская конюшня
+tcn_ui_escort_name_14=Пекин - Поместье убийц
+tcn_ui_escort_name_15=Пекин - Семья Дунфан
+tcn_sys_exits_item=Этот товар уже существует!
+tcn_sys_require_target_monster=Пожалуйста, нацеливайтесь на монстра, которого вы хотите собрать!
+tcn_chat_default_content=О чем бы поболтать?
+tcn_link=<a href="">
+tcn_link_param=<a href="">{@0:param}</a>
+tcn_link_view=<a href="">Смотреть</a>
+tcn_link_settings=<a href="">Настройки</a>
+tcn_link_delete=<a href="">Удалить</a>
+tcn_link_pos_xy=<a href="">{@0:x},{@1:y}</a>
+tcn_link_distance=<a href="">{@0:param}m</a>
+tcn_link_go_to=<a href="">Идти</a>
+tcn_link_skip=<a href="">Пропустить</a>
+tcn_link_add_pos=<a href="">Добавить координаты</a>
+tcn_link_icon_up=<a href="">↑↑</a>
+tcn_link_icon_down=<a href="">↓↓</a>
+tcn_link_set=<a href="">Сет</a>
+tcn_link_tele=<a href="">Телепорт</a>
+tcn_link_choose_map=<a href="">Выбрать карту</a>
+tcn_link_merchant=<a href="">Торговец</a>
+tcn_link_refresh=<a href="">Сбросить</a>
+tcn_link_update=<font color="#9c7d5c">Обновление по адресу:</font> <a href="https://autotcn.com/">https://autotcn.com</a>
+tcn_link_page_1=<a href="">Страница 1</a>
+tcn_link_page_2=<a href="">Страница 2</a>
+tcn_link_page_3=<a href="">Страница 3</a>
+tcn_link_page_4=<a href="">Страница 4</a>
+tcn_link_page_5=<a href="">Страница 5</a>
+tcn_link_page_6=<a href="">Страница 6</a>
+tcn_create_account=<a href="">Создать аккаунт</a>
+tcn_ui_up=Вверх
+tcn_ui_down=Вниз
+tcn_setting_cur_section_hint=Настройки для текущего раздела!
+tcn_btn_choose_map=Выберите карту
+tcn_btn_carry_sacks_setting=Набор мешков для переноски
+tcn_tele_pre_notice=Телепорт в
+tcn_tele_label=Телепорт:
+tcn_time_set=Установить время
+tcn_tele_notice=(Требуется открыть все 5 слотов divine grid)
+tcn_msg_fast_mount_stopped=Авто закреп выкл
+tcn_thth_shang_ma_zhong=Авто оледлать лошадь
+tcn_thth_click_too_fast=Работает слишком быстро, пожалуйста, подождите минутку!
+tcn_choice_buff_no_delay=<font color="#FFFF00">Используйте непрерывно</font>
+tcn_choice_buff_delete_item=<font color="#c70000">Удалить элемент</font>
+tcn_delete_item=Удалить элемент
+tcn_delete_item_guide=Возьмите <font color="#47c15b">элемент</font> в руку и поместите его <font color="#47c15b">на знак "плюс",</font> чтобы добавить в список элементов<font color="#ea4335">для удаления.</font> Если вы возьмете <font color="#47c15b">correct</font> правильный элемент,<font color="#47c15b">загорится знак "плюс"</font>!
+tcn_use_no_delay=Используйте непрерывно
+tcn_delete_junk_item_guide=Возьмите <font color="#47c15b">предмет</font> в руки и поместите <font color="#47c15b">его сюда</font> ,чтобы добавить в список <font color="#ea4335">удаленных</font> предметов!
+tcn_task_round_goto_new_school=Иду делать Дейлики Сект / Фракций
+tcn_task_full_task_list=Список заданий полон
+tcn_task_comeback_city=Возвращайтесь в <font color="#ffcc00">{@0:city}</font>, чтобы избежать необходимости увеличивать культивацию!
+tcn_fixing_move=Исправление ошибки перемещения!
+tcn_cleaning_luggage=Ожидание уборки багажа...
+tcn_msg_cleaning_luggage=Ожидание уборки багажа
+tcn_invalid_time=Еще не время
+tcn_invalid_day=Ещё не день
+tcn_all_day=весь день
+tcn_daily=Ежедневки
+tcn_link_daily=<a href="">Ежедневки</a>
+tcn_weekly=Еженедельно
+tcn_link_weekly=<a href="">Еженедельно</a>
+tcn_this_week=На этой неделе
+tcn_event=Ивент
+tcn_doing=Делаем...
+tcn_accept=Принимать...
+tcn_waiting=Ожидание...
+tcn_skip=Пропустить
+tcn_complete=Выполнено
+tcn_completed=Завершено!
+tcn_complete_cur_on_count=Завершено: {@0:num}/{@1:max}
+tcn_unfinished=Незаконченно
+tcn_not_enough=Неизвестный статус
+tcn_accepted=Принято
+tcn_not_accepted=Не принято
+tcn_get_reward=Получите награду
+tcn_checking=Проверка...
+tcn_ui_menu_friend_add_chouren=Добавить врага
+tcn_ui_today=Сегодня
+tcn_delete_log=Удалить ЛОГ
+tcn_ui_skill_picked=Выбранный набор
+tcn_ui_skill_pick=Выберите набор
+tcn_ui_skill_set=Набор скилов
+tcn_ui_skill_set_param=Набор скилов (Set {@0:set})
+tcn_ui_skill_set_param_link=<a href="">Набор скилов (Set {@0:set})</a>
+tcn_ui_skill_set_1_param=Основной набор навыков (Set {@0:set})
+tcn_ui_skill_set_2_param=Второстепенный набор навыков (Set {@0:set})
+tcn_ui_book_buff=Выбрать книгу скилов
+tcn_ui_weapon=Оружие
+tcn_hint_right_click_change_skill_type=Щелкните правой кнопкой мыши, чтобы изменить тип атаки
+tcn_hint_right_click_remove_weapon=Щелкните правой кнопкой мыши, чтобы удалить оружие
+tcn_hint_right_click_remove_book_buff=Щелкните правой кнопкой мыши, чтобы удалить книгу скилов
+tcn_skill_must_place_skill=Вам нужно поставить навык на первое место
+tcn_skill_fly_skill=Прыгайте вверх, чтобы атаковать
+tcn_skill_hide_skill=Используйте скрытые навыки
+tcn_skill_right_click_change=Щелкните правой кнопкой мыши, чтобы изменить тип атаки
+tcn_skill_must_place_weapon=Нужно добавить оружие
+tcn_skill_change_to_sky=<font color="#ffcc00">{@0:config}</font> изменено на небесную атаку!
+tcn_skill_change_to_hide=<font color="#ffcc00">{@0:config}</font> изменен на скрытый навык!
+tcn_skill_change_to_normal=<font color="#ffcc00">{@0:config}</font> изменен на обычный навык!
+tcn_skill_change_to_range=<font color="#ffcc00">{@0:config}</font> изменен на дальнобойный навык!
+tcn_skill_change_hide_range=<font color="#ffcc00">{@0:config}</font> изменен на скрытый и дальний навык!
+tcn_auto_approach=Автоматический подход
+tcn_smart_approach=Разумный подход
+tcn_smart_approach_hint=Автоматически приближайтесь на нужное расстояние для использования навыка!
+tcn_skill_turned_off_approach_hint=Когда "Автоматический подход" и "Интеллектуальный подход" отключены, навыки будут использоваться постоянно на месте!
+tcn_auto_def_monster=Автоматическая защита (монстры)
+tcn_skill_gia_chieu= Бафф блока
+tcn_skill_pha_thu= Пробитие блока
+tcn_skill_power=Ульта 
+tcn_auto_skill_set_guide_1=Подсказка:<br>    + Перетащите навыки в строку набора навыков, ниже — нужное оружие
+tcn_auto_skill_set_guide_2=<br>    + Блокировать ходы <font color="#47c15b" face="font_tip">Зеленые</font>
+tcn_auto_skill_set_guide_3=<br>    + Финт - это умение <font color="#00a9f7" face="font_tip">Синее</font>
+tcn_auto_skill_set_guide_4=<br>    + Ульта - Ярость.
+tcn_auto_skill_set_guide_5=<br>    + Скилы с большим КД ставятся первыми (слева)
+tcn_auto_skill_set_guide_6=<br>    + Щелкни ПКМ чтоб изменить тип атаки
+tcn_auto_skill_set_guide_7=Прыжок и атака <font color="#47c15b" face="font_tip">(Зеленый)</font>
+tcn_auto_skill_set_guide_8=Скрытый навык <font color="#c70000" face="font_tip">(Красный)</font>
+tcn_auto_skill_set_guide_9=Разрешать атаки на дистанции <font color="#ffcc00" face="font_tip">(Желтый)</font>
+tcn_auto_skill_set_guide_10=Скрытый навык, позволяет атаковать на расстоянии <font color="#ff00ff" face="font_tip">(Фиолетовый)</font>
+tcn_auto_skill_set_guide_11=Атака поблизости <font color="#ffffff" face="font_tip">(По умолчанию)</font>
+tcn_set_1=Set 1
+tcn_set_2=Set 2
+tcn_set_3=Set 3
+tcn_set_4=Set 4
+tcn_link_set_1=<a href="">Set 1</a>
+tcn_link_set_2=<a href="">Set 2</a>
+tcn_link_set_3=<a href="">Set 3</a>
+tcn_link_set_4=<a href="">Set 4</a>
+tcn_link_set_5=<a href="">Set 5</a>
+tcn_link_set_6=<a href="">Set 6</a>
+tcn_link_set_7=<a href="">Set 7</a>
+tcn_link_set_8=<a href="">Set 8</a>
+tcn_link_set_9=<a href="">Set 9</a>
+tcn_ui_reset_1=Сброс
+tcn_ui_reset=Сбросить все
+tcn_ui_not_reset=Не сбрасывать
+tcn_thth_reset_count_1=После завершения исследования Цзянху 1
+tcn_thth_reset_count_2=После завершения исследования Цзянху 2
+tcn_thth_reset_count_3=После завершения исследования Цзянху 3
+tcn_thth_reset_count_4=После завершения исследования Цзянху 4
+tcn_ui_getprize=Претендовать на вознаграждение
+tcn_ui_auto_craft=Авто профессии
+tcn_ui_choose_craft=Выбирайте профессии
+tcn_ui_put_pos=Позиция
+tcn_forging=<a href="">Кузнец</a>
+tcn_tailoring=<a href="">Портной</a>
+tcn_skillful_handicraft=<a href="">Кузнец</a>
+tcn_ky_ngo=Случайная встреча
+tcn_ky_ngo_received_param=Получена случайная встреча <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_miss_param=Пропущенная случайная встреча <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_miss_2_param=Просто пропустил случайную встречу <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_restore=После получения <font color="#ff00ff">Фонаря</font>, функции будут восстановлены в <font color="#ff00ff">{@0:num}s</font>!
+tcn_ky_ngo_kim_ti_phan_note= ({@0:id})
+tcn_auto_received=Авто прием
+tcn_get_all=Забрать все
+tcn_get_by_list=Заявка по списку
+tcn_skip_to_list=Пропустить по списку
+tcn_enable_or_disable_all=Включить/Отключить все
+tcn_add_ky_ngo=Добавить случайную встречу
+tcn_no_target=Нет цели
+tcn_ui_cd_nmq_3=Перевал Яньмэнь - Легкий
+tcn_cd_state=Тайники!
+tcn_om_coc_setup=Набор мешков для переноски
+tcn_ui_pick_up=Сбор
+tcn_network_delay_can_not_auto_arranged=Слишком большой ПИНГ <font color="#ffcc00">too high</font>, НЕ канает<font color="#ffcc00">использовать</font> автоввод данных!
+tcn_wait_auto_rearrange=Погоди ка {@0:num}s для автоматической перестановки инвентаря!
+tcn_first_help=Нажмите Ctrl + U, чтобы открыть интерфейс автозапуска!
+tcn_mod_skin_mount=Активируйте мод скина, чтобы не потерять его при установки!
+tcn_mod_skin=Активируйте мод скин, чтобы не потерять при ТП
+tcn_notify=Нет уведомлений
+tcn_no_fix=Не нужно ремонтировать
+tcn_fixed=Отремонтировано
+tcn_fix_item_miss=[Инструменты] Нет инструментов для реставрации!
+tcn_fix_item_no_activate=[Инструменты] Не активировано!
+tcn_dv_bac_nen_khong=Вы действительно хотите качаться за цельное серебро?
+tcn_dv_bac_nen_khong_du=Недостаточно цельного серебра!
+tcn_dv_bac_nen=Прокачка за цельное серебро
+tcn_dv_bac_nen_hint=Будет автоматом сливать цельное серебро, пока не закончится
+tcn_please_init_auto=Пожалуйста, обновите данные подключения! (Введя /ui в чате и нажав кнопку "Обновить")
+tcn_please_wait=пожалуйста, подождите
+tcn_loading_format=<font face="font_title" color="#ff9c22">{@0:msg}{@1:loading}</font>
+tcn_stop=Стоп
+tcn_on=Вкл
+tcn_off=Откл
+tcn_yes=Да
+tcn_no=Нет
+tcn_confirm=Подтвердить
+tcn_farm_tm=В процессе
+tcn_farm_tm_hint=Будет автоматом качать <font color="#ffcc00">0x</font> пока не появится <font color="#ffcc00">Демон</font> Или не остановишь сам!
+tcn_composite_split=Сбор-Разборка
+tcn_composite_split_hint=Авто Сбор и Разборка!
+tcn_auto_picture=Авто Художник
+tcn_auto_picture_hint=Авто Художник!
+tcn_auto_handwriting=Авто Рукопись
+tcn_auto_handwriting_hint=Авто Рукопись!
+tcn_delete_empty_mail=Удалить пустое письмо
+tcn_delete_empty_mail_hint=Удалю все <font color="#47c15b">пустые письма</font> в вашем <font color="#47c15b">системной почте</font>!
+tcn_show_delete_empty_mail_btn=Показать <font color="#c0b393">кнопку удаления пустого письма</font> в почтовом ящике
+tcn_oops=Извините...! Ваш пакет не поддерживает эту функцию!
+tcn_activated=Активировано
+tcn_no_activated=Не Активировано
+tcn_load_data=Загрузка данных
+tcn_try_again=Попробуйте снова
+tcn_new_version=Новая версия
+tcn_green_version=Версия <font color="#47c15b">{@0:version}</font>
+tcn_down_now=Доступно обновление
+tcn_upgrade=Обновить
+tcn_please_upgrade=Пожалуйста, обновите Авто!
+tcn_upgraded_success=Обновление прошло успешно!
+tcn_window_title_by_name=[<font color="#ffcc00">{@0:type}</font>] Установите название игрового окна по имени учетной записи!
+tcn_cd_participating=Прохожу тайник!
+tcn_cd_participating_name=Прохожу тайник! [<font color="#ffcc00">{@0:name}</font>]
+tcn_cd_no_more_turns=Из тайника сворачивает!
+tcn_cd_completed_reset_turns=Завершено, сброс поворотов в тайниках!
+tcn_cd_waiting_completion=Ждем завершения создания тайника!
+tcn_cd_stop=Остановите тайник!
+tcn_cd_please_join_3=Запустите тайник Гимнастика
+tcn_cd_cannot_completed_yet=Не могу завершить тайник
+tcn_cd_complete_action=Complete Forbidden Place!
+tcn_cd_go_to_fight_boss_1=Отправляйся сражаться с боссом 1
+tcn_cd_go_to_fight_boss_2=Отправляйся сражаться с боссом 2
+tcn_cd_go_to_fight_boss_3=Отправляйся сражаться с боссом 3
+tcn_cd_fighting_boss_1=Борьба с боссом 1
+tcn_cd_fighting_boss_2=Борьба с боссом 2
+tcn_cd_fighting_boss_3=Борьба с боссом 3
+tcn_cd_boss_1_completed=Завершен босс 1!
+tcn_cd_boss_2_completed=Завершен босс 2!
+tcn_cd_boss_3_completed_go_to_exit=Пройден босс 3, идите к выходу!
+tcn_cd_fixing_jumping=Устраняем проблемы с прыжками!
+tcn_cd_comeback_boss_1=Возвращайтесь к боссу 1!
+tcn_cd_comeback_boss_2=Возвращайтесь к боссу 2!
+tcn_checking_activation=Проверяю активацию...
+tcn_msg_you_not_activated_auto_coc=Вы не активировали функцию автоматического похищения людей!
+tcn_total_con=Total: {@0:num} мешочки
+tcn_num_con={@0:num} мешочки
+tcn_arrested=Арестован: {@0:param}
+tcn_refresh_success=Успешный сброс
+tcn_merchant_param=Торговец [{@0:param}]
+tcn_msg_clean_mail_use_mld=Очисти почту и используй таблетку для очищения души!
+tcn_click_now=Нажмите сейчас
+tcn_installed_success=Установка прошла успешно!
+tcn_domain_web=https://autotcn.com/
+tcn_cur_version=<font color="#47c15b">{@0:version}</font>
+tcn_you_completed_mission=Вы выполнили это задание!
+tcn_quest_chain_intro_nc6_c1=Квесты на баклажаны 6го уровня
+tcn_dots_icon=• 
+tcn_error_icon=<font face="font_tip" color="#c70000">✘</font>
+tcn_done_icon=<font face="font_tip" color="#ff9c22">✓</font>
+tcn_orange_param=<font face="font_tip" color="#ff9c22">{@0:param}</font>
+tcn_nc6_row_param=• <font face="font_tip" color="#9c7d5c">[{@0:map}]</font> {@1:title}   {@2:state}<br>
+tcn_confirm_log_delete=Удалите этот журнал, и АвтоЧит запустит миссию заново!
+tcn_nc6_confirm_log_delete=Удаление сегодняшнего журнала приведет к автоматическому перезапуску квестов шестого уровня!
+tcn_ui_deleted_success=Удаление прошло успешно!
+tcn_msg_tele_to_no_color=Телепортироваться в {@0:map}
+tcn_msg_tele_to=Телепортироваться в <font color="#ffcc00">{@0:map}</font>
+tcn_msg_free_tele_to=Бесплатная телепортация в <font color="#ffcc00">{@0:map}</font>
+tcn_msg_waiting_tele_time=В ожидании <font color="#ffcc00">{@0:num}s</font> КД телепорта.
+tcn_task_state_center_tag=<center>Состояние квеста!</center>
+tcn_complete_task_param=Квест завершен <font color="#47c15b">[{@0:title}]</font>
+tcn_nc6_task_completed=Квесты баклажанов завершены!
+tcn_seems_like_your_chest_full=Похоже <font color="#47c15b">сумка</font> битком!
+tcn_go_to_pos=Иди к <font color="#47c15b">{@0:value}</font>
+tcn_not_found_value=Немогу найти <font color="#ffcc00">{@0:value}</font>
+tcn_nc6_go_to_accept_task=[Принять квест] Иди к <font color="#47c15b">{@0:value}</font>
+tcn_nc6_go_to_reset_task=[Рестарт] Иди к <font color="#47c15b">{@0:value}</font>
+tcn_nc6_fail_reset_task=[Провал] Рестарт квеста <font color="#47c15b">{@0:value}</font>
+tcn_nc6_go_to_claim_reward=[Забрать лут] Иди к <font color="#47c15b">{@0:value}</font>
+tcn_nc6_join_scenario=[Тайная земля] Иди к <font color="#47c15b">{@0:value}</font>
+tcn_waiting_can_not_join_scenario=КД Secret Land <font color="#47c15b">{@0:value}</font> минут!
+tcn_jump_to_water=Прыгай к краю озера!
+tcn_jump_to_pos=Прыжок к <font color="#47c15b">{@0:value}</font>!
+tcn_wait_all_buffs_expire=Дождитесь истечения срока действия всех эффектов!
+tcn_find_and_pick_up_stone=Найти и забрать <font color="#47c15b">{@0:value}</font>
+tcn_picked_up_value=Подобрать <font color="#47c15b">{@0:value}</font>
+tcn_unable_to_pick_up_value=Невозможно подобрать <font color="#47c15b">{@0:value}</font>
+tcn_failure_num_times=Ошибка <font color="#47c15b">{@0:value}</font> время!
+tcn_nc6_wait_columns_appear=Ждите <font color="#47c15b">{@0:num}</font> появления колонн!
+tcn_nc6_pick_up_buff_in_columns=Собирать бафы <font color="#47c15b">колонн</font>!
+tcn_nc6_guide=Пока <font color="#47c15b">телепорт</font> не исчезнет, Чит автоматом откроет <font color="#47c15b">Квест баклажанов 6го нейга</font> который дает <font color="#47c15b">баклажан (жетон)</font> нужно освободить 4 слота!
+tcn_open_luyen_nhom_open_msg=Автоматически откр. Тренировка после: <font color="#ffcc00">{@0:num} секунд</font>!
+tcn_ui_max=Максимум
+tcn_use_param=Использовать: <font color="#ffcc00">{@0:item}</font>
+tcn_use=Использовать
+tcn_task_completed_nc1=Изученный уровень 1
+tcn_task_completed_first_skill_set=Освоенный 1й набор навыков
+tcn_task_not_join_school=Не ходил в школу (бесплатно)
+tcn_task_param_type={@0:name} (подарок)
+tcn_task_interact_note=Интерактивный квест<br><font color="#ff0000">[невозможен к выполнению автоЧита]</font>
+tcn_task_question_info_note=Вопрос квест
+tcn_task_talk_note=Говорить
+tcn_task_interact_info_note=Интерактивный квест
+tcn_task_find_npc_note=Найти NPC
+tcn_task_collect_info_note=Квест сбора
+tcn_task_hunter_info_note=Квест охотника
+tcn_task_story_info_note=Сюжетка
+tcn_task_use_item_info_note=Использовать итем
+tcn_task_special_note=Особый квест<br><font color="#ff0000">[невозможен к выполнению автоЧита]</font>
+tcn_task_convoy_info_note=Квест на повозки
+tcn_task_account_not_support=Учетная запись не поддерживается
+tcn_task_error=Ошибка квеста
+tcn_task_param_block=Блокировать {@0:num} квесты
+tcn_task_reward=Награда за выполнение квеста
+tcn_task_accept_task=Принять квест
+tcn_title_ai=Асистент [AI]
+tcn_title_ui=Auto TCN (UI)
+tcn_title_comeback_setting=Установить обратный отсчет
+tcn_title_qin=Музыка
+tcn_title_select_maps_blink=Выбор блинка
+tcn_title_select_maps_bac_coc=Выбор карты рабов
+tcn_title_auto_coc_setting=Настройки Авто рабов
+tcn_title_auto_coc_statistics=Статистика рабов
+tcn_title_success=Выполнено
+tcn_title_suggest=Совет
+tcn_title_message=Сообщение
+tcn_title_note=Примечание
+tcn_title_info=Информация
+tcn_title_confirm=Подтвердить
+tcn_title_notify=Уведомление
+tcn_title_auto_def=Авто Блок
+tcn_title_auto_swap=Авто замена
+tcn_title_auto_swap_vip=Авто замена ВИП
+tcn_title_auto_buff_ptc=Баф Длань Будды
+tcn_title_auto_swap_setting=Авто Замена Настройки
+tcn_title_shortcuts=Быстрые клавиши
+tcn_title_quest_chain=Цепочка квестов
+tcn_title_auto_task=Авто Квест
+tcn_title_task=Квест
+tcn_title_task_nc5=заданиям пятого нэйгуна [сложный]
+tcn_title_task_nc6=Квест баклажанов (жетонов) 6го нейга
+tcn_title_task_round=Квесты Фракции/Секты
+tcn_title_task_round_support=Помощь: Квесты Фракции/Секты
+tcn_title_auto_thien_the=Лестница в Небо
+tcn_title_exchange_item_thien_the=Обмен предметов Лестницы в Небо
+tcn_title_setup_item_exchange=Настройка обмена товарами
+tcn_title_my_activate=Мой код активации
+tcn_title_farm_ky=Фарм Вэйци
+tcn_title_fixitem=Быстро почините снаряжение, которое вы носите
+tcn_title_fixitem_setting=Настройка быстрого восстановления
+tcn_title_fix_bug_notify=Уведомление об исправлении ошибки
+tcn_title_grow_flower=Сажать цветы (Муронг)
+tcn_title_auto_coc=Рейтинг рабов
+tcn_title_chien_truong=Авто Поле Боя
+tcn_title_auto_login=Авто Вход в игру
+tcn_title_auto_login_set=Настройки авто входа
+tcn_title_chest_password=Пароль от сумки
+tcn_title_auto_tran=Авто Строй
+tcn_title_guard_mode=Режим защиты
+tcn_title_guard_set=Настройка защиты
+tcn_title_chi_bao_set=Сет Цзяньху
+tcn_title_luyen_cong_set=Сет командной трени
+tcn_title_di_tam=Горячий источник
+tcn_title_auto_chat=Чат
+tcn_title_auto_crop=Пахарь
+tcn_title_auto_collect=Коллекция
+tcn_title_auto_collect_set=Настройки коллекции
+tcn_title_receive_and_open_gift=Открытие подарков
+tcn_title_delete_junk_item=Удаление барахла
+tcn_title_auto_escort=Повозки
+tcn_title_auto_event_switch=Возвращение к Владельцу
+tcn_title_auto_receive_mail=Почта
+tcn_title_auto_hang_shop=Торгаш
+tcn_title_choose_map=Выбрать карту
+tcn_title_ride_config=Гора
+tcn_title_fast_mount=Фаст Гора
+tcn_title_auto_fish=Рыбалка
+tcn_title_auto_fish_set=Настройки Рыбалки
+tcn_title_auto_hai_bo=Приказ
+tcn_title_hao_kiet=Легенды Цзяньху
+tcn_title_hao_kiet_set=Настройки Легенд Цзяньху
+tcn_title_hunter=Охотник
+tcn_title_auto_item=Используйте объекты
+tcn_title_auto_item_set=Настройки Узать и удалять предметы
+tcn_title_modskin=Скин персонажа
+tcn_title_mc=Cтрана грез (4)
+tcn_title_spa=Горячие источники
+tcn_title_auto_pick_setting=Настройка АвтоВыбора
+tcn_title_pvn=Утес Фэнъюнь
+tcn_title_pvn_set=Утес Фэнъюнь настройки
+tcn_title_qpvv=Групповые соревнования по боевым искусствам
+tcn_title_auto_skill_set=Авто Бой настройки
+tcn_title_auto_skill=Авто Бой
+tcn_title_task_map=Квесты на карте
+tcn_title_tele=Телепорт
+tcn_title_thth=Путешествуя по миру
+tcn_title_thth_set=Настройки Путешествуя по миру
+tcn_title_tq=Фракция
+tcn_title_tq_set=Настройки Фракции
+tcn_title_train=Тренировка
+tcn_title_train_set=Настройка Тренировки
+tcn_title_choose_buff=Выберать бафф
+tcn_title_class_set=Настройки Школьное обучение
+tcn_title_user_supplemental=Культивация Пилюли
+tcn_title_ngu_hanh_thien_cung=5 Элементов
+tcn_title_lang_tieu_thanh=Камписы
+tcn_title_doc_da_hanh=Ночной странник
+tcn_title_thbb=Бафф Трансформация
+tcn_title_tich_lhq=Бафф Кулак Архата
+tcn_title_auto_sinh_tu_phu=Использовать Руна Жизни и Смерти
+tcn_title_task_accept_and_reward=Принимайте и вознаграждайте задания
+tcn_title_scan_player_around=Сканируйте игроков вокруг
+tcn_title_exchange_dong_xu=Обмен Монета счастья
+tcn_title_luyen_tuu=Тренировка Алкоголя
+tcn_title_copy_configuration=Копировать конфигурацию
+tcn_title_farm_ninja_skill=Farm Ninja skill
+tcn_title_fast_suicide=быстро покончить жизнь самоубийством
+tcn_title_set_account_to_window_name=Включить/выключить использование имени учетной записи в качестве имени окна игры
+tcn_title_exit_combat_state=выйти из боевого состояния
+tcn_title_life_farm_skill=Прокачка профессий
+tcn_title_tvtt=Поддержка Цзин Суй
+tcn_luyen_nhom_tai_cho=Тренировка на месте
+tcn_task_accept_and_reward=Принять/Наградить
+tcn_tn_progress_class_1=Стоп на 100%
+tcn_tn_progress_class_1_hint=Стоп на 100%
+tcn_tn_progress_class_2=До конца
+tcn_tn_progress_class_2_hint=Продолжать, даже после 100%
+tcn_num_input_label=Введите количество:
+tcn_ui_mode=Режим
+tcn_train_around_current_coordinates=Сражайтесь по текущим координатам
+tcn_train_around_set_coordinates=Сражайтесь по заданным координатам
+tcn_train_by_captain=Сражайтесь по словам капитана
+tcn_train_pos_limit_label=Диапазон:
+tcn_train_not_created_team_msg=Вы еще не создали команду или в ней нет участников!
+tcn_waiting_have_not_created_team=You have not created a team yet!
+tcn_msg_file_already_exists_confirm_overwrite=Файл уже <font color="#47c15b">существует</font>! Хотите <font color="#47c15b">перезаписать</font> его?
+tcn_enter_file_name=Введите имя файла
+tcn_tq_waiting_for_team_msg_1=Товарищ по команде <font color="#ffcc00">{@0:name}</font> не прибыл!
+tcn_tq_waiting_for_team_msg_2=Товарищ по команде <font color="#ffcc00">{@0:name}</font> еще далеко!
+tcn_tq_waiting_for_team_msg_3=Товарищ по команде <font color="#ffcc00">{@0:name}</font> находится на расстоянии более 5 м!
+tcn_tq_waiting_for_team_msg_4=Ждем воскрешения товарища по команде <font color="#ffcc00">{@0:name}</font>!
+tcn_tq_waiting_for_team_msg_5=Ждем товарища по команде <font color="#ffcc00">{@0:name}</font> на расстоянии более <font color="#ffcc00">{@1:distance}м</font> от NPC!
+tcn_tq_team_note=Примечание. Если режим ожидания команды включен, функция auto будет ждать, пока соберутся товарищи по команде, прежде чем войти, и автоматически создаст команду, если она еще не создана!
+tcn_ptc_auto_buff_gia_chieu=Автобафф Блокирует движения
+tcn_ptc_auto_attack=Авто Атака
+tcn_ptc_auto_move=Авто перемещение
+tcn_ptc_auto_attack_hint=Отдайте приоритет атаке врагов <font color="#ffcc00">цель</font> на себя, если нет, атакуйте ближайшего врага.
+tcn_ptc_auto_move_hint=Автоматически приближайтесь к целевой позиции для атаки или усиления.
+tcn_ptc_add_hint=Введите имя или выберите <font color="#ffcc00">игрока</font> для <font color="#ffcc00">баффа</font>, затем нажмите <font color="#ffcc00">добавить< /font>, чтобы добавить цель для <font color="#ffcc00">автобаффа</font>.
+tcn_enable_waiting_for_team=<a href="">Включить режим ожидания команды</a>
+tcn_enable_tq_blink=<a href="">Включить режим Блинк в испытании фракций</a>
+tcn_enable_tq_blink_fix_bug=<a href="">Легкий прыжок, чтобы исправить ошибку позиции</a>
+tcn_disabled_tq_blink_fix_bug_mdg=Вы отключили режим прыжка с фиксацией позиции!
+tcn_test_blink_waiting_msg=Может снова Блинкануться через <font color="#ff9c22">{@0:num}</font> секунд!
+tcn_link_test_blink=<a href="">Тест Блинка</a>
+tcn_without_player_can_not_blink_msg=Блинк без игроков безопасно!
+tcn_have_players_can_not_blink_msg=В поле зрения есть игроки, Блинк небезопасен!
+tcn_pick_setting=Настройки выбора предметов
+tcn_doing_label=Делает
+tcn_auto_accept_task_label=Автоматически принимать квесты
+tcn_open_chest=Автоматически открываемые сундуки
+tcn_martial=Боевое искусство
+tcn_martial_book=Родственная книга
+tcn_book_page=Страница книги
+tcn_nc=Внутренние навыки
+tcn_technique=Техники
+tcn_am_khi=Скрытое оружие
+tcn_qinggong_1=Навык полета 1
+tcn_qinggong_2=Навык полета 2
+tcn_zhenfa=Тактическое построение
+tcn_facultybook_chip=Аннотация фрагментов
+tcn_ore=Руда
+tcn_fabric=Ткань
+tcn_wood=Дрова
+tcn_herbal=Трава
+tcn_doc_thao=Ядовитые травы
+tcn_pelts=Шкурки
+tcn_item_ton=Потребление
+tcn_do_pho=Руководство по эксплуатации
+tcn_additional=Дополнительный
+tcn_choose_zhenfa=Выберите строй
+tcn_link_captain=<a href="">Капитан</a>
+tcn_pvn_captain_hint=<font color="#47c15b">Капитан</font> — это тот, кто открывает <font color="#47c15b">проход</font> и имеет возможность пригласить <font color="#47c15b">команду участники</font> (Платно).
+tcn_link_member=<a href="">Участник</a>
+tcn_pvn_member_hint=<font color="#47c15b">Участникам</font> необходимо приглашение для входа в <font color="#47c15b">проход</font> (бесплатно).
+tcn_pvn_name_input_hint=Введите имя <font color="#47c15b">участника</font>, которого хотите пригласить! Вы можете вводить <font color="#47c15b">пробелы</font>, они автоматически <font color="#47c15b">автоматически удалят</font>!
+tcn_pvn_bug_lam=Игрокам необходимо изучить <font color="#47c15b">Ловля Воробья</font>, и Auto будет расставлять приоритеты с помощью <font color="#47c15b">Ловля Воробья (Древнее руководство)</font><br> (Оплаченный)!
+tcn_pvn_round=Количество раундов: <font color="#ffcc00">20</font>
+tcn_pvn_round_param=Number of rounds: <font color="#ffcc00">{@0:num}</font>
+tcn_pvn_fee_note=Функции <font color="#47c15b">Капитан</font> и <font color="#47c15b">Ловля Воробья</font> являются <font color="#47c15b">платными</font> функциями. !
+tcn_pvn_set_note=Примечание. На этажах <font color="#c0b393">21–30</font> не было <font color="#c0b393">избегаемых навыков</font> и не было <font color="#c0b393">тестового запуска. </font>!
+tcn_bug_lam_thien_ma_note=Без Ловли Воробья будет использоваться Небесный Скакун!
+tcn_bag_fixitem_hint=Это функция <font color="#ffcc00">Элемент быстрого исправления</font> в <font color="#ffcc00">AutoTCN</font>.
+tcn_bag_shop_hint=Это функция <font color="#ffcc00">Продукты</font> в <font color="#ffcc00">AutoTCN</font>.
+tcn_bag_open_tiem_tuy_than_hint=Is an open <font color="#ffcc00">Personal Pawnshop</font> feature of <font color="#ffcc00">AutoTCN</font>
+tcn_bug_when_label=Использовать Воробья<br>Когда HP ниже (%):
+tcn_auto_remove_space=Введите пробелы, Auto автоматически удалит их!
+tcn_invite_team_label=Пригласить команду:
+tcn_select_floors=Выберите этажи
+tcn_link_pick_flower=<a href="">Собрать цветы</a>
+tcn_mc_note=<font face="font_tip" color="#c0b393">Примечание:</font><br>• Авто Страна грез (4)<br>• Квест 100 очков
+tcn_modskin_label_1=Удалить и обновить функцию
+tcn_modskin_label_2=Лорка
+tcn_modskin_label_3=Оружие
+tcn_modskin_rv_hair=Снять шлем
+tcn_modskin_rv_shirt=Снять Парчу
+tcn_modskin_rv_trousers=Снять Штаны
+tcn_modskin_rv_shoes=Снять Обувь
+tcn_modskin_rv_weapons=Снять Оружие
+tcn_modskin_rv_cloak=Снять Плащ
+tcn_modskin_rv_jewelry_1=Снять Талию
+tcn_modskin_rv_jewelry_2=Снять Зад
+tcn_modskin_rv_mask=Удалить маску
+tcn_modskin_rv_horse=Удалить лошадь
+tcn_modskin_normal_hair=Шлем
+tcn_modskin_pvc_hair=Лорка Шлем
+tcn_modskin_normal_shirt=Парча
+tcn_modskin_pvc_shirt=Лорка Парча
+tcn_modskin_trousers=Штаны
+tcn_modskin_shoes=Обувь
+tcn_modskin_identity_set=Фирменный Наряд
+tcn_modskin_jewelry_2=Аксессуары для спины
+tcn_modskin_jewelry_1=Поясные аксессуары
+tcn_modskin_mask=Маска
+tcn_modskin_horse=Лошадь
+tcn_modskin_cloak=Мантия
+tcn_modskin_sword=Меч
+tcn_modskin_dual_swords=Мечи
+tcn_modskin_blade=Сабля
+tcn_modskin_dual_blade=Сабли
+tcn_modskin_cosh=Жезл
+tcn_modskin_long_cosh=Посох
+tcn_modskin_short_sword=Кинжал
+tcn_modskin_dual_thorn=Ваджры
+tcn_modskin_bow=Лук
+tcn_modskin_enable=<a href="">Включить мод скина</a>
+tcn_modskin_enable_hint=Активируйте мод скин, поставив галочку!
+tcn_modskin_enable_change=Режим <font color="#ffcc00">{@0:type}</font> изменен на <font color="#ffcc00">модовый скин</font>!
+tcn_modskin_error_model=Ошибка модели: {@0:model}
+tcn_modskin_mount_change=Применен данный тип крепления. Если вы на лошади, пожалуйста, слезьте и снова подзовите лошадь. Если вы не на лошади, садитесь на нее, чтобы подать заявку!
+tcn_pickup_all=Забрать все
+tcn_choose_lam=Выберите «Воробья».
+tcn_how_works=Как это работает
+tcn_auto_lam_type_1=Полное HP, MP
+tcn_auto_lam_type_2=Когда брошен
+tcn_auto_lam_type_1_note=<font color="#47c15b">Примечание:</font><br>- Хак отхила с помощью Воробья.<br>- <font color="#FF0000">Эта функция считается жестким читом. , используйте его только в тайниках.</font>
+tcn_auto_lam_type_2_note=<font color="#47c15b">Примечание:</font><br>- Ошибка: Используйте Воробья, когда вас бросают (нет эффекта при оглушении).<br>- <font color="#FF0000">Эта функция считается Читом, используйте ее только в тайниках.</font>
+tcn_reduce_speed_fix_lag=Уменьшить скорость (уменьшить задержку)
+tcn_auto_item_note=Примечание. Неправильные настройки баффов приведут к тому, что автоматические предметы будут использоваться непрерывно.
+tcn_delete_junk=Удалить мусор
+tcn_pick_vlts=Возьмите книгу Вулиня.
+tcn_pick_dot_pha_nc=Возьмите сценарий обучения внутренним навыкам
+tcn_pick_bao_vat=Собирайте сокровища
+tcn_hao_kiet_enable_farm_dot_pha_mode=Включить режим фермы сценария внутреннего обучения навыкам
+tcn_hao_kiet_farm_dot_pha_msg=Режим <font color="#ffcc00">Ферма сценариев внутренней тренировки навыков</font> автоматически пропускается, если появляется только <font color="#ffcc00">1</font> босс!
+tcn_hao_kiet_farm_dot_pha_hint=При выборе этого режима, если Хао Киет встретит <font color="#c0b393">1 босса</font>, он автоматически <font color="#c0b393">выйдет</font> без боя. Фармите монстров, пока не столкнетесь с <font color="#c0b393">2 боссами</font> Jianghu Legends одновременно, чтобы получить сценарий обучения внутренним навыкам!
+tcn_auto_hai_bo_guide=<font color="#c0b393">Руководство:</font> Нажмите, чтобы открыть ниже, введите точное <br>имя игрока.
+tcn_choose_city=Выберите город
+tcn_only_accept_free_quests=Принимайте только бесплатные квесты
+tcn_keep_label=Сохранить:
+tcn_accept_team=Принять команду
+tcn_escort_clear_mail_use_mld=Очистите почту и используйте Таблетку ясной души.
+tcn_escort_mld=Таблетка ясной души
+tcn_escort_round=Эскорт
+tcn_today_completed_label=Сегодня завершено:
+tcn_auto_escort_team_guide=Примечание. Если <font color="#ffcc00">отключено</font>, при принятии команды будет создана команда из <font color="#ffcc00">6</font> человек!
+tcn_auto_escort_mld_maximum_limit=Максимум <font color="#ffcc00">680</font> Пилюля чистой души!
+tcn_delete_paint=Удаление чертежа
+tcn_delete_junk_item=Удалить мусор
+tcn_delete_item_by_list=Удалить элементы по списку
+tcn_luyen_cong_set_label=Установить командную практику
+tcn_luyen_cong_invite=Создать командную практику
+tcn_luyen_cong_join=Только присоединиться
+tcn_luyen_cong_invite_or_join=Создавайте командную практику только в том случае, если ее еще никто не создавал.
+tcn_enable_guard_mode=Активировать режим защиты
+tcn_on_off_guard=Включить/выключить функцию защиты
+tcn_chat_setting=Настройки чата
+tcn_chat_vt=Матерный чат
+tcn_chat_tn=Вежливый чат
+tcn_guard_fight_back_setting=Настройка борьбы
+tcn_guard_not_fight_back=Не сопротивляйтесь
+tcn_guard_fight_back_high_type=Борьба насмерть
+tcn_guard_fight_back_low_type=Перестаньте драться, когда близки к смерти
+tcn_restart_another_feature_after_being_hit=Перезапуск другой функции после удара (минуты)
+tcn_chat_test=Чат тест
+tcn_auto_use_ck=Используйте таблетку Ци
+tcn_auto_use_dcd=Используйте таблетки сухожилий
+tcn_auto_use_tv=Используйте таблетку культивации
+tcn_auto_get_mail=Автоматическое получение почты
+tcn_btn_history=История
+tcn_choose_seeds_label=Выбор семян:
+tcn_seeds=Семена
+tcn_get_seeds=Получение семян
+tcn_radius_label=Радиус:
+tcn_add_seeds_guide=Нажмите <font color="#47c15b">Получить семена</font>, чтобы автоматически добавить все <font color="#47c15b">семена</font> из <font color="#47c15b">хранилища</font > в слот <font color="#47c15b">Семена</font>!
+tcn_saved_scrap_silver_label=Сохраненный серебряный лом (L):
+tcn_harvest_time_label=Осталось времени сбора урожая (мин):
+tcn_harvest_time_hint=Настройте <font color="#47c15b">Время сбора урожая</font>, если оно неверно. После настройки оно будет <font color="#47c15b">автоматически</font> сохранено!
+tcn_input_money_hint=Автоматически покупать цветы, когда доступен <font color="#47c15b">Лом серебра</font>, оставаясь <font color="#47c15b">настроенным</font>, покупка прекращается, когда не хватает лома серебра или когда настроенный бафф заканчивается!
+tcn_ui_revenge_quit=Завершение соединения
+tcn_thien_the_on_off_tgv_exchange=Включить/выключить обмен предметов в Чэн Цзеюн
+tcn_thien_the_on_off_tn_exchange=Включить/выключить обмен предметами в Торговец Небесной лестницей
+tcn_thien_the_note=Если количество матчей неверное, выключите и снова включите функцию арены испытаний «Небесная лестница», чтобы обновить счетчик матчей!
+tcn_thien_the_go_to_exchange_xm_mark_01=Перейти на обмен меча
+tcn_thien_the_warning_miss_item=У вас недостаточно <font color="#ffcc00">[Травы галки]</font>, пропустите миссию <font color="#ffcc00">[Чжоу Исянь]</font>.
+tcn_ui_taskfinish=Выполнено
+tcn_ui_condition_pass=В настоящее время имеет право на участие
+tcn_ui_event_has_ended=Мероприятие окончено
+tcn_ui_not_time_event_yet=Еще не время для мероприятия
+tcn_support_param=Поддержка: <font color="#ffcc00">{@0:value}</font>
+tcn_ponit=Точки
+tcn_name=Имя
+tcn_time=Время
+tcn_time_label=Время:
+tcn_progress=Прогресс
+tcn_progress_label=Прогресс:
+tcn_receiver=Получатель
+tcn_round=Раунд
+tcn_map=Карта
+tcn_unfollow=Отписаться
+tcn_join_param=Присоединиться: <font color="#47c15b">{@0:value}</font>
+tcn_joined_param=Присоединён: <font color="#47c15b">{@0:value}</font>
+tcn_join_schools=Вступить в школу
+tcn_join_schools_choose_maximum_progress=Выберите максимальный прогресс (Присоединиться к школе)
+tcn_allow_blink=Разрешить Блинк
+tcn_allow_sitcross=Разрешить игру сидя
+tcn_mark_on_map=Отметить на карте
+tcn_go_to_target_obj=К цели
+tcn_guide=Руководство
+tcn_newbie_guide=Руководство для новичков
+tcn_msg_confirm_open_func=Откройте функцию <font color="#47c15b">{@0:value}</font>. Нажмите «Продолжить», чтобы запустить «Авто!».
+tcn_auto_crop_introduce=Текущая версия <font color="#47c15b">Автоматически</font> найдет <font color="#47c15b">пустое</font> место для посева семян, если текущее место <font color="#47c15b" ">полное</font>!
+tcn_there_are_no_valid=Здесь нет подходящих <font color="#ffcc00">{@0:name}</font>!
+tcn_crop=Сажать урожай
+tcn_silkworm=Выращивание шелкопряда
+tcn_grow_flower=Сажать цветы
+tcn_grow_flower_nlb=Сажать цветы (Дамба Нянло)
+tcn_msg_confirm_open_profession_func=Автоматически будет <font color="#ffcc00">{@0:value}</font>. Продолжить открытие функции?
+tcn_not_found_profession_npc=NPC по профессии не найден!
+tcn_auto_def=Авто защита
+tcn_auto_cancel_def=Авто отмена защиты
+tcn_blink=Блинк
+tcn_jogging=Пробежка
+tcn_qin_buff=Баф
+tcn_qin_training=Режим тренировки
+tcn_enter_content_hint=Введите содержимое!
+tcn_enter_content_label=Введите содержимое:
+tcn_add_pos=Добавить позицию
+tcn_cur_pos=Текущая позиция
+tcn_pos_label=Позиция:
+tcn_pos_label_param=Позиция: <font color="#47c15b">{@0:value}</font>
+tcn_choose_pos=Выберите позицию
+tcn_choose_pos_label=Выберите позицию:
+tcn_select_target_label=Выбор цели:
+tcn_all_enemies=Все враги
+tcn_by_names_list=По списку имен
+tcn_add_all=Добавить все
+tcn_get_coordinates=Получить координаты
+tcn_get_pos=Получить позицию
+tcn_get_pos_map=Получить позицию (Карта)
+tcn_get_current_pos=Получить текущую позицию
+tcn_can_mark_on_map_guide=Можете <font color="#47c15b">отметить</font> на карте, а затем нажать сюда!
+tcn_get_coordinates_dotted_on_map=Получить координаты, отмеченные на карте
+tcn_go_to_setup_pos_note=Переместится в указанное место, если установлено!
+tcn_qin_training_pos_note=Играть музыку на месте, используется для прокачки!
+tcn_auto_revives_nearby=Автовозрождение поблизости
+tcn_qpvv_guide=<font face="font_tip" color="#c0b393">Руководство:</font><br>• Введите координаты в 2 поля.<br>• Отметьте на карте » Получить поз.
+tcn_qpvv_available_coordinates=<font face="font_tip" color="#c0b393">Доступные координаты:</font>
+tcn_qpvv_blue_note=<font face="font_text">• Синий:</font> <font face="font_tip" color="#0096FF">307, -319</font> <a href="">Получить</a>
+tcn_qpvv_red_note=<font face="font_text">• Красный:</font> <font face="font_tip" color="#c70000"> 163, -742</font> <a href="">Получить</a>
+tcn_qpvv_support_maps_label=<font face="font_tip" color="#c0b393">Поддержка карт:</font>
+tcn_qpvv_support_maps=• Групповые соревнования по боевым искусствам <br> • Ночной город
+tcn_times=Время
+tcn_choose_maps_allow_jump=Выбирайте карты, позволяющие использовать Блинк!
+tcn_auto_revives_nearby_note=Автовозрождается рядом после смерти!
+tcn_coc_bat_khi_con_buff=Активировать, пока он еще забафан:
+tcn_coc_vi_tri_om_coc=Положение мешков:
+tcn_coc_vi_tri_om_coc_info=Позиция переноса мешков, позволяет игрокам настраивать ее на каждой карте, в противном случае автоматически выберет ближайшую позицию торговца!
+tcn_choose_pos_note=Примечание. Выберите положение, в которое может переместиться авто, не выбирайте углы лагов, на крышах, на деревьях, под водой и т. д.
+tcn_coc_comeback_info=Позиция, к которой можно вернуться после продажи, позволяет игрокам настраивать ее на каждой карте. Если нет, автоматически выберет позицию по умолчанию!
+tcn_coc_auto_receive_and_open_gift_hint=Автоматически получите и откройте <font color="#47c15b">сумку с наградами за ежедневное участие</font> в <font color="#47c15b">20:00</font>. Кроме того, используйте <font color="#47c15b">Праздничную карту</font> каждый день автоматически.
+tcn_coc_auto_throw_money_hint=После <font color="#47c15b">продажи кокоса</font>, если у игрока есть <font color="#47c15b">7D</font> или больше разменки, он автоматически активирует <font color="# 47c15b">Режим заливки серебра</font>, пока оно не станет ниже уровня <font color="#47c15b">2D</font> разменки или пока не закончится <font color="#47c15b">бафф</font> , тогда он остановит режим <font color="#47c15b">Серебряная заливка</font>!
+tcn_coc_checked_throw_money=Включить функцию броска серебряных монет
+tcn_coc_checked_black_market_trader=Включить функцию теневых торговцев
+tcn_coc_checked_receive_and_open_gift=Включите пакет вознаграждений за ежедневный вход и молитесь (бесплатно)
+tcn_coc_max_8_min=Максимальное время 8 минут
+tcn_auto_swap_note=<font color="#c0b393">Примечание:</font> Один ход, одна ячейка и неразличимы на страницах.<br>Если ходы перекрываются, сделайте первый ход в порядке от страницы 1 до страницы 6.
+tcn_time_hour=Час
+tcn_time_min=Минута
+tcn_time_sec=Секунда
+tcn_ky_ngo_xin=Фонари (VIP)
+tcn_ky_ngo_dom=Фонари (Плохие)
+tcn_ky_ngo_skip=Пропуск Фонаря
+tcn_auto_login_create_account=Создайте аккаунт
+tcn_auto_login_offline_set_free=Эффекты релиза
+tcn_auto_login_offline_set_free_link=<a href="">Эффекты релиза</a>
+tcn_auto_login_offline_set_free_hint=Устанавливается для текущего раздела! После освобождения эффектов он телепортируется на выбранную карту!
+tcn_auto_login_run_ai_function=Запустить Ассистент [AI]
+tcn_auto_login_run_ai_function_link=<a href="">Запустить Ассистент [AI]</a>
+tcn_auto_login_luyen_chi_bao=Сокровища Цзяньху
+tcn_auto_login_luyen_chi_bao_link=<a href="">Сокровища Цзяньху</a>
+tcn_auto_login_luyen_cong=Тренировка
+tcn_auto_login_luyen_cong_link=<a href="">Тренировка</a>
+tcn_auto_login_learning_nc2=Откройте подарочную коробку и обменяйте 2й нейгун.
+tcn_auto_login_learning_nc2_link=<a href="">Изучите 2й нейгун</a>
+tcn_auto_login_learning_nc3=Откройте подарочную коробку и обменяйте 3й нейгун
+tcn_auto_login_learning_nc3_link=<a href="">Изучите 3й нейгун</a>
+tcn_auto_login_learning_nc6=Откройте подарочную коробку и обменяйте 6й нейгун
+tcn_auto_login_learning_nc6_link=<a href="">Изучите 6й нейгун</a>
+tcn_auto_login_quest_chain=Цепочка квестов
+tcn_auto_login_quest_chain_link=<a href="">Цепочка квестов</a>
+tcn_auto_login_nhan_tinh_bao=Разведка VIP
+tcn_auto_login_nhan_tinh_bao_link=<a href="">Разведка VIP</a>
+tcn_auto_login_sinh_tu_phu=Принять Руна Жизни и Смерти
+tcn_auto_login_sinh_tu_phu_link=<a href="">Принять Руна Жизни и Смерти</a>
+tcn_auto_login_auto_job=Учиться ремеслу
+tcn_auto_login_auto_job_link=<a href="">Учиться ремеслу</a>
+tcn_auto_login_optional_function=Дополнительные функции
+tcn_auto_login_optional_function_link=<a href="">Дополнительные функции</a>
+tcn_auto_login_note=Примечание. Сначала выберите «раздел», а затем — функцию!
+tcn_auto_login_start_hint=Начните <font color="#47c15b">автоматический</font> вход в систему!
+tcn_auto_login_ascending_name=Имя в порядке возрастания
+tcn_auto_login_random_name=Случайное имя
+tcn_auto_login_section_paran=Раздел {@0:num}
+tcn_auto_login_choose_section=Выберите раздел
+tcn_auto_login_section_label=Раздел:
+tcn_auto_login_setting_nc_max_level=Установите максимальный уровень!
+tcn_auto_login_learning_nc_hint=Автоматически открыть подарочную коробку и обменять нейгун
+tcn_auto_login_random_name_hint=<font color="#ffcc00">Случайные</font> имена можно задать только <font color="#ffcc00">вручную</font>!
+tcn_auto_login_enter_max_exchange_level=Введите максимальный уровень для обмена:
+tcn_auto_login_selected_level_param=Вы выбрали уровень: <font color="#ffcc00">{@0:num}</font>
+tcn_auto_login_selected_data_incorrect=Неверные данные для раздела <font color="#ffcc00">[{@0:num}]</font>!
+tcn_auto_login_you_can_exchange_max_is_param=Вы можете обменять не более <font color="#ffcc00">{@0:value}</font> уровней!
+tcn_auto_login_open_edit_name_file=Откройте файл <font color="#47c15b">редактировать имя</font> для функции «Создать учетную запись»!
+tcn_auto_login_start_num_guide=Введите <font color="#47c15b">начальный</font> номер (который будет добавлен к <font color="#47c15b">имени пользователя</font>, начиная с <font color="#47c15b">start</font> до <font color="#47c15b">конец</font>)<br><font color="#47c15b">Пример:</font> Имя пользователя: <font color="#47c15b">autotcn </font>, текущий номер <font color="#47c15b">1</font> => <font color="#47c15b">autotcn1</font>!
+tcn_auto_login_end_num_guide=Введите <font color="#47c15b">конечный</font> номер (будет добавлен к <font color="#47c15b">имени пользователя</font>, начиная с <font color="#47c15b">start </font> до <font color="#47c15b">end</font>)<br><font color="#47c15b">Пример:</font> Имя пользователя: <font color="#47c15b">autotcn </font>, текущий номер <font color="#47c15b">1</font> => <font color="#47c15b">autotcn1</font>!
+tcn_auto_login_save_cur_section=Сохранить для выбранного <font color="#47c15b">раздела</font>!
+tcn_auto_login_get_mail_user_kt=Получайте почту, используйте Артефакт
+tcn_auto_login_get_mail_user_tn=Получайте почту, используйте постижение
+tcn_nghe_ren=Кузнец
+tcn_nghe_may=Портной
+tcn_nghe_xao=Ремесленник
+tcn_shortcuts_ai=TCN Ассистент (Ctrl + Shift + A)
+tcn_shortcuts_auto_ct=Поле битвы (Ctrl + Shift + B)
+tcn_shortcuts_auto_coc=Рабы (Ctrl + Shift + C)
+tcn_shortcuts_auto_def=Автозащита (Ctrl + Shift + D)
+tcn_shortcuts_auto_vt=Повозки (Ctrl + Shift + E)
+tcn_shortcuts_auto_item=Автоиспользование предметов (Ctrl + Shift + I)
+tcn_shortcuts_auto_skill=Автоскил (Ctrl + Shift + S)
+tcn_shortcuts_auto_train=Автобой (Ctrl + Shift + T)
+tcn_shortcuts_auto_fixitem=Починка экипировки (Ctrl + Shift + F)
+tcn_shortcuts_auto_find_player=Сканируйте игроков вокруг (Ctrl + Shift + Q)
+tcn_shortcuts_auto_thbb=Бафф Трансформация (Ctrl + Shift + H)
+tcn_shortcuts_shortcut_interface=Быстрые команды (Ctrl + K)
+tcn_shortcuts_auto_hang_shop=Торгаш Рынок (Ctrl + P)
+tcn_shortcuts_auto_task_new=Авто квесты (Ctrl + N)
+tcn_shortcuts_auto_blink=Блинк (Ctrl + B)
+tcn_shortcuts_auto_tcn=Меню TCN (Ctrl + U)
+tcn_shortcuts_tele=Телепорт (Ctrl + T)
+tcn_shortcuts_auto_receive_mail=Почта (Ctrl + M)
+tcn_shortcuts_auto_bug_lam=Воробей +100% (Ctrl + L)
+tcn_shortcuts_auto_buff_ptc=Баф Длань Будды (Shift + B)
+tcn_fixitem_auto_coc=Быстро ремонтируйте шмот в режиме «Автопохищение».
+tcn_fixitem_auto_train=Быстро ремонтируйте предметы на автобое
+tcn_fixitem_auto_tiguan=Быстро ремонтируйте предметы в Силах.
+tcn_fixitem_auto_thth=Быстро ремонтируйте предметы в автоматическом роуминге по миру
+tcn_fixitem_auto_haojie=Быстро ремонтируйте предметы в Легенды Цзяньху
+tcn_fixitem_auto_hunter=Быстрый ремонт предметов в Охотнике
+tcn_fixitem_auto_thien_the=Быстро ремонтируйте предметы на Лестнице в Небо.
+tcn_fixitem_auto_battle=Быстро ремонтируйте предметы в Поле Битвы.
+tcn_fixitem_auto_task_round=Быстро ремонтируйте предметы в режиме Секты/Фракция.
+tcn_fixitem_auto_task_nc6=Быстро ремонтируйте предметы в Квесты 6го нейгуна.
+tcn_fixitem_auto_task_new=Быстрый ремонт предметов в Квестов
+tcn_fixitem_auto_throw_money=Быстро ремонтируйте предметы после «Бросить разменку».
+tcn_fixitem_auto_cd=Быстрый ремонт предметов в Школьное обучение
+tcn_fixitem_btn=Элементы быстрого ремонта
+tcn_fixitem_note=Чтобы быстро починить оборудование:<br>Напишите в чате <font color="#c0b393">/fix</font> или нажмите <font color="#c0b393">Ctrl + Shift + F</font>
+tcn_fixitem_hint=Автоматически починить <font color="#47c15b">шмот</font> с прочностью от <font color="#47c15b">50 %</font> вниз по сравнению с <font color="#47c15b">максимальной< /font> прочностью предмета!
+tcn_loading_init_data=Инициализация данных
+tcn_loading_init_user_package=Авто инициализируется
+tcn_loading_activate=Активация
+tcn_loading_auto_coc_maps=Получение списка карт похищений
+tcn_loading_auto_coc_map_detail=Загрузка
+tcn_loading_moi_gio_tham_lam=Получение данных о теневых продавцах
+tcn_loading_task_new=Инициализация данных
+tcn_loading_task_round=Получение информации о миссии
+tcn_loading_auto_login=Инициализация данных
+tcn_loading_news=Загрузка
+tcn_loading_check_activate=Проверка активации
+tcn_loading_check_update=Проверка обновлений
+tcn_loading_upgrade_progress=Обновление AutoTCN
+tcn_loading_my_activation_code=Загрузка
+tcn_loading_get_player_config=Загрузка
+tcn_loading_backup_player_config=Резервное копирование настроек
+tcn_chat_get_final=Последняя строка чата
+tcn_chat_type_1_note=Рядом, Сцена, Школа, Затворник, Фракция, Восточные моря (сек)
+tcn_chat_type_2_note=Гильдия, Альянс (сек)
+tcn_chat_type_3_note=World (сек)
+tcn_chat_type_1_hint=Минимальное время 10с
+tcn_chat_type_2_hint=Минимальное время 10 с.
+tcn_chat_type_3_hint=Минимальное время 60 c.
+tcn_chat_msg_type_1=Рядом, Сцена, Школа, Затворник, Фракция, Чат Восточных морей с минимальным временем 10 секунд.
+tcn_chat_msg_type_2=Чат гильдии, альянса с минимальным временем 10 с.
+tcn_chat_msg_type_3=World с минимальным временем 60 с.
+tcn_npc_tran_goi_van=Cheng Jieyun
+tcn_npc_thuong_nhan=Торговец Лестницы в Небо
+tcn_enter_activation_code_label=Введите код активации:
+tcn_enter_my_activation_code=Введите Ваш код активации
+tcn_check_update=Проверить обновление
+tcn_commands=Список команд
+tcn_version=Версия
+tcn_ui_functions=Меню
+tcn_zero_box=0 ящиков
+tcn_num_boxs={@0:value} Ящики
+tcn_num_pills={@0:value} Пилюли
+tcn_num_pieces={@0:value} Штуки
+tcn_num_sets={@0:value} Наборы
+tcn_edit_name=Изменить имя
+tcn_edit_manual=Редактировать вручную
+tcn_open_edit_manual=Откройте файл <font color="#47c15b">ручного редактирования</font>!
+tcn_you_not_learned_param=Вы не изучили <font color="#ffcc00">[{@0:value}]</font>
+tcn_chest_password_invalid=Неверный пароль от сундука!
+tcn_chest_password_removed=Успешно удален пароль от сундука!
+tcn_incorrect_password=Неверный пароль!
+tcn_from=От
+tcn_to=К
+tcn_joining_match=Присоединение к паре
+tcn_stop_exchange_swords=Остановить обмен Меча Чистого Ян
+tcn_stop_exchange=Остановить обмен
+tcn_start_exchange=Начать обмен
+tcn_warning_ai_running_other_task=Запускаю другое задание, обмен предметами невозможен!
+tcn_item_exchange_stopped=Автообмен предметов остановлен!
+tcn_completed_item_exchange=Обмен предмета завершен!
+tcn_return_to_morgue=Вернитесь в Точку Возрождения!
+tcn_blink_to_param_m=Блинк к: <font color="#ffcc00">{@0:distance}m</font>
+tcn_distance_param_m=Дистанция: <font color="#ffcc00">{@0:distance}m</font>
+tcn_distance_label=Дистанция:
+tcn_arrived=Прибыл!
+tcn_in_coma=Кома
+tcn_stop_blink=Стоп Блинк
+tcn_btn_blink_to=Блинк к
+tcn_btn_go_to_coordinates=Координаты
+tcn_msg_auto_correcting_jumps=Автокоррекция прыжков!
+tcn_please_enter_x=Введите Х!
+tcn_please_enter_y=Введите Y!
+tcn_enter_x=Введите X
+tcn_enter_y=Введите Y
+tcn_please_mark_on_map=Пожалуйста, <font color="#ffcc00">отметьте местоположение</font> на карте!
+tcn_marked_on_map_taken=Отмеченная позиция на карте занята!
+tcn_target_not_found=Цель не найдена!
+tcn_enter_player_name=Введите имя игрока!
+tcn_enter_name_required=Имя не введено!
+tcn_tele_advanced_link=<a href="">Расширенный телепорт</a>
+tcn_tele_advanced_link_hint=Продвинутый Теле (No cooling down)
+tcn_msg_no_task=Нет заданий!
+tcn_msg_no_support_my_schools=Не поддерживается для вашей школы!
+tcn_time_to=к
+tcn_hint_from_to={@0:type} из {@1:form}->{@2:to}
+tcn_please_wait_num_time=Подождите <font color="#ffcc00">{@0:секунды} сек</font>, прежде чем начинать снова!
+tcn_note_show_chat_info=Информация будет отображаться на панелях чата <font color="#47c15b">Комбинация</font> и <font color="#47c15b">Рейд</font>. Содержимое видно только Вам!
+tcn_activate_countdown=Активировать ({@0:second})
+tcn_sookshelves=Книжная полка
+tcn_book_box=Разбросанный книжный шкаф
+tcn_book_bearer=Книжник
+tcn_find_books_stopped=Перестал искать книги!
+tcn_list_attack_you=Люди, атакующие вас
+tcn_please_select_chat_type=Выберите хотя бы 1 тип чата!
+tcn_enemy_param=Enemy: {@0:name}
+tcn_enemy_not_found=Врагов не обнаружено
+tcn_msg_guard_mode_start=Активирован режим защиты!
+tcn_msg_guard_mode_stop=Остановлен режим защиты!
+tcn_not_tele=Нет телепорта
+tcn_you_selected_map_success=Вы успешно выбрали <font color="#ffcc00">{@0:map}</font>!
+tcn_format_error=<font color="#c70000">{@0:msg}</font>
+tcn_msg_invalid_item=Неверный итем!
+tcn_auto_toa_ky_guide=Поместите сюда Свисток или Оседлавший ветер и вынесите их для стака функций!
+tcn_throw_money_start=Бросить деньги
+tcn_throw_money_stop=Перестать бросать деньги
+tcn_msg_throw_money_enabled=Включено бросание серебряных монет!
+tcn_msg_throw_money_stopped=Выключено бросание серебряных монет!
+tcn_qin_player=Музыкант
+tcn_msg_find_qin_stopped=Стоп Музыкант
+tcn_find_qin_start=Найти музыканта
+tcn_find_qin_stop=Стоп поиск музыканта
+tcn_show_hp_percent=Показать % HP
+tcn_hide_hp_percent=Скрыть % HP
+tcn_btn_farm_ky_stop=Стоп Шахматы
+tcn_btn_farm_ky_start=Фарм Шахмат
+tcn_find_books_start=Фарм Книжник
+tcn_find_books_stop=Стоп Книжник
+tcn_find_tree_start=Фарм дерева
+tcn_find_tree_stop=Стоп дерева
+tcn_de_ping_start=Де Пинг
+tcn_de_ping_stop=Стоп Де Пинг
+tcn_commands_chat_title=-------------------- <font face="font_title" color="#47c15b">Чат</font> --------------------<br>
+tcn_commands_shortcuts_title=<br>-------------------- <font face="font_title" color="#ff9c22">Ярлыки</font> --------------------<br>
+tcn_enter_fps_label=Set FPS:
+tcn_fps_guide=Set to <=FPS по умолчанию!
+tcn_set_fps_max=Установите максимальный <font color="#ffcc00">{@0:value}</font> FPS
+tcn_msg_notify_not_found=Нет уведомления или невозможно загрузить уведомление!
+tcn_msg_please_wait=Подождите <font color="#ffcc00">{@0:секунды} сек</font>, прежде чем начинать снова!
+tcn_btn_delete_hint=Удалите <font color="#47c15b">{@0:config}</font> из списка!
+tcn_receive_mail_btn_hint=Удалите <font color="#47c15b">{@0:config}</font> из списка вывода почты!
+tcn_add_item_guide=Возьмите предмет <font color="#47c15b">в руки</font> и поместите его сюда!
+tcn_add_item=Добавить предмет
+tcn_receive_mail_warning=Вы еще не добавили предмет в список!
+tcn_msg_not_time_yet=Еще не время!
+tcn_msg_auto_def_monster_enabled=<font color="#ffcc00">Защита мобов</font> активирована!
+tcn_msg_auto_def_monster_stopped=<font color="#ffcc00">Защита мобов</font> остановлена!
+tcn_msg_cancel_def_skill=<font color="#ff00ff">[{@0:skill}]</font> (Отменить защиту)
+tcn_hint_lock_arrange_manual=<font color="#47c15b">AutoTCN</font> временно отключен во избежание ошибок</font>, будет снова включен через несколько секунд!
+tcn_tele_msg_warning=Невозможно телепортироваться на эту карту!
+tcn_tele_data_error=Ошибка данных телепорта
+tcn_go_to_coc_format=Переместитесь к: <font color="#ffcc00">{@0:name}</font> – [Усиление: <font color="#ffcc00">{@1:buff}</font>] – [Расстояние: <font color="#ffcc00">{@2:distance}м</font>]
+tcn_go_to_merchant_format=Перейти к продавцу [<font color="#ffcc00">{@0:name}</font>] – Расстояние: <font color="#ffcc00">{@1:distance}м</font>
+tcn_go_to_pos_format=Перейдите к позиции [<font color="#ffcc00">{@0:name}</font>] – Расстояние: <font color="#ffcc00">{@1:distance}м</font>
+tcn_auto_coc_loading_warning=[Автопохищение] Через <font color="#ffcc00">{@0:секунды} с</font> функция выполнится автоматически!
+tcn_restart_function_timer=Через <font color="#ffcc00">{@0:second}s</font> функции будут снова активированы!
+tcn_restart_function_timer_min=Через <font color="#ffcc00">{@0:min} минут {@1:second} секунды</font> функции будут снова активированы!
+tcn_msg_monster_attack=Контр-атака: [<font color="#ffcc00">{@0:npc}</font>]
+tcn_msg_find_other_pos_for_tele=Ищем другую позицию для телепортации!
+tcn_msg_please_select_add_map=Выберите дополнительную карту!
+tcn_msg_established_om_coc_minutes=Похищение установлено заранее: <font color="#ffcc00">{@0:min}</font> минут!
+tcn_msg_auto_coc_stopped=Остановите автопохищение!
+tcn_msg_auto_coc_add_black_list=Добавьте [<font color="#ffcc00">{@0:name}</font>] в черный список!
+tcn_msg_find_another_merchant=Ищем другого продавца!
+tcn_msg_dao_bao_stopped=Хватит телепортироваться к месту <font color="#ffcc00">Карта редких иностранных сокровищ</font>!
+tcn_msg_dao_bao_running=Телепортируясь на <font color="#ffcc00">Карту редких иностранных сокровищ</font>, переместите его, чтобы остановить Авто!
+tcn_auto_slogan=Начните бесплатно и обновляйте, когда захотите.
+tcn_grow_flower_buy_note=Вы можете купить: <font color="#ffcc00">{@0:num}</font> цветы
+tcn_grow_flower_time_note=Время выращивания: <font color="#ffcc00">{@0:num}</font> часов.
+tcn_tool_upgrade_hint=Нажмите <font color="#47c15b">здесь</font>, чтобы <font color="#47c15b">проверить</font>, какие <font color="#47c15b">обновления/исправления ошибок</font> есть в текущем авто версия нужна!
+tcn_tool_activate_hint=Нажмите <font color="#47c15b">здесь</font>, чтобы <font color="#47c15b">активировать</font> некоторые <font color="#47c15b">премиум-функции</font> на <font color ="#47c15b">Авто TCN</font>!
+tcn_blink_95=To 95m
+tcn_blink_70=To 70m
+tcn_blink_50=To 50m
+tcn_blink_20=To 20m
+tcn_blink_obj_name=Имя объекта
+tcn_blink_to_name=Имя цели
+tcn_blink_target=К цели
+tcn_blink_to_mark_on_map=Блинкуйте, чтобы увидеть расстояние или отметить на карте.
+tcn_blink_to_forward=Блинк вперед на n (м)
+tcn_blink_enter_distance=Введите расстояние и блинкуйтесь
+tcn_blink_pick_mark_on_map=Выберите точку на карте и Блинкуйтесь,
+tcn_blink_to_xy=Блинк по координатам (x, y)
+tcn_blink_enter_xy_and_blink=Введите координаты x, y и нажмите Блинк
+tcn_blink_up_20=Прыжок 20m
+tcn_left_click_to_blink=Left click to blink
+tcn_blink_down_ground=Вниз
+tcn_ui_option=Опции
+tcn_suicide_stuck=Самоубийство, когда застрял
+tcn_tele_to_leader=Телепорты по словам капитана
+tcn_allows_attacking_players=Разрешить атаковать игроков.
+tcn_export_pt=Экспорт файла PT
+tcn_msg_reconnecting=<font color="#8fd6ef">Сеть отключена</font>, проверьте и <font color="#8fd6ef">подключитесь повторно</font>!
+tcn_reconnecting=Повторное подключение
+tcn_welcome_window_title=Благодарим вас за использование AutoTCN!
+tcn_auto_swap_weapon=Поменять перчатку, оружие
+tcn_auto_swap_weapon_hint=Напоминание:<br>- Эта функция поддерживает замену оружия с высоким «% навыка».
+tcn_auto_swap_oan=Обмен перчаток
+tcn_auto_swap_oan_hint=Напоминание:<br>- Эта функция поддерживает замену перчаток с высоким «% навыка».
+tcn_auto_swap_equip=Сменить наряд
+tcn_auto_swap_equip_hint=Напоминание:<br>- Эта функция поддерживает смену экипировки с высоким «% навыка».
+tcn_auto_swap_bt=Переключить Книгу отзывов
+tcn_auto_swap_bt_hint=Напоминание:<br>- Эта функция помогает переключать <font color="#ffcc00">Книги отзывов</font> с подходящими линиями навыков. Если подходящей Книги отзывов нет, будет использоваться <font color="#ffcc00">Солнце и Луна Демон царского пера</font>, <font color="#ffcc00">Перо Первобытного Солнца</font>, <font color="#ffcc00">Значок Багряной Кровью.</font>
+tcn_auto_swap_fast=Быстро меняйте оружие
+tcn_auto_swap_fast_hint=Напоминание:<br>- Эта функция поддерживает автоматическое изменение типа оружия в соответствии с набором навыков.
+tcn_dao_thanh_hai=Остров Пенглай
+tcn_di_hoa_cung=Дворец Цветов
+tcn_path_finding=Автоматический поиск пути TCN
+tcn_select_pigeon_on_mailbox=Выберите <font color="#ffcc00">голубя</font>, чтобы купить <font color="#ffcc00">почтового голубя</font>
+tcn_enable_auto_character_selection=Включить автоматический выбор персонажа
+tcn_enable_auto_character_selection_hint=Когда соединение потеряно, ИИ автоматически выберет персонажа!
+tcn_use_suicide_feature_required=Чтобы использовать функцию самоубийства, вам необходимо изучить хотя бы один из двух следующих навыков: <font color="#ffcc00">{@0:skill1}</font> и <font color="#ffcc00">{@0:skill2}</font>.
+tcn_auto_login_chest_password_required=Введите пароль сундука для автоматического входа!
+tcn_auto_login_check_chest_password=Проверьте пароль сундука при автовходе!
+tcn_receive_mail_rewards=Получайте почтовые награды
+tcn_blink_to_center=Перейти в центр
+tcn_cancel_task_and_retake_to_right=Отмените задание и пересдайте его, пока не получится!
+tcn_join_vip_require=Для участия в <font color="#ffcc00">{@0:title}</font> необходимо быть <font color="#ffcc00">VIP Цзянху</font>
+tcn_pet=Питомец
+tcn_thbb_swap_nc3_cb=Автоматическая смена 3 нейгун нищего, автоматическое переключение обратно!
+tcn_equip_world_gold=Снаряжение, выпавшее в основной игре (золото)
+tcn_equip_world_jade=Экипировка, выпавшая в основной игре (Яшма)
+tcn_use_sinh_tu_phu=Использовать Руна Жизни и Смерти
+tcn_accept_sinh_tu_phu=Принять Руна Жизни и Смерти
+tcn_auto_roll_ao_ao_title=Закалка до:
+tcn_auto_roll_ao_ao_0=Любое качество
+tcn_auto_roll_ao_ao_100=Золото или Яшма
+tcn_auto_roll_ao_ao_400=Яшма
+tcn_member_limit=лимит участников
+tcn_invalid_tool_warning=Версия AutoTCN не полная! Пожалуйста, проверьте и переустановите официальную версию!
+tcn_auto_move_last_pos=Автоматически перемещается после возрождения
+tcn_tiguan_level_1=Level 1
+tcn_tiguan_level_2=Level 2
+tcn_tiguan_level_3=Level 3
+tcn_tiguan_level_4=Level 4
+tcn_tiguan_level_5=Level 5
+tcn_tiguan_level_6=Level 6
+tcn_ui_stop_getprize=Прекратить получать
+tcn_priority_list=Список приоритетов
+tcn_enable_withdraw_world_auction_letter=Активировать снятие письма с Мирового аукциона
+tcn_run_with_tcn_assistant=Запуск с помощником TCN
+tcn_link_custom_name=<a href="">Настроить</a>
+tcn_link_random=<a href="">Случайный</a>
+tcn_link_id_as_name=<a href="">ID как имя</a>
+tcn_personal_list=Личный список
+tcn_default_list=По умолчанию
+tcn_livestream_mode=Режим прямой трансляции
+tcn_switch_livestream_mode=[<font color="#ffcc00">{@0:type}</font>] Режим прямой трансляции!
+tcn_copy_current_username_to_new_username_hint=Скопировать с текущего аккаунта на новый!<br><br><font color="#47c15b">Пример:</font> Новое имя аккаунта: <font color="#47c15b">autotcn1</font><br>или для 1-50, введите: <font color="#47c15b">autotcn|1|50</font>
+tcn_enter_new_username=Введите имя нового аккаунта
+tcn_copy_no_ai=Не копировать AI
+tcn_copy_no_skill=Не копировать Авто Умение
+tcn_copy_no_swap=Не копировать Авто Смена
+tcn_copy_no_chest_password=Не копировать Пароль от сундука
+tcn_copy=Копировать
+tcn_msg_username_invalid=Неверное имя аккаунта!
+tcn_msg_copy_faild=Ошибка копирования!
+tcn_follow_settings=Настройки следования
+tcn_auto_follow=Автоматическое следование
+tcn_stop_follow=Прекратить следование!
+tcn_follow_team_member_label=Член команды:
+tcn_follow_captain=Следовать за капитаном
+tcn_enter_team_member_name=Введите имя члена вашей команды! Вне команды не будет работать!
+tcn_distance_unit=м
+tcn_auto_start=Автоматический запуск
+tcn_dodge_boss_skill_label=Уклоняться от навыков:
+tcn_no_dodge_boss_skill=Не уклоняться от навыков босса
+tcn_no_dodge_boss_skill_label=Не уклоняться от навыков:
+tcn_pvp_defense_counterattack_hint=Контратакуйте, когда противник использует навык прорыва защиты!
+tcn_pvp_defense_counterattack=Контратака
+tcn_swap_nc_van_thu=Переключить Нэйгун Усадьбы Зверей
+tcn_swap_nc_van_thu_hint=Автоматически переключить Нэйгун Усадьбы Зверей, когда ваше здоровье низкое!
+tcn_blood_belowt_percent=Оставшееся здоровье ниже (%):
+tcn_swap_battlefield_weapon=Переключить оружие на поле боя
+tcn_swap_battlefield_weapon_hint=Автоматически переключать оружие на поле боя, когда здоровье противника низкое!
+tcn_swap_oan_doc_parry=Переключить Наручи Мастера ядов при Блоке
+tcn_swap_oan_doc_parry_hint=Автоматически переключать Наручи Мастера ядов при блоке!
+tcn_ninja_role_title_9321=Младший Ниндзя
+tcn_ninja_role_title_9319=Асигару
+tcn_ninja_role_title_9184=Промежуточные Ниндзя
+tcn_ninja_task_1=Я хотел бы узнать некоторые японцы
+tcn_ninja_task_2=Шпионаж за японцами
+tcn_ninja_task_3=Проверить деревне Норт-Бэй
+tcn_ninja_task_4=Проверить Острове Вуцзи
+tcn_ninja_task_5=Собрать Глину
+tcn_ninja_task_6=Спарринг
+tcn_bug_tele_dao_thanh_hai=Tele bug Остров Пенглай
+tcn_disguise=Маскировка
+tcn_exchange_apprenticeship_value=Обмен ученичества
+tcn_faculty_event_fc_02_c=Пилюля укрепления хаоса (1 день)
+tcn_item_4nei_duihuan=Фрагмент пергаментного свитка
+tcn_item_5nei_duihuan=Приказ святого воителя
+tcn_item_jindi_duihuan=Осколок Нефритового Диска
+tcn_item_exc_fc_mml=Жетон Врат Демона
+tcn_item_exc_fc_hss=Камня Пустынного Зверя
+tcn_item_jianghu_clone_key=Бирка тайника
+tcn_stall_paid_package_support_save_items=Поддерживает сохранение предметов при использовании платного пакета!
+tcn_stall_you_not_activated_load_item=Извините...! Ваш пакет не поддерживает сохранение предметов!
+tcn_wait_for_the_end_internal_cultivation=Ожидание баффа Постижения
+tcn_wait_for_the_end_internal_cultivation_hint=Дождитесь окончания увеличения скорости Постижения на 200%, чтобы перейти к следующему шагу!  
+tcn_guide_format_1={@0:dots} <a href="send_command,{@1:cmd}" style="HLStypefaction" face="font_title">[Открыть]</a> Чат <font color="#c0b393">{@2:cmd1}</font> открыть <font color="#c0b393">{@3:name}</font><br>{@4:desc}
+tcn_guide_format_2={@0:dots} <a href="send_command,{@1:cmd}" style="HLStypefaction" face="font_title">[Открыть]</a> Чат <font color="#c0b393">{@2:cmd1}</font> или <font color="#c0b393">{@3:cmd2}</font> открыть <font color="#c0b393">{@4:name}</font><br>{@5:desc}
+tcn_guide_ai_description=(Разведка, Тренировка, Impart Knowledge, Поле битвы, Лестница в Небо, Горячий источник,<br>Похититель, Силы, Эскорт, Collect, Охотник, Фракция & Секта,...)<br>
+tcn_guide_task_new_description=(Can do all tasks + <font color="#c0b393">Novice is Guide</font>)<br>
+tcn_guide_fast_suicide_description=(Следует использовать в тихих местах).<br>
+tcn_guide_exit_combat_state_description=(Ошибка, невозможно нажать Esc).<br>
+tcn_auto_bag_arrange=Автоматическая сортировка сумки
+tcn_auto_reduce_purchase_quantity=Автоуменьшение количества покупки
+tcn_auto_reduce_purchase_quantity_hint=Количество покупки уменьшается, когда другие продают тот же предмет!
+tcn_warning_restart_game_after_upgrade=Пожалуйста, полностью выйдите из игры, подождите около 30 секунд, а затем запустите её снова, чтобы получить последние обновления!
+tcn_you_not_learned_job_param=Вы не изучили профессию <font color="#ffcc00">{@0:value}</font>
+tcn_open_farm_job_hint=Введите в чат <font color="#47c15b">/farmnghe</font> или <font color="#47c15b">/farmjob</font>, чтобы открыть функцию. Эту функцию можно добавить в <font color="#47c15b">Асистент [AI]</font> для автоматической работы.
+tcn_tvtt_no_change=Игроки могут выбирать школу только один раз в неделю.
+tcn_school_task_param=Задание школы: <font color="#ffcc00">{@0:num}/{@1:max}</font>
+tcn_map_task_param=Задание на карте: <font color="#ffcc00">{@0:num}/{@1:max}</font>
+tcn_remaining_available_reflections_today=Сегодня можно получить: <font color="#ffcc00">{@0:point}</font>
+tcn_time_remaining=Оставшееся время: <font color="#ffcc00">{@0:time}</font>
+tcn_time_remaining_min=Оставшееся время: <font color="#ffcc00">{@0:min} минут, {@1:sec} секунд</font>
+tcn_time_remaining_full=Оставшееся время: <font color="#ffcc00">{@0:hour} часов {@1:min} минут {@2:sec} секунд</font>
+

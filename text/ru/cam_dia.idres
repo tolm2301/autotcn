@@ -1,0 +1,19 @@
+
+tcn_title_cd=Тайник
+tcn_cd_lv_easy=Легкий
+tcn_cd_lv_hard=Трудный
+tcn_cd_lv_hell=Ад
+tcn_cd_lv_shura=Shura
+tcn_cd_num=Осталось вызовов: <font color="#ffcc00">{@0:num}</font>
+tcn_cd_challenge_until_remaining=Вызывать, пока не закончится:
+tcn_cd_phai_tltm_easy=Секта пробного обучения [Обычное]
+tcn_cd_phai_tltm_hard=Секта пробного обучения [сложный]
+tcn_cd_nmq_easy=Яньмень (Гимнастика)
+tcn_cd_khd=Веселый остров
+tcn_cd_tdc=Дворец в Циндао
+tcn_cd_dmqt=Пустынный город-призрак
+tcn_cd_vtbc_easy=Секретная зона Учжэн (обычная)
+tcn_cd_vtbc_hard=Секретная зона Учжэн (сложный)
+tcn_cd_confirm_open_func=Откройте Тайник <font color="#47c15b">{@0:value}</font>. Нажмите «Продолжить», чтобы запустить Auto!
+tcn_cd_waiting_team_msg=Ждем товарища по команде <font color="#ffcc00">{@0:name}</font>!
+

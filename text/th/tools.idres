@@ -1,0 +1,65 @@
+
+tcn_tool_language=ภาษา
+tcn_tool_btn_looking_tree=Find Tree
+tcn_tool_btn_show_or_hide_hp=Show % HP
+tcn_tool_btn_shortcuts=ทางลัด
+tcn_tool_btn_pass_ruong=รหัสคลัง
+tcn_tool_btn_noitu=ฝึกฝนภายใน
+tcn_tool_btn_shop=ตั้งแผง
+tcn_tool_btn_fast_mount=เร็วขึ้นม้า
+tcn_tool_btn_reclaim_shop=รับคืนของเบ็ดเตล็ด
+tcn_tool_btn_taphoa=เปิดร้านค้า
+tcn_tool_btn_blink_screen=Blink
+tcn_tool_btn_qin=เล่นเพลงพิณฃ
+tcn_tool_btn_cd_nmq3=เหตุหวงห้าม
+tcn_tool_btn_guard_set=TCN Guard
+tcn_tool_btn_crop=ชาวนา
+tcn_tool_btn_hunter=นายพราน
+tcn_tool_btn_new=Task new
+tcn_tool_btn_new_hint=รองรับการดำเนินการ <font color="#47c15b">ภารกิจสำหรับมือใหม่</font>, นำทาง <font color="#47c15b">ภารกิจสร้างบัญชี</font>, และภารกิจทั้งหมดที่ <font color="#47c15b">ได้รับ</font> อีกทั้งยังสามารถทำ <font color="#47c15b">การยอมรับโดยอัตโนมัติ</font> เพื่อทำให้การดำเนินการภารกิจ <font color="#47c15b">เป็นไปอย่างราบรื่น</font>!
+tcn_tool_btn_nc6=ปราณ6ภารกิจ
+tcn_tool_btn_task_round=สันโดษ/บังคับ
+tcn_tool_btn_di_tam=บ่อน้ำพุร้อน (เกาะรื่นเริง)
+tcn_tool_btn_oaoa=หลอมตุ๊กตามรกต
+tcn_tool_btn_thu_nghiep=ถ่ายทอดวิชาสำนัก
+tcn_tool_btn_swap=Auto Swap
+tcn_tool_btn_swap_vip=Swap VIP
+tcn_tool_btn_def=Auto Defense
+tcn_tool_btn_ping=Deping
+tcn_tool_btn_ping_vip=Deping VIP
+tcn_tool_btn_ngu_hanh_thien_cung=ตำหนักเบญจธาตุ
+tcn_tool_btn_buff_ptc=Buff ฝ่ามือดวงใจพุทธ
+tcn_tool_btn_fps=ตั้งค่า FPS
+tcn_tool_btn_bo_khoai=มือปราบ
+tcn_tool_btn_hai_bo=นำจับ
+tcn_tool_btn_find_qin=ค้นหานักดนตรี
+tcn_tool_btn_find_book=ค้นหาหนังสือ
+tcn_tool_btn_receive_mail=Auto Mail
+tcn_tool_btn_receive_mail_hint=Auto clean up mail
+tcn_tool_btn_ky_si=นักหมากล้อม
+tcn_tool_btn_farm_tm=Farm จิตมาร
+tcn_tool_btn_dien_vo_bac_nen=รำเงินบน
+tcn_tool_btn_dien_vo_bac_nen_hint=รำเงินบนอัตโนมัติจนกว่าเงินจะหมด หรือกดหยุดเอง
+tcn_tool_btn_auto_login=Auto login
+tcn_tool_btn_fixitem=Settings Fix item
+tcn_tool_btn_fixitem_hint=ซ่อมแซม <font color="#47c15b">อุปกรณ์</font> โดยอัตโนมัติเมื่อความทนทานลงจาก <font color="#47c15b">50%</font> ขึ้นไป, เทียบกับ <font color="#47c15b">ความทนทานสูงสุด</font> ของอุปกรณ์นั้น!
+tcn_tool_btn_ride_config=Auto สัตว์ขี่
+tcn_tool_btn_ride_config_hint=เรียกใช้ <font color="#47c15b">สัตว์ขี่</font> หรือ <font color="#47c15b">น้ำทิพย์ขี่พายุ</font> โดยอัตโนมัติตามการตั้งค่า!
+tcn_tool_btn_throw_money=Throw money
+tcn_tool_btn_throw_money_hint=ใช้ <font color="#47c15b">เงินเข้ามัดรัด</font> โดยอัตโนมัติจนกว่าจะเหลือ <font color="#47c15b">2 วัน</font> แล้วหยุดการใช้งาน. หากเปิดใช้งาน Auto <font color="#47c15b">Pet</font> สำหรับการใช้เงินตัวจำกัดโดยอัตโนมัติ, เมื่อผู้เล่นมีเงินเข้ามัดรัดเหลือ <font color="#47c15b">7 วัน</font>, Auto Pet จะเปิดใช้งานโหมด <font color="#47c15b">ใช้เงิน</font> โดยอัตโนมัติ ตามเงื่อนไขที่มี <font color="#47c15b">kidnap buff</font>!
+tcn_tool_btn_modskin=Mod skin
+tcn_tool_btn_auto_ot=บ่อน้ำพุร้อน
+tcn_tool_btn_auto_ot_hint=เข้าร่วมกิจกรรม <font color="#47c15b">บ่อน้ำพุร้อน</font>
+tcn_tool_btn_qpvv=GMAC
+tcn_tool_btn_qpvv_hint=เปิดหลายจอ
+tcn_tool_btn_diem_danh=ออนไลน์มีรางวัล
+tcn_tool_btn_diem_danh_hint= รับห่อรางวัลลงทะเบียนทุกวัน รับพรฟรีทุกวัน
+tcn_tool_btn_auto_lam=Bug รวบหางหงส์
+tcn_tool_btn_auto_tran=ค่ายกล
+tcn_tool_btn_auto_pvn=Auto ผาพายุเมฆ
+tcn_tool_btn_auto_pvn_hint=Auto <font color="#47c15b">ผาพายุเมฆ</font>
+tcn_tool_btn_grow_flower=ปลูกแมนดาร่า
+tcn_tool_btn_grow_flower_hint=Auto <font color="#47c15b">ปลูกแมนดาร่า</font>
+tcn_tool_btn_ltt=เมืองหลิงเซียว
+tcn_tool_low_quality_display=แสดงผลคุณภาพต่ำ
+

@@ -1,0 +1,19 @@
+
+tcn_title_cd=เหตุหวงห้าม
+tcn_cd_lv_easy=ธรรมดา
+tcn_cd_lv_hard=ยาก
+tcn_cd_lv_hell=นรก
+tcn_cd_lv_shura=อสูร
+tcn_cd_num=จำนวนครั้งท้าดวลคงเหลือ: <font color="#ffcc00">{@0:num}</font>
+tcn_cd_challenge_until_remaining=ท้าทายจนกว่าจะเหลือ:
+tcn_cd_phai_tltm_easy=ทดสอบสำนัก [ธรรมดา]
+tcn_cd_phai_tltm_hard=ทดสอบสำนัก [ยาก]
+tcn_cd_nmq_easy=ด่านเยี่ยนเหมิน [ธรรมดา]
+tcn_cd_khd=เกาะรื่นเริง
+tcn_cd_tdc=วังฉิงเหยา
+tcn_cd_dmqt=แคว้นเหลี่ยว
+tcn_cd_vtbc_easy=แดนลับหวูเจิง [ทั่วไป]
+tcn_cd_vtbc_hard=แดนลับหวูเจิง [ยาก]
+tcn_cd_confirm_open_func=เปิดเหตุหวงห้าม <font color="#47c15b">{@0:value}</font>. กดดำเนินการต่อเพื่อเรียกใช้อัตโนมัติ!
+tcn_cd_waiting_team_msg=รอทีมเพื่อน <font color="#ffcc00">{@0:name}</font>!
+

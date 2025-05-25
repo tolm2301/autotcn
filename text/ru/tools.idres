@@ -1,0 +1,65 @@
+
+tcn_tool_language=Язык
+tcn_tool_btn_looking_tree=Найти дерево
+tcn_tool_btn_show_or_hide_hp=ХП в %
+tcn_tool_btn_shortcuts=Гор.клавиши
+tcn_tool_btn_pass_ruong=Пароль сумки
+tcn_tool_btn_noitu=Постижение
+tcn_tool_btn_shop=Торговля
+tcn_tool_btn_fast_mount=Башня
+tcn_tool_btn_reclaim_shop=Скупка Мелочей
+tcn_tool_btn_taphoa=Галантерейщик
+tcn_tool_btn_blink_screen=Блинк
+tcn_tool_btn_qin=Музыка
+tcn_tool_btn_cd_nmq3=Тайник
+tcn_tool_btn_guard_set=Оборона
+tcn_tool_btn_crop=Пахарь
+tcn_tool_btn_hunter=Охотник
+tcn_tool_btn_new=Квест
+tcn_tool_btn_new_hint=Поддерживает выполнение миссий для новичков, миссий по созданию учетной записи руководства и всех полученных миссий. Кроме того, он имеет возможность автоматического принятия миссий для беспрепятственного выполнения последовательностей миссий.
+tcn_tool_btn_nc6=Баклажаны
+tcn_tool_btn_task_round=Секта/Фракция
+tcn_tool_btn_di_tam=Spa (Веселый остров)
+tcn_tool_btn_oaoa=Куклы
+tcn_tool_btn_thu_nghiep=Школьная тренировка
+tcn_tool_btn_swap=Свап
+tcn_tool_btn_swap_vip=Свап ВИП
+tcn_tool_btn_def=АвтоБлок
+tcn_tool_btn_ping=De Ping
+tcn_tool_btn_ping_vip=De Ping VIP
+tcn_tool_btn_ngu_hanh_thien_cung=5 Элементов
+tcn_tool_btn_buff_ptc=Баф Длань Будды
+tcn_tool_btn_fps=ФПС
+tcn_tool_btn_bo_khoai=Полицейский
+tcn_tool_btn_hai_bo=Приказ
+tcn_tool_btn_find_qin=Кач Музыкант
+tcn_tool_btn_find_book=Книжник
+tcn_tool_btn_receive_mail=Почта
+tcn_tool_btn_receive_mail_hint=Очистка почты
+tcn_tool_btn_ky_si=Вейци
+tcn_tool_btn_farm_tm=Призыв Демона
+tcn_tool_btn_dien_vo_bac_nen=Кач за цельное
+tcn_tool_btn_dien_vo_bac_nen_hint=Прокачка за цельное серебро, пока не закончится или не остановишь
+tcn_tool_btn_auto_login=Auto login
+tcn_tool_btn_fixitem=Ремонт
+tcn_tool_btn_fixitem_hint=Ремонт шмота с низкой прочностью.
+tcn_tool_btn_ride_config=Конь/Ветер
+tcn_tool_btn_ride_config_hint=Автоматический вызов <font color="#47c15b">скакунов</font> или <font color="#47c15b">Оседлавший ветер</font>, в зависимости от настроек!
+tcn_tool_btn_throw_money=Бросить деньги  
+tcn_tool_btn_throw_money_hint=Автоматически <font color="#47c15b">тратить связанное серебро</font>, пока не останется <font color="#47c15b">2D</font>, затем остановить автоматизацию. Если включен автоматический режим <font color="#47c15b">Питомец</font> для автоматической траты связанного серебра, когда у игрока достигается <font color="#47c15b">7D</font> связанного серебра, автоматический питомец активирует режим <font color="#47c15b">траты серебра</font> при условии наличия <font color="#47c15b">баффа похищения</font>!
+tcn_tool_btn_modskin=Скин
+tcn_tool_btn_auto_ot=Горячий источник
+tcn_tool_btn_auto_ot_hint=Принимайте участие в <font color="#47c15b"> мероприятиях на горячих источниках</font>
+tcn_tool_btn_qpvv=GMAC
+tcn_tool_btn_qpvv_hint=Автофарм <font color="#47c15b">Клон</font>
+tcn_tool_btn_diem_danh=Карта 20:00
+tcn_tool_btn_diem_danh_hint=Автоматически откроет <font color="#47c15b"> Праздничную карту</font> в <font color="#47c15b">установленное</font> время. Кроме того, вы автоматически получаете <font color="#47c15b"> Бесплатное благословение</font> каждый день.
+tcn_tool_btn_auto_lam=Отхил 100%
+tcn_tool_btn_auto_tran=Строй
+tcn_tool_btn_auto_pvn=Фэнъюнь
+tcn_tool_btn_auto_pvn_hint=Auto <font color="#47c15b">Скала Фэнъюнь</font>
+tcn_tool_btn_grow_flower=Цветы (Муронг)
+tcn_tool_btn_grow_flower_hint=Авто <font color="#47c15b">Сажать цветы - семейство Муронг</font>
+tcn_tool_btn_ltt=Камписы
+tcn_tool_low_quality_display=Отображение низкого качества
+

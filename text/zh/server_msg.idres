@@ -1,0 +1,42 @@
+
+tcn_dll_can_not_connect_server=无法连接服务器！
+tcn_dll_connection_server_failed_function_limited=连接服务器失败，功能受限！
+tcn_dll_cannot_activated=暂时无法激活！
+tcn_dll_data_not_match=数据不匹配！
+tcn_dll_data_not_match_function_limited=数据不匹配，功能受限！
+tcn_dll_you_have_not_activated_auto=您未激活自动功能！
+tcn_dll_invalid_activation_code=无效的激活码！
+tcn_dll_data_error=数据有问题！
+tcn_dll_data_error_try_reset_game=数据有问题，尝试重启游戏！
+tcn_dll_app_out_of_date=您的应用已过期！
+tcn_dll_verification_failed=验证失败！
+tcn_dll_data_sync_failed=数据同步失败！
+tcn_dll_file_download_failed=文件下载失败！
+tcn_dll_progress_not_exist=进度不存在！
+tcn_dll_your_plan_not_support_feature=哎呀...！您的套餐不支持此功能！
+tcn_dll_sync_data_to_cloud_success=成功同步数据到云端！
+tcn_dll_get_my_config_failed=获取我的配置信息失败！
+tcn_dll_get_my_activation_failed=获取我的激活码失败！
+tcn_dll_check_update_failed=检查更新失败！
+tcn_server_activated=已激活！
+tcn_server_activation_success=激活成功！
+tcn_server_func_not_activated=功能未激活！
+tcn_server_your_package_not_support_map=您的套餐不支持此地图！
+tcn_server_you_using_latest_version=您使用的是最新版本！
+tcn_server_new_version_available=有新版本可用，请访问<a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">官方网站</a>下载最新版本！
+tcn_server_invalid_activation_code=无效的激活码！
+tcn_server_use_unofficial_version=您正在使用非官方版本！请从 [autotcn.com] 下载。
+tcn_server_invalid_id=无效的ID！
+tcn_server_upgrade_required=需要升级到最新版本才能使用！<br>请访问<a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">官方网站</a>下载最新版本！
+tcn_server_try_reset_game=尝试重启游戏。<br>如果仍然无法访问，请升级到最新版本以使用！<br>访问<a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">官方网站</a>下载最新版本！
+tcn_server_blocked=抱歉... 您已被禁止使用<font color="#ff9c22">AutoTCN</font>！
+tcn_server_invalid_version=您的版本无效！
+tcn_server_you_not_sync_data=您未同步数据！
+tcn_server_sync_success=同步成功！
+tcn_server_please_init_auto=请刷新连接数据！(通过在聊天中输入 <font color="#ff9c22">/ui</font> 并点击 <font color="#ff9c22">刷新</font> 按钮)
+tcn_dll_add_user_success=添加用户成功！
+tcn_dll_username_invalid=无效的用户名！
+tcn_dll_password_invalid=无效的密码！
+tcn_dll_chest_password_invalid=无效的宝箱密码！
+tcn_dll_init_error=抱歉... 自动初始化失败！<br>请检查您的 <font color="#47c15b">连接</font> 并 <font color="#47c15b">重试</font>！
+

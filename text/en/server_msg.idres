@@ -1,0 +1,42 @@
+
+tcn_dll_can_not_connect_server=Cannot connect to the server!
+tcn_dll_connection_server_failed_function_limited=Failed to connect to the server, function limited!
+tcn_dll_cannot_activated=Cannot be activated at the moment!
+tcn_dll_data_not_match=Data does not match!
+tcn_dll_data_not_match_function_limited=Data does not match, function limited!
+tcn_dll_you_have_not_activated_auto=You have not activated Auto!
+tcn_dll_invalid_activation_code=Invalid activation code!
+tcn_dll_data_error=Data has issues!
+tcn_dll_data_error_try_reset_game=Data has issues, try restarting the game!
+tcn_dll_app_out_of_date=Your application is out of date!
+tcn_dll_verification_failed=Verification failed!
+tcn_dll_data_sync_failed=Data synchronization failed!
+tcn_dll_file_download_failed=File download failed!
+tcn_dll_progress_not_exist=Progress does not exist!
+tcn_dll_your_plan_not_support_feature=Oops...! Your plan does not support this feature!
+tcn_dll_sync_data_to_cloud_success=Successfully synchronized data to the cloud!
+tcn_dll_get_my_config_failed=Failed to get my configuration information!
+tcn_dll_get_my_activation_failed=Failed to get my activation code!
+tcn_dll_check_update_failed=Failed to check for updates!
+tcn_server_activated=Activated!
+tcn_server_activation_success=Activation successful!
+tcn_server_func_not_activated=Function not activated!
+tcn_server_your_package_not_support_map=Your package does not support this Map!
+tcn_server_you_using_latest_version=You are using the latest version!
+tcn_server_new_version_available=New version available, please visit the <a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">official website</a> to download the latest version!
+tcn_server_invalid_activation_code=Invalid activation code!
+tcn_server_use_unofficial_version=You are using an unofficial version! Please download it from [autotcn.com]
+tcn_server_invalid_id=Invalid ID!
+tcn_server_upgrade_required=Upgrade to the latest version to use!<br>Please visit the <a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">official website</a> to download the latest version!
+tcn_server_try_reset_game=Try restarting the game.<br>If you still can't access, upgrade to the latest version to use!<br>Visit the <a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">official website</a> to download the latest version!
+tcn_server_blocked=Sorry... You are blocked from using <font color="#ff9c22">AutoTCN</font>!
+tcn_server_invalid_version=Your version is not valid!
+tcn_server_you_not_sync_data=You don't have synchronized data!
+tcn_server_sync_success=Sync successful!
+tcn_server_please_init_auto=Please refresh the connection data! (By typing <font color="#ff9c22">/ui</font> in the chat and clicking the <font color="#ff9c22">Refresh</font> button)
+tcn_dll_add_user_success=User added successfully!
+tcn_dll_username_invalid=Invalid username!
+tcn_dll_password_invalid=Invalid password!
+tcn_dll_chest_password_invalid=Invalid chest password!
+tcn_dll_init_error=Sorry... Auto initialization failed!<br>Please check your <font color="#47c15b">connection</font> and <font color="#47c15b">try again</font>!
+

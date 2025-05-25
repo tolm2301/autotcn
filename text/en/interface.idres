@@ -1,0 +1,1209 @@
+
+tcn_ui_start=Start
+tcn_ui_stop=Stop
+tcn_ui_off_end=Stop
+tcn_ui_save=Save
+tcn_ui_apply=Apply
+tcn_ui_ok=OK
+tcn_ui_setting=Setting
+tcn_ui_setup=Setting
+tcn_ui_add=Add
+tcn_ui_retry=Retry
+tcn_ui_return=Back
+tcn_ui_cancel=Cancel
+tcn_ui_close=Close
+tcn_ui_open=Open
+tcn_ui_open_now=Open now
+tcn_ui_delete=Delete
+tcn_ui_clear=Clear
+tcn_ui_default=Default
+tcn_ui_status=Status
+tcn_ui_done=Done
+tcn_ui_exchange=Exchange
+tcn_ui_default_and_refresh=Default / Refresh
+tcn_ui_refresh=Refresh
+tcn_ui_continue=Continue
+tcn_ui_find_range=Monster search range (m)
+tcn_ui_support=Support
+tcn_ui_activate=Activate
+tcn_ui_extend=Extend
+tcn_ui_collapse=Collapse
+tcn_msg_done=<font face="font_title" color="#ff9c22">Done</font>
+tcn_stopped=Stopped
+tcn_ui_all=All
+tcn_ui_list=List
+tcn_ui_default_list=Default list
+tcn_ui_select_label=Select:
+tcn_msg_added_param=Added: <font color="#ffcc00">{@0:name}</font>
+tcn_msg_deleted=Deleted!
+tcn_msg_saved=Saved!
+tcn_msg_default_saved=Default saved!
+tcn_msg_cancelled=Cancelled!
+tcn_msg_copied=Copied!
+tcn_msg_changed=Changed!
+tcn_msg_cannot_open_file=Can not open file!
+tcn_msg_already_exist=Already exists!
+tcn_msg_file_saved_success=Save <font color="#47c15b">successful</font>! Do you want to <font color="#47c15b">open the file</font>?
+tcn_mc_note_msg=Currently, Auto only supports <font color="#ffcc00">Dreamland (4)</font>!
+tcn_ot_waiting_18h=Wait until <font color="#ffcc00">18h</font>!
+tcn_boss_full_5=All <font color="#ffcc00">coordinates</font> have defeated all <font color="#ffcc00">5 bosses</font>, please add new coordinates.
+tcn_ui_not_found_fish_pos=You have not set fishing coordinates, press settings to set!
+tcn_ui_fast_action=Operation too fast, please wait a moment and try again!
+tcn_ui_select_fish=Please select the fish you want to catch:
+tcn_ui_not_found_fish=No fish found within 20m range, please get closer!
+tcn_ui_choose_collect_mode=Choose collection mode:
+tcn_ui_go_near=You are standing too far away, please come closer!
+tcn_ui_must_target=Please target the item to collect!
+tcn_ui_must_merchant_target=Please target the Merchant!
+tcn_kuangshi=Mining
+tcn_qiaofu=Rree chop
+tcn_cailiao=Herbalist
+tcn_caidu=Harvest Poisons
+tcn_you_not_set_coordinates=You have not set coordinates!
+tcn_ui_not_found_collect_pos=You have not set collection coordinates!
+tcn_ui_select_bag=Select the bag with the item you want to use
+tcn_ui_select_item=Select the item you want to use
+tcn_ui_zhuangbei=Equipment
+tcn_ui_wupin=Items
+tcn_ui_yuanliao=Materials
+tcn_ui_renwu=Task
+tcn_ui_not_found_item=No items found in this bag
+tcn_ui_select_buff=Select the buff that appears after using the item
+tcn_ui_no_need_buff=Use continuously without caring about buff status
+tcn_ev_reset=Parameters have been reset, Auto starts receiving tasks
+tcn_ev_start=Note: Need to save the resurrection point at Suzhou
+tcn_ev_not_have_q=Task completed, start receiving tasks
+tcn_ev_have_q=Already have a task or it is not time for the event, go do the task
+tcn_ev_accepted=Successfully accepted the task
+tcn_hand_no_item=Please pick up the item!
+tcn_pvn_min_max_require=Minimum requirement <font color="#ffcc00">10%</font> and maximum <font color="#ffcc00">80%</font> health!
+tcn_pvn_max_require=Maximum requirement <font color="#ffcc00">80%</font> health!
+tcn_running_can_change_mode_msg=Auto is running, cannot change mode!
+tcn_pvn_activate_require=Sorry...! The <font color="#ffcc00">Captain</font> feature and using <font color="#ffcc00">Pluck the Peacock's Plume</font><br>are premium features!<br>Choose to be a <font color="#ffcc00">member</font> to use for free!
+tcn_pvn_join_require=Must be a <font color="#ffcc00">Jianghu VIP</font> to participate in <font color="#ffcc00">Fengyun Cliff</font>
+tcn_pvn_warning=Refreshing Fengyun Cliff data...
+tcn_pvn_completed_this_week=Completed this week!
+tcn_pvn_completed_round=Completed one round!
+tcn_use_sword=Use Single Sword!
+tcn_use_dual_swords=Use Twin Swords!
+tcn_not_special_map=Not a special map!
+tcn_please_enter_coordinates_or_click_btn=Please enter coordinates or click the button to get coordinates!
+tcn_coordinates_selected_invalid=The coordinates you selected are invalid!
+tcn_item_exist=This item already exists!
+tcn_member_removed=Member removed!
+tcn_invited_name_to_team=Invitation saved: <font color="#ffcc00">{@0:name}</font>
+tcn_auto_skip_movie_is_on=Auto TCN has hidden 1 storyline, Chat /movie to disable this feature!
+tcn_auto_skip_movie_is_off=Chat /movie to enable automatic storyline hiding
+tcn_auto_skip_movie_turn_on=Automatic storyline hiding feature is now on
+tcn_auto_skip_movie_turn_off=Automatic storyline hiding feature is now off
+msg_find_way=Finding the way to
+tcn_min=Min
+tcn_end_sec={@0:num} sec
+tcn_end_min={@0:num} min
+tcn_end_second={@0:num} seconds
+tcn_end_minute={@0:num} minutes
+tcn_param_map_default={@0:map} (Default)
+tcn_save_success=Save successful!
+tcn_setup_success=Setup successful!
+tcn_type_label=Type:
+tcn_ui_choose_type=Choose type:
+tcn_ui_account=Username
+tcn_enter_account_hint=Enter <font color="#47c15b">account</font> login name!
+tcn_ui_password=Password
+tcn_enter_password_hint=Enter <font color="#47c15b">password</font>!
+tcn_enter_chest_password_label=Enter chest password:
+tcn_enter_chest_password_hint=Enter chest password!
+tcn_enter_activation_available=Activation code (Enter if available)
+tcn_enter_activation_available_hint=Enter <font color="#47c15b">activation code</font>!
+tcn_not_open_chest_password_msg=Chest password not opened yet!
+tcn_ui_merchant=Merchant
+tcn_ui_pos_find=Find hiding coordinates
+tcn_npc_exist=This NPC already exists!
+tcn_pos_invalid=Coordinates already exist, within a 5m range, please go to a different location!
+tcn_ui_go_near_7=You are standing more than 7m away from the target, please get closer!
+tcn_ui_merchant_min=You need to add at least 2 Merchants on this map for auto to work!
+tcn_ui_show_ph_turn_on=Percentage health display feature is now on
+tcn_ui_show_ph_turn_off=Percentage health display feature is now off
+tcn_ui_escort_name_1=Chengdu-Gold Needle Shen Family
+tcn_ui_escort_name_2=Chengdu-Nangong Family
+tcn_ui_escort_name_3=Chengdu-Beggar is Sect Garrison
+tcn_ui_escort_name_4=Suzhou-Yongcui Villa
+tcn_ui_escort_name_5=Suzhou-King Wu is Tomb
+tcn_ui_escort_name_6=Suzhou-Quarry
+tcn_ui_escort_name_7=Jinling-Plum Blossom Gate
+tcn_ui_escort_name_8=Jinling-Imperial Hunting Ground
+tcn_ui_escort_name_9=Jinling-Mochou Imperial Palace
+tcn_ui_escort_name_10=Luoyang-Lord Chin is Residence
+tcn_ui_escort_name_11=Luoyang-Yanmen Family
+tcn_ui_escort_name_12=Luoyang-Baodu Stronghold
+tcn_ui_escort_name_13=Yanjing-Army Horse Ranch
+tcn_ui_escort_name_14=Yanjing-Killers Manor
+tcn_ui_escort_name_15=Yanjing-Dongfang Family
+tcn_sys_exits_item=This item already exists!
+tcn_sys_require_target_monster=Please target the monster you want to collect!
+tcn_chat_default_content=What to chat about?
+tcn_link=<a href="">
+tcn_link_param=<a href="">{@0:param}</a>
+tcn_link_view=<a href="">View</a>
+tcn_link_settings=<a href="">Settings</a>
+tcn_link_delete=<a href="">Delete</a>
+tcn_link_pos_xy=<a href="">{@0:x},{@1:y}</a>
+tcn_link_distance=<a href="">{@0:param}m</a>
+tcn_link_go_to=<a href="">Go to</a>
+tcn_link_skip=<a href="">Skip</a>
+tcn_link_add_pos=<a href="">Add coordinates</a>
+tcn_link_icon_up=<a href="">↑↑</a>
+tcn_link_icon_down=<a href="">↓↓</a>
+tcn_link_set=<a href="">Set</a>
+tcn_link_tele=<a href="">Teleport</a>
+tcn_link_choose_map=<a href="">Choose map</a>
+tcn_link_merchant=<a href="">Merchant</a>
+tcn_link_refresh=<a href="">Refresh</a>
+tcn_link_update=<font color="#9c7d5c">Upgrade at:</font> <a href="https://autotcn.com/">https://autotcn.com</a>
+tcn_link_page_1=<a href="">Page 1</a>
+tcn_link_page_2=<a href="">Page 2</a>
+tcn_link_page_3=<a href="">Page 3</a>
+tcn_link_page_4=<a href="">Page 4</a>
+tcn_link_page_5=<a href="">Page 5</a>
+tcn_link_page_6=<a href="">Page 6</a>
+tcn_create_account=<a href="">Create account</a>
+tcn_ui_up=Up
+tcn_ui_down=Down
+tcn_setting_cur_section_hint=Settings for the current section!
+tcn_btn_choose_map=Choose map
+tcn_btn_carry_sacks_setting=Set carry sacks
+tcn_tele_pre_notice=Teleport to
+tcn_tele_label=Tele:
+tcn_time_set=Set time
+tcn_tele_notice=(Requires opening all 5 divine grid slots)
+tcn_msg_fast_mount_stopped=Auto fast mount turned off!
+tcn_thth_shang_ma_zhong=Auto mounting the horse!
+tcn_thth_click_too_fast=Operation too fast, please wait a moment!
+tcn_choice_buff_no_delay=<font color="#FFFF00">Use continuously</font>
+tcn_choice_buff_delete_item=<font color="#c70000">Delete item</font>
+tcn_delete_item=Delete item
+tcn_delete_item_guide=Hold the <font color="#47c15b">item</font> in hand, and place it on the <font color="#47c15b">plus sign</font> to add to the <font color="#ea4335">Delete item</font> list, if you hold the <font color="#47c15b">correct</font> item, the plus sign will <font color="#47c15b">light up</font>!
+tcn_use_no_delay=Use continuously
+tcn_delete_junk_item_guide=Hold the <font color="#47c15b">item</font> in hand, and place it <font color="#47c15b">here</font> to add to the <font color="#ea4335">Delete item</font> list!
+tcn_task_round_goto_new_school=Heading to Reclusive Factions...
+tcn_task_full_task_list=Task list is full
+tcn_task_comeback_city=Back to <font color="#ffcc00">{@0:city}</font>, avoid hiding to increase cultivation!
+tcn_fixing_move=Fixing movement error!
+tcn_cleaning_luggage=Waiting to clean up the luggage...
+tcn_msg_cleaning_luggage=Waiting to clean up the luggage
+tcn_invalid_time=Not yet time
+tcn_invalid_day=Not yet day
+tcn_all_day=All Day
+tcn_daily=Daily
+tcn_link_daily=<a href="">Daily</a>
+tcn_weekly=Weekly
+tcn_link_weekly=<a href="">Weekly</a>
+tcn_this_week=This week
+tcn_event=Event
+tcn_doing=Doing...
+tcn_accept=Accept...
+tcn_waiting=Waiting...
+tcn_skip=Skip
+tcn_complete=Complete
+tcn_completed=Completed!
+tcn_complete_cur_on_count=Completed: {@0:num}/{@1:max}
+tcn_unfinished=Unfinished
+tcn_not_enough=Not enough status
+tcn_accepted=Accepted
+tcn_not_accepted=Not accepted
+tcn_get_reward=Get reward
+tcn_checking=Checking...
+tcn_ui_menu_friend_add_chouren=Add enemy
+tcn_ui_today=Today
+tcn_delete_log=Delete log
+tcn_ui_skill_picked=Selected skill set
+tcn_ui_skill_pick=Pick skill set
+tcn_ui_skill_set=Skill set
+tcn_ui_skill_set_param=Skill set (Set {@0:set})
+tcn_ui_skill_set_param_link=<a href="">Skill set (Set {@0:set})</a>
+tcn_ui_skill_set_1_param=Main skill set (Set {@0:set})
+tcn_ui_skill_set_2_param=Secondary skill set (Set {@0:set})
+tcn_ui_book_buff=Annotate Book
+tcn_ui_weapon=Weapon
+tcn_hint_right_click_change_skill_type=Right-click to change attack type
+tcn_hint_right_click_remove_weapon=Right-click to remove Weapon
+tcn_hint_right_click_remove_book_buff=Right-click to remove Annotate Book
+tcn_skill_must_place_skill=You need to place the skill first
+tcn_skill_fly_skill=Jump up to attack
+tcn_skill_hide_skill=Use hidden skills
+tcn_skill_right_click_change=Right-click to change attack type
+tcn_skill_must_place_weapon=Must be equipped with a weapon
+tcn_skill_change_to_sky=<font color="#ffcc00">{@0:config}</font> changed to sky attack!
+tcn_skill_change_to_hide=<font color="#ffcc00">{@0:config}</font> changed to hidden skill!
+tcn_skill_change_to_normal=<font color="#ffcc00">{@0:config}</font> changed to normal skill!
+tcn_skill_change_to_range=<font color="#ffcc00">{@0:config}</font> changed to ranged skill!
+tcn_skill_change_hide_range=<font color="#ffcc00">{@0:config}</font> changed to hidden and ranged skill!
+tcn_auto_approach=Auto approach
+tcn_smart_approach=Smart approach
+tcn_smart_approach_hint=Auto approach the correct distance for the skill to be used!
+tcn_skill_turned_off_approach_hint=When "Auto Approach" and "Smart Approach" are turned off, skills will be used continuously in place!
+tcn_auto_def_monster=Auto Defend (monsters)
+tcn_skill_gia_chieu= Block Moves
+tcn_skill_pha_thu= Feint Moves
+tcn_skill_power=Rage
+tcn_auto_skill_set_guide_1=Guide:<br>    + Drag skills into Skill Set row, below are the corresponding weapons
+tcn_auto_skill_set_guide_2=<br>    + Block Moves is the skill with a <font color="#47c15b" face="font_tip">Green Ring</font> (Game skill bar)
+tcn_auto_skill_set_guide_3=<br>    + Feint Moves is the skill with a <font color="#00a9f7" face="font_tip">Blue Ring</font> (Game skill bar)
+tcn_auto_skill_set_guide_4=<br>    + Rage skill is the skill that consumes energy (Hover over the skill to read)
+tcn_auto_skill_set_guide_5=<br>    + Skills with long cooldowns are placed first (Left to right)
+tcn_auto_skill_set_guide_6=<br>    + Right-click on the skill slot to change the attack type
+tcn_auto_skill_set_guide_7=Fly up and attack <font color="#47c15b" face="font_tip">(Green)</font>
+tcn_auto_skill_set_guide_8=Hidden skill <font color="#c70000" face="font_tip">(Red)</font>
+tcn_auto_skill_set_guide_9=Allow long-range attacks <font color="#ffcc00" face="font_tip">(Yellow)</font>
+tcn_auto_skill_set_guide_10=Hidden skill, allow long-range attacks <font color="#ff00ff" face="font_tip">(Purple)</font>
+tcn_auto_skill_set_guide_11=Attack nearby <font color="#ffffff" face="font_tip">(Default)</font>
+tcn_set_1=Set 1
+tcn_set_2=Set 2
+tcn_set_3=Set 3
+tcn_set_4=Set 4
+tcn_link_set_1=<a href="">Set 1</a>
+tcn_link_set_2=<a href="">Set 2</a>
+tcn_link_set_3=<a href="">Set 3</a>
+tcn_link_set_4=<a href="">Set 4</a>
+tcn_link_set_5=<a href="">Set 5</a>
+tcn_link_set_6=<a href="">Set 6</a>
+tcn_link_set_7=<a href="">Set 7</a>
+tcn_link_set_8=<a href="">Set 8</a>
+tcn_link_set_9=<a href="">Set 9</a>
+tcn_ui_reset_1=Reset
+tcn_ui_reset=Reset All
+tcn_ui_not_reset=No Reset
+tcn_thth_reset_count_1=Upon completed the Exploring Jianghu 1
+tcn_thth_reset_count_2=Upon completed the Exploring Jianghu 2
+tcn_thth_reset_count_3=Upon completed the Exploring Jianghu 3
+tcn_thth_reset_count_4=Upon completed the Exploring Jianghu 4
+tcn_ui_getprize=Claim Rewards
+tcn_ui_auto_craft=Auto Professions
+tcn_ui_choose_craft=Choose Professions
+tcn_ui_put_pos=Position
+tcn_forging=<a href="">Blacksmith</a>
+tcn_tailoring=<a href="">Tailor</a>
+tcn_skillful_handicraft=<a href="">Craftsman</a>
+tcn_ky_ngo=Random Encounter
+tcn_ky_ngo_received_param=Received Random Encounter <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_miss_param=Missed Random Encounter <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_miss_2_param=Just missed Random Encounter <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_restore=Receive <font color="#ff00ff">Random Encounter</font>, features will be restored in <font color="#ff00ff">{@0:num}s</font>!
+tcn_ky_ngo_kim_ti_phan_note= ({@0:id})
+tcn_auto_received=Auto Receive
+tcn_get_all=Claim All
+tcn_get_by_list=Claim by List
+tcn_skip_to_list=Skip by List
+tcn_enable_or_disable_all=Enable/Disable All
+tcn_add_ky_ngo=Add Random Encounter
+tcn_no_target=No target
+tcn_ui_cd_nmq_3=Yanmen Pass - Easy
+tcn_cd_state=Forbidden Place state!
+tcn_om_coc_setup=Set carry sacks
+tcn_ui_pick_up=Pick Up
+tcn_network_delay_can_not_auto_arranged=Network delay is <font color="#ffcc00">too high</font>, cannot <font color="#ffcc00">auto arrange</font> inventory!
+tcn_wait_auto_rearrange=Wait {@0:num}s for auto inventory rearrangement!
+tcn_first_help=Press Ctrl + U to open the AutoTCN interface!
+tcn_mod_skin_mount=Activate Mod Skin package to not lose it when mounting!
+tcn_mod_skin=Activate Mod Skin package to not lose it when changing maps!
+tcn_notify=No notifications!
+tcn_no_fix=No need to fix!
+tcn_fixed=Fixed!
+tcn_fix_item_miss=[FixItem] You lack repair tools!
+tcn_fix_item_no_activate=[FixItem] Auto is not activated!
+tcn_dv_bac_nen_khong=Do you really want to Practice Martial Arts using compressed silver?
+tcn_dv_bac_nen_khong_du=Not enough compressed silver to Practice Martial Arts!
+tcn_dv_bac_nen=Practice Martial Arts with compressed silver
+tcn_dv_bac_nen_hint=Will Auto Practice Martial Arts with the lowest amount of compressed silver, until it runs out or stops!
+tcn_please_init_auto=Please refresh the connection data! (By typing /ui in the chat and clicking the "Refresh" button)
+tcn_please_wait=Please wait
+tcn_loading_format=<font face="font_title" color="#ff9c22">{@0:msg}{@1:loading}</font>
+tcn_stop=Stop
+tcn_on=On
+tcn_off=Off
+tcn_yes=Yes
+tcn_no=No
+tcn_confirm=Confirm
+tcn_farm_tm=Farm Possessed
+tcn_farm_tm_hint=Will Auto Practice Martial Arts <font color="#ffcc00">0x</font> until <font color="#ffcc00">Possessed</font> appears or until you stop it manually!
+tcn_composite_split=Manufacture-Disassemble
+tcn_composite_split_hint=Auto Manufacture and Disassemble!
+tcn_auto_picture=Auto Draw
+tcn_auto_picture_hint=Auto draw!
+tcn_auto_handwriting=Auto Write
+tcn_auto_handwriting_hint=Auto write!
+tcn_delete_empty_mail=Delete Empty Mail
+tcn_delete_empty_mail_hint=Will delete all <font color="#47c15b">empty mails</font> in your <font color="#47c15b">system mailbox</font>!
+tcn_show_delete_empty_mail_btn=Show <font color="#c0b393">delete empty mail</font> button on mailbox
+tcn_oops=Oops...! Your plan does not support this feature!
+tcn_activated=Activated
+tcn_no_activated=Not Activated
+tcn_load_data=Loading data
+tcn_try_again=Try again
+tcn_new_version=New version
+tcn_green_version=Version <font color="#47c15b">{@0:version}</font>
+tcn_down_now=Download now
+tcn_upgrade=Upgrade
+tcn_please_upgrade=Please upgrade Auto!
+tcn_upgraded_success=Upgrade successful!
+tcn_window_title_by_name=[<font color="#ffcc00">{@0:type}</font>] Set game window title by account name!
+tcn_cd_participating=Participating in Forbidden Place!
+tcn_cd_participating_name=Participating in Forbidden Place [<font color="#ffcc00">{@0:name}</font>]
+tcn_cd_no_more_turns=Out of Forbidden Place turns!
+tcn_cd_completed_reset_turns=Completed, resetting Forbidden Place turns!
+tcn_cd_waiting_completion=Waiting for Forbidden Place completion!
+tcn_cd_stop=Stop Forbidden Place!
+tcn_cd_please_join_3=Please join Yanmen Pass (Easy)!
+tcn_cd_cannot_completed_yet=Cannot complete Forbidden Place yet!
+tcn_cd_complete_action=Complete Forbidden Place!
+tcn_cd_go_to_fight_boss_1=Go to fight boss 1
+tcn_cd_go_to_fight_boss_2=Go to fight boss 2
+tcn_cd_go_to_fight_boss_3=Go to fight boss 3
+tcn_cd_fighting_boss_1=Fighting boss 1
+tcn_cd_fighting_boss_2=Fighting boss 2
+tcn_cd_fighting_boss_3=Fighting boss 3
+tcn_cd_boss_1_completed=Completed boss 1!
+tcn_cd_boss_2_completed=Completed boss 2!
+tcn_cd_boss_3_completed_go_to_exit=Completed boss 3, go to the exit!
+tcn_cd_fixing_jumping=Fixing jumping issues!
+tcn_cd_comeback_boss_1=Come back to boss 1!
+tcn_cd_comeback_boss_2=Come back to boss 2!
+tcn_checking_activation=Checking activation...
+tcn_msg_you_not_activated_auto_coc=You have not activated the auto kidnapping feature!
+tcn_total_con=Total: {@0:num} sacks
+tcn_num_con={@0:num} sacks
+tcn_arrested=Arrested: {@0:param}
+tcn_refresh_success=Refresh successful!
+tcn_merchant_param=Merchant [{@0:param}]
+tcn_msg_clean_mail_use_mld=Clean mail and use Clear Soul Pill!
+tcn_click_now=Click now
+tcn_installed_success=Installation successful!
+tcn_domain_web=https://autotcn.com/
+tcn_cur_version=<font color="#47c15b">{@0:version}</font>
+tcn_you_completed_mission=You have completed this task!
+tcn_quest_chain_intro_nc6_c1=Tier Six Internal Skills tasks (Chapter 1)
+tcn_dots_icon=• 
+tcn_error_icon=<font face="font_tip" color="#c70000">✘</font>
+tcn_done_icon=<font face="font_tip" color="#ff9c22">✓</font>
+tcn_orange_param=<font face="font_tip" color="#ff9c22">{@0:param}</font>
+tcn_nc6_row_param=• <font face="font_tip" color="#9c7d5c">[{@0:map}]</font> {@1:title}   {@2:state}<br>
+tcn_confirm_log_delete=Delete this log and AutoTCN will run the mission again!
+tcn_nc6_confirm_log_delete=Deleting today is log will cause Auto to restart the Tier Six Internal Skills tasks!
+tcn_ui_deleted_success=Deletion successful!
+tcn_msg_tele_to_no_color=Teleport to {@0:map}
+tcn_msg_tele_to=Teleport to <font color="#ffcc00">{@0:map}</font>
+tcn_msg_free_tele_to=Free teleport to <font color="#ffcc00">{@0:map}</font>
+tcn_msg_waiting_tele_time=Waiting for <font color="#ffcc00">{@0:num}s</font> to cool down the teleportation time!
+tcn_task_state_center_tag=<center>Task state!</center>
+tcn_complete_task_param=Completed task <font color="#ffcc00">[{@0:title}]</font>
+tcn_nc6_task_completed=Completed Tier Six Internal Skills tasks!
+tcn_seems_like_your_chest_full=It seems your <font color="#47c15b">inventory</font> is full!
+tcn_go_to_pos=Go to <font color="#47c15b">{@0:value}</font>
+tcn_not_found_value=Not found <font color="#ffcc00">{@0:value}</font>
+tcn_nc6_go_to_accept_task=[Accept task] Go to <font color="#47c15b">{@0:value}</font>
+tcn_nc6_go_to_reset_task=[Reset] Go to <font color="#47c15b">{@0:value}</font>
+tcn_nc6_fail_reset_task=[Failed] Reset task <font color="#47c15b">{@0:value}</font>
+tcn_nc6_go_to_claim_reward=[Claim reward] Go to <font color="#47c15b">{@0:value}</font>
+tcn_nc6_join_scenario=[Secret Land] Go to <font color="#47c15b">{@0:value}</font>
+tcn_waiting_can_not_join_scenario=Unable to join Secret Land after <font color="#47c15b">{@0:value}</font> minutes!
+tcn_jump_to_water=Jump to the edge of the lake!
+tcn_jump_to_pos=Jump to <font color="#47c15b">{@0:value}</font>!
+tcn_wait_all_buffs_expire=Wait for all effects to expire!
+tcn_find_and_pick_up_stone=Find and pick up <font color="#47c15b">{@0:value}</font>
+tcn_picked_up_value=Picked up <font color="#47c15b">{@0:value}</font>
+tcn_unable_to_pick_up_value=Unable to pick up <font color="#47c15b">{@0:value}</font>
+tcn_failure_num_times=Failed <font color="#47c15b">{@0:value}</font> times!
+tcn_nc6_wait_columns_appear=Wait for <font color="#47c15b">{@0:num}</font> columns to appear!
+tcn_nc6_pick_up_buff_in_columns=Pick up effects on <font color="#47c15b">columns</font>!
+tcn_nc6_guide=When the <font color="#47c15b">Tele</font> time has not cooled down, Auto will Auto open an <font color="#47c15b">Tier 6 Internal Skill Reward Pack</font> to get a <font color="#47c15b">Travelling Token</font> for use, and at least have an inventory with 4 slots!
+tcn_open_luyen_nhom_open_msg=Auto open Team Practice after: <font color="#ffcc00">{@0:num} seconds</font>!
+tcn_ui_max=Maximum
+tcn_use_param=Use: <font color="#ffcc00">{@0:item}</font>
+tcn_use=Use
+tcn_task_completed_nc1=Learned Tier 1
+tcn_task_completed_first_skill_set=Learned first Skill set
+tcn_task_not_join_school=Did not join school (Free)
+tcn_task_param_type={@0:name} (Fee)
+tcn_task_interact_note=Interactive Task<br><font color="#ff0000">[May not be Auto]</font>
+tcn_task_question_info_note=Question Task
+tcn_task_talk_note=Conversation
+tcn_task_interact_info_note=Interactive Task
+tcn_task_find_npc_note=Find NPC
+tcn_task_collect_info_note=Collection Task
+tcn_task_hunter_info_note=Hunter Task
+tcn_task_story_info_note=Story Task
+tcn_task_use_item_info_note=Use Item
+tcn_task_special_note=Special Task<br><font color="#ff0000">[May not be Auto]</font>
+tcn_task_convoy_info_note=Convoy or Escort Task
+tcn_task_account_not_support=Account not supported
+tcn_task_error=Error task
+tcn_task_param_block=Block {@0:num} tasks
+tcn_task_reward=Task Reward
+tcn_task_accept_task=Accept Task
+tcn_title_ai=TCN Assistant [AI]
+tcn_title_ui=Auto TCN (UI)
+tcn_title_comeback_setting=Set comeback
+tcn_title_qin=Auto Play Music
+tcn_title_select_maps_blink=Select blink maps
+tcn_title_select_maps_bac_coc=Select kidnapping maps
+tcn_title_auto_coc_setting=Auto Kidnapping Settings
+tcn_title_auto_coc_statistics=Kidnapping Statistics
+tcn_title_success=Success
+tcn_title_suggest=Suggestion
+tcn_title_message=Message
+tcn_title_note=Note
+tcn_title_info=Information
+tcn_title_confirm=Confirm
+tcn_title_notify=Notification
+tcn_title_auto_def=Auto Defense
+tcn_title_auto_swap=Auto Swap
+tcn_title_auto_swap_vip=Auto Swap VIP
+tcn_title_auto_buff_ptc=Buff Heart Buddha Palm
+tcn_title_auto_swap_setting=Auto Swap Settings
+tcn_title_shortcuts=Shortcuts
+tcn_title_quest_chain=Quest Chain
+tcn_title_auto_task=Auto Task
+tcn_title_task=Task
+tcn_title_task_nc5=Tier 5 Internal Skills tasks (Hard)
+tcn_title_task_nc6=Tier 6 Internal Skills tasks
+tcn_title_task_round=Recluse School, Faction
+tcn_title_task_round_support=Support: Recluse School & Faction
+tcn_title_auto_thien_the=Heaven Ladder challenge arena
+tcn_title_exchange_item_thien_the=Exchange Heaven Ladder Arena items
+tcn_title_setup_item_exchange=Set up item exchange
+tcn_title_my_activate=My activation code
+tcn_title_farm_ky=Farm Weiqi
+tcn_title_fixitem=Quickly repair the equipment you are carrying
+tcn_title_fixitem_setting=Fast item repair settings
+tcn_title_fix_bug_notify=Bug fix notification
+tcn_title_grow_flower=Plant flowers (Murong)
+tcn_title_auto_coc=Kidnapping Leaderboard
+tcn_title_chien_truong=Auto Battlefield
+tcn_title_auto_login=Auto login
+tcn_title_auto_login_set=Auto login settings
+tcn_title_chest_password=Chest password
+tcn_title_auto_tran=Auto Tactical formation
+tcn_title_guard_mode=Guard mode
+tcn_title_guard_set=Guard settings
+tcn_title_chi_bao_set=Set Treasure of Jianghu position
+tcn_title_luyen_cong_set=Set Team Practice
+tcn_title_di_tam=Hot Spring
+tcn_title_auto_chat=Auto Chat
+tcn_title_auto_crop=Auto Farmer
+tcn_title_auto_collect=Auto collection
+tcn_title_auto_collect_set=Auto collection settings
+tcn_title_receive_and_open_gift=Auto open gifts
+tcn_title_delete_junk_item=Set junk item deletion
+tcn_title_auto_escort=Auto Escort
+tcn_title_auto_event_switch=Return It To Its Owner
+tcn_title_auto_receive_mail=Auto receive mail
+tcn_title_auto_hang_shop=Auto Open Stall
+tcn_title_choose_map=Choose map
+tcn_title_ride_config=Mounts
+tcn_title_fast_mount=Fast Mount
+tcn_title_auto_fish=Auto Fishing
+tcn_title_auto_fish_set=Auto Fishing settings
+tcn_title_auto_hai_bo=Auto Issue Bounty
+tcn_title_hao_kiet=Auto Jianghu Legends
+tcn_title_hao_kiet_set=Auto Jianghu Legends settings
+tcn_title_hunter=Auto Hunter
+tcn_title_auto_item=Use items
+tcn_title_auto_item_set=Auto use or delete item settings
+tcn_title_modskin=Mod Skin
+tcn_title_mc=Auto Dreamland (4)
+tcn_title_spa=Hot Springs
+tcn_title_auto_pick_setting=Auto pick settings
+tcn_title_pvn=Fengyun Cliff
+tcn_title_pvn_set=Fengyun Cliff settings
+tcn_title_qpvv=Group Martial Arts Competition
+tcn_title_auto_skill_set=Auto Skill settings
+tcn_title_auto_skill=Auto Skill
+tcn_title_task_map=Tasks on Map
+tcn_title_tele=Teleport
+tcn_title_thth=Roaming the World
+tcn_title_thth_set=Roaming the World settings
+tcn_title_tq=Auto Factions Challenge
+tcn_title_tq_set=Factions Challenge settings
+tcn_title_train=Auto Train
+tcn_title_train_set=Auto Train settings
+tcn_title_choose_buff=Choose buff
+tcn_title_class_set=Impart Knowledge settings
+tcn_title_user_supplemental=Auto use Internal Cultivation
+tcn_title_ngu_hanh_thien_cung=Five Elements Palace
+tcn_title_lang_tieu_thanh=Lingxiao City
+tcn_title_doc_da_hanh=Night Walker
+tcn_title_thbb=Buff Hundred Transformations
+tcn_title_tich_lhq=Buff Arhat Fist
+tcn_title_auto_sinh_tu_phu=Life and Death Rune
+tcn_title_task_accept_and_reward=Accept and reward tasks
+tcn_title_scan_player_around=Scan players around
+tcn_title_exchange_dong_xu=Exchange Lucky Coin
+tcn_title_luyen_tuu=Alcohol Training
+tcn_title_copy_configuration=Copy configuration
+tcn_title_farm_ninja_skill=Farm Ninja skill
+tcn_title_fast_suicide=Fast Suicide
+tcn_title_set_account_to_window_name=Turn on/off the account name as the game window name
+tcn_title_exit_combat_state=Exit combat state
+tcn_title_life_farm_skill=Profession Leveling
+tcn_title_tvtt=Support Jing Sui
+tcn_luyen_nhom_tai_cho=Team Practice On-Site
+tcn_task_accept_and_reward=Accept/Reward
+tcn_tn_progress_class_1=Stop when reaching 100%
+tcn_tn_progress_class_1_hint=Stop when the progress reaches 100%!
+tcn_tn_progress_class_2=Until the end of the hour
+tcn_tn_progress_class_2_hint=Continue the progress until the end of the hour even when reaching 100%!
+tcn_num_input_label=Enter quantity:
+tcn_ui_mode=Mode
+tcn_train_around_current_coordinates=Fight around current coordinates
+tcn_train_around_set_coordinates=Fight around set coordinates
+tcn_train_by_captain=Fight according to the captain
+tcn_train_pos_limit_label=Range:
+tcn_train_not_created_team_msg=You have not created a team or there are no members!
+tcn_waiting_have_not_created_team=You have not created a team yet!
+tcn_msg_file_already_exists_confirm_overwrite=File already <font color="#47c15b">exists</font>! Do you want to <font color="#47c15b">overwrite</font> it?
+tcn_enter_file_name=Enter file name
+tcn_tq_waiting_for_team_msg_1=Teammate <font color="#ffcc00">{@0:name}</font> has not arrived!
+tcn_tq_waiting_for_team_msg_2=Teammate <font color="#ffcc00">{@0:name}</font> is still far away!
+tcn_tq_waiting_for_team_msg_3=Teammate <font color="#ffcc00">{@0:name}</font> is more than 5m away!
+tcn_tq_waiting_for_team_msg_4=Waiting for teammate <font color="#ffcc00">{@0:name}</font> to resurrect!
+tcn_tq_waiting_for_team_msg_5=Waiting for teammate <font color="#ffcc00">{@0:name}</font> more than <font color="#ffcc00">{@1:distance}m</font> away from the NPC!
+tcn_tq_team_note=Note: If the team waiting mode is enabled, auto will wait for teammates to gather before entering, and will Auto create a team if not created!
+tcn_ptc_auto_buff_gia_chieu=Auto buff Block Moves
+tcn_ptc_auto_attack=Auto Attack
+tcn_ptc_auto_move=Auto Move
+tcn_ptc_auto_attack_hint=Prioritize attacking enemies the <font color="#ffcc00">target</font> on yourself, if not, attack the nearest enemy.
+tcn_ptc_auto_move_hint=Auto move closer to the target position to attack or buff.
+tcn_ptc_add_hint=Enter the name or select the <font color="#ffcc00">player</font> to <font color="#ffcc00">buff</font>, then click the <font color="#ffcc00">add</font> button to add the target for <font color="#ffcc00">auto buff</font>.
+tcn_enable_waiting_for_team=<a href="">Enable team waiting mode</a>
+tcn_enable_tq_blink=<a href="">Enable Blink mode in Factions Challenge</a>
+tcn_enable_tq_blink_fix_bug=<a href="">Light jump to fix position bug</a>
+tcn_disabled_tq_blink_fix_bug_mdg=You have turned off position-fixing jump mode!
+tcn_test_blink_waiting_msg=Can blink again after <font color="#ff9c22">{@0:num}</font> seconds!
+tcn_link_test_blink=<a href="">Test Blink</a>
+tcn_without_player_can_not_blink_msg=It is safe to blink without players around!
+tcn_have_players_can_not_blink_msg=There are players within sight, it is not safe to blink!
+tcn_pick_setting=Item picking settings
+tcn_doing_label=Doing
+tcn_auto_accept_task_label=Auto accept quests
+tcn_open_chest=Auto open chests
+tcn_martial=Martial Art
+tcn_martial_book=Relative book
+tcn_book_page=Book page
+tcn_nc=Internal Skill
+tcn_technique=Techniques
+tcn_am_khi=Hidden Weapon
+tcn_qinggong_1=Flying Skill 1
+tcn_qinggong_2=Flying Skill 2
+tcn_zhenfa=Tactical formation
+tcn_facultybook_chip=Annotated Fragments
+tcn_ore=Ore
+tcn_fabric=Cloth
+tcn_wood=Firewood
+tcn_herbal=Herb
+tcn_doc_thao=Poisonous Herbs
+tcn_pelts=Pelts
+tcn_item_ton=Consumption
+tcn_do_pho=Manual book
+tcn_additional=Additional
+tcn_choose_zhenfa=Choose the Array
+tcn_link_captain=<a href="">Captain</a>
+tcn_pvn_captain_hint=<font color="#47c15b">Captain</font> is the one who opens the <font color="#47c15b">aisle</font> and has the ability to invite <font color="#47c15b">team members</font> (Paid).
+tcn_link_member=<a href="">Member</a>
+tcn_pvn_member_hint=<font color="#47c15b">Members</font> need an invitation to enter the <font color="#47c15b">aisle</font> (Free).
+tcn_pvn_name_input_hint=Enter the name of the <font color="#47c15b">member</font> you want to invite! You can enter <font color="#47c15b">spaces</font>, auto will <font color="#47c15b">Auto delete</font> them!
+tcn_pvn_bug_lam=Players need to learn <font color="#47c15b">Pluck the Peacock's Plume</font> and Auto will prioritize using <font color="#47c15b">Pluck the Peacock's Plume (Ancient Manual)</font><br>(Paid)!
+tcn_pvn_round=Number of rounds: <font color="#ffcc00">20</font>
+tcn_pvn_round_param=Number of rounds: <font color="#ffcc00">{@0:num}</font>
+tcn_pvn_fee_note=The <font color="#47c15b">Captain</font> and <font color="#47c15b">Pluck the Peacock's Plume</font> features are <font color="#47c15b">paid</font> features!
+tcn_pvn_set_note=Note: Floors <font color="#c0b393">21-30</font> have not <font color="#c0b393">avoided skills</font> and have not <font color="#c0b393">test run</font>!
+tcn_bug_lam_thien_ma_note=Without Pluck the Peacock's Plume, Flying Horse will be used!
+tcn_bag_fixitem_hint=It is the <font color="#ffcc00">Quick Fix Item</font> feature of <font color="#ffcc00">AutoTCN</font>
+tcn_bag_shop_hint=It is the <font color="#ffcc00">Groceries</font> feature of <font color="#ffcc00">AutoTCN</font>
+tcn_bag_open_tiem_tuy_than_hint=Is an open <font color="#ffcc00">Personal Pawnshop</font> feature of <font color="#ffcc00">AutoTCN</font>
+tcn_bug_when_label=Pluck the Peacock's Plume<br>When HP is below (%):
+tcn_auto_remove_space=Enter spaces, Auto will Auto delete them!
+tcn_invite_team_label=Invite team:
+tcn_select_floors=Select floors
+tcn_link_pick_flower=<a href="">Pick flowers</a>
+tcn_mc_note=<font face="font_tip" color="#c0b393">Note:</font><br>• Auto Dreamland (4)<br>• Quest 100 points
+tcn_modskin_label_1=Delete and refresh feature
+tcn_modskin_label_2=Lore
+tcn_modskin_label_3=Weapons
+tcn_modskin_rv_hair=Remove Hair
+tcn_modskin_rv_shirt=Remove Shirt
+tcn_modskin_rv_trousers=Remove Pants
+tcn_modskin_rv_shoes=Remove Shoes
+tcn_modskin_rv_weapons=Remove Weapons
+tcn_modskin_rv_cloak=Remove Cloak
+tcn_modskin_rv_jewelry_1=Remove Waist
+tcn_modskin_rv_jewelry_2=Remove Back
+tcn_modskin_rv_mask=Remove Mask
+tcn_modskin_rv_horse=Remove Horse
+tcn_modskin_normal_hair=Normal Hair
+tcn_modskin_pvc_hair=Lore Hair
+tcn_modskin_normal_shirt=Normal Shirt
+tcn_modskin_pvc_shirt=Lore Shirt
+tcn_modskin_trousers=Pants
+tcn_modskin_shoes=Shoes
+tcn_modskin_identity_set=Identity Outfit
+tcn_modskin_jewelry_2=Back Accessories
+tcn_modskin_jewelry_1=Waist Accessories
+tcn_modskin_mask=Mask
+tcn_modskin_horse=Horse
+tcn_modskin_cloak=Mantle
+tcn_modskin_sword=Single Sword
+tcn_modskin_dual_swords=Twin Swords
+tcn_modskin_blade=Single Blade
+tcn_modskin_dual_blade=Twin Blades
+tcn_modskin_cosh=Quarterstaff
+tcn_modskin_long_cosh=Staff
+tcn_modskin_short_sword=Dagger
+tcn_modskin_dual_thorn=Twin Daggers
+tcn_modskin_bow=U (Bow)
+tcn_modskin_enable=<a href="">Enable mod skin</a>
+tcn_modskin_enable_hint=Activate mod skin by checking the box!
+tcn_modskin_enable_change=Changed to <font color="#ffcc00">{@0:type}</font> mode <font color="#ffcc00">Mod Skin</font>!
+tcn_modskin_error_model=Model error: {@0:model}
+tcn_modskin_mount_change=This type of Mount has been applied. If you are on a horse, please dismount and call the horse again. If you are not on a horse, mount it to apply!
+tcn_pickup_all=Pick up all
+tcn_choose_lam=Choose Pluck the Peacock's Plume
+tcn_how_works=How it works
+tcn_auto_lam_type_1=Full HP, MP
+tcn_auto_lam_type_2=When thrown
+tcn_auto_lam_type_1_note=<font color="#47c15b">Note:</font><br>- Bug Pluck the Peacock's Plume full health and mana.<br>- <font color="#FF0000">This feature is considered a serious hacking bug, only use it in prohibited areas.</font>
+tcn_auto_lam_type_2_note=<font color="#47c15b">Note:</font><br>- Bug Pluck the Peacock's Plume when you are thrown (no effect when stunned).<br>- <font color="#FF0000">This feature is considered a serious hacking bug, only use it in prohibited areas.</font>
+tcn_reduce_speed_fix_lag=Reduce speed (reduce lag)
+tcn_auto_item_note=Note: Incorrect buff settings will cause auto to use items continuously
+tcn_delete_junk=Delete junk
+tcn_pick_vlts=Pick up Wulin Book
+tcn_pick_dot_pha_nc=Pick up Internal Skill Training Script
+tcn_pick_bao_vat=Pick up treasures
+tcn_hao_kiet_enable_farm_dot_pha_mode=Enable Internal Skill Training Script farm mode
+tcn_hao_kiet_farm_dot_pha_msg=The <font color="#ffcc00">Internal Skill Training Script Farm</font> mode will Auto skip if only <font color="#ffcc00">1</font> boss appears!
+tcn_hao_kiet_farm_dot_pha_hint=When selecting this mode, if encountering <font color="#c0b393">1 boss</font>, Hao Kiet will Auto <font color="#c0b393">exit</font> without fighting. Farm monsters until encountering <font color="#c0b393">2 bosses</font> Jianghu Legends at the same time to obtain Internal Skill Training Script!
+tcn_auto_hai_bo_guide=<font color="#c0b393">Guide:</font> Click to open below, enter the accurate <br>name of the player.
+tcn_choose_city=Choose city
+tcn_only_accept_free_quests=Only accept free quests
+tcn_keep_label=Keep:
+tcn_accept_team=Accept team
+tcn_escort_clear_mail_use_mld=Clear mail and use Clear Soul Pill
+tcn_escort_mld=Clear Soul Pill
+tcn_escort_round=Escort round
+tcn_today_completed_label=Today completed:
+tcn_auto_escort_team_guide=Note: If <font color="#ffcc00">disabled</font>, accepting a team will create a team of <font color="#ffcc00">6</font> people!
+tcn_auto_escort_mld_maximum_limit=Maximum of <font color="#ffcc00">680</font> Clear Soul Pill!
+tcn_delete_paint=Delete drawing
+tcn_delete_junk_item=Delete junk item
+tcn_delete_item_by_list=Delete items by list
+tcn_luyen_cong_set_label=Set Team Practice
+tcn_luyen_cong_invite=Create Team Practice
+tcn_luyen_cong_join=Join only
+tcn_luyen_cong_invite_or_join=Create Team Practice only if no one has created one
+tcn_enable_guard_mode=Activate guard mode
+tcn_on_off_guard=Turn on/off guard function
+tcn_chat_setting=Chat setting
+tcn_chat_vt=Vulgar chat
+tcn_chat_tn=Polite chat
+tcn_guard_fight_back_setting=Fight back setting
+tcn_guard_not_fight_back=Do not fight back
+tcn_guard_fight_back_high_type=Fighting until death
+tcn_guard_fight_back_low_type=Stop fighting when close to death
+tcn_restart_another_feature_after_being_hit=Restart another feature after being hit (Minute)
+tcn_chat_test=Chat test
+tcn_auto_use_ck=Use Chi pill
+tcn_auto_use_dcd=Use Tendon-changing Pill
+tcn_auto_use_tv=Use Cultivation pill
+tcn_auto_get_mail=Auto retrieve mail
+tcn_btn_history=History
+tcn_choose_seeds_label=Select seeds:
+tcn_seeds=Seeds
+tcn_get_seeds=Receive seeds
+tcn_radius_label=Radius:
+tcn_add_seeds_guide=Click on <font color="#47c15b">Receive seeds</font> to Auto add all <font color="#47c15b">seeds</font> from the <font color="#47c15b">storage</font> to the <font color="#47c15b">Seeds</font> slot!
+tcn_saved_scrap_silver_label=Saved scrap silver (L):
+tcn_harvest_time_label=Time left harvest (Min):
+tcn_harvest_time_hint=Adjust the <font color="#47c15b">Harvest Time</font> if it is incorrect. It will <font color="#47c15b">Auto</font> save after adjustment!
+tcn_input_money_hint=Auto buy flowers when <font color="#47c15b">Scrap Silver</font> is available, remaining as <font color="#47c15b">configured</font>, stops buying when there is not enough Scrap Silver or when the configured buff ends!
+tcn_ui_revenge_quit=End Pairing
+tcn_thien_the_on_off_tgv_exchange=Turn On/Off item exchange in Cheng Jieyun
+tcn_thien_the_on_off_tn_exchange=Turn On/Off item exchange in Sky Ladder Merchant
+tcn_thien_the_note=If the number of matches is incorrect, please turn off and turn on the Heaven Ladder challenge arena auto again to refresh the match count!
+tcn_thien_the_go_to_exchange_xm_mark_01=Go to exchange sword
+tcn_thien_the_warning_miss_item=You do not have enough <font color="#ffcc00">[Jackdaw Herb]</font>, skip the <font color="#ffcc00">[Zhou Yixian]</font> mission
+tcn_ui_taskfinish=Completed
+tcn_ui_condition_pass=Currently eligible to participate
+tcn_ui_event_has_ended=The event has ended
+tcn_ui_not_time_event_yet=Not time for the event yet
+tcn_support_param=Support: <font color="#ffcc00">{@0:value}</font>
+tcn_ponit=Points
+tcn_name=Name
+tcn_time=Time
+tcn_time_label=Time:
+tcn_progress=Progress
+tcn_progress_label=Progress:
+tcn_receiver=Receiver
+tcn_round=Round
+tcn_map=Map
+tcn_unfollow=Unfollow
+tcn_join_param=Join: <font color="#47c15b">{@0:value}</font>
+tcn_joined_param=Joined: <font color="#47c15b">{@0:value}</font>
+tcn_join_schools=Join school
+tcn_join_schools_choose_maximum_progress=Choose maximum progress (Join school)
+tcn_allow_blink=Allow Blink
+tcn_allow_sitcross=Allow sit-cross
+tcn_mark_on_map=Mark on map
+tcn_go_to_target_obj=To target
+tcn_guide=Guide
+tcn_newbie_guide=Newbie guide
+tcn_msg_confirm_open_func=Open the function <font color="#47c15b">{@0:value}</font>. Press continue to run Auto!
+tcn_auto_crop_introduce=The current version will <font color="#47c15b">Auto</font> find an <font color="#47c15b">empty</font> spot to plant seeds when the current spot is <font color="#47c15b">full</font>!
+tcn_there_are_no_valid=There are no suitable <font color="#ffcc00">{@0:name}</font> here!
+tcn_crop=Plant crops
+tcn_silkworm=Raise silkworms
+tcn_grow_flower=Plant flowers
+tcn_grow_flower_nlb=Plant flowers (Nianluo Dam)
+tcn_msg_confirm_open_profession_func=Auto will <font color="#ffcc00">{@0:value}</font>, do you want to continue opening the function?
+tcn_not_found_profession_npc=Profession NPC not found!
+tcn_auto_def=Auto Defense
+tcn_auto_cancel_def=Auto cancel Defense
+tcn_blink=Blink
+tcn_jogging=Jogging
+tcn_qin_buff=Buff mode
+tcn_qin_training=Train mode
+tcn_enter_content_hint=Enter content!
+tcn_enter_content_label=Enter content:
+tcn_add_pos=Add position
+tcn_cur_pos=Current position
+tcn_pos_label=Position:
+tcn_pos_label_param=Position: <font color="#47c15b">{@0:value}</font>
+tcn_choose_pos=Choose position
+tcn_choose_pos_label=Choose position:
+tcn_select_target_label=Select target:
+tcn_all_enemies=All enemies
+tcn_by_names_list=By name list
+tcn_add_all=Add all
+tcn_get_coordinates=Get coordinates
+tcn_get_pos=Get position
+tcn_get_pos_map=Get pos (Map)
+tcn_get_current_pos=Get current position
+tcn_can_mark_on_map_guide=Can <font color="#47c15b">mark</font> on the map, then click here!
+tcn_get_coordinates_dotted_on_map=Get coordinates marked on the map
+tcn_go_to_setup_pos_note=Will move to the designated position if set!
+tcn_qin_training_pos_note=Play Music in place, used for training!
+tcn_auto_revives_nearby=Auto revive nearby
+tcn_qpvv_guide=<font face="font_tip" color="#c0b393">Guide:</font><br>• Enter coordinates in the 2 boxes.<br>• Mark on the map » Get pos.
+tcn_qpvv_available_coordinates=<font face="font_tip" color="#c0b393">Available coordinates:</font>
+tcn_qpvv_blue_note=<font face="font_text">• Blue:</font> <font face="font_tip" color="#0096FF">307, -319</font>  <a href="">Get</a>
+tcn_qpvv_red_note=<font face="font_text">• Red:</font> <font face="font_tip" color="#c70000">     163, -742</font>  <a href="">Get</a>
+tcn_qpvv_support_maps_label=<font face="font_tip" color="#c0b393">Supporting maps:</font>
+tcn_qpvv_support_maps=• Group Martial Arts Competition <br>• Night City
+tcn_times=Times
+tcn_choose_maps_allow_jump=Choose maps that allow blink!
+tcn_auto_revives_nearby_note=Auto revive nearby after death!
+tcn_coc_bat_khi_con_buff=Activate when still buffed:
+tcn_coc_vi_tri_om_coc=Carry sacks position:
+tcn_coc_vi_tri_om_coc_info=Carry sacks position, allows players to set up, on each map, if not Auto will choose the nearest Hug Merchant position!
+tcn_choose_pos_note=Note: Choose a position that auto can move to, do not choose lag corners, on roofs, on trees, under water, etc.
+tcn_coc_comeback_info=Position to come back to after selling, allows players to set up, on each map, if not Auto will choose the default position!
+tcn_coc_auto_receive_and_open_gift_hint=Auto receive and open <font color="#47c15b">Daily Attendance Reward Bag</font> at <font color="#47c15b">20:00</font>. Also, Auto use <font color="#47c15b">Free Blessing</font> every day.
+tcn_coc_auto_throw_money_hint=After <font color="#47c15b">selling coc</font>, if the player has <font color="#47c15b">7D</font> or more bound silver, it will Auto activate <font color="#47c15b">Silver Pouring</font> mode, until it is under <font color="#47c15b">2D</font> bound silver, or the <font color="#47c15b">buff</font> runs out, then it will stop <font color="#47c15b">Silver Pouring</font> mode!
+tcn_coc_checked_throw_money=Enable throw Silver pieces feature
+tcn_coc_checked_black_market_trader=Enable Shady merchants feature
+tcn_coc_checked_receive_and_open_gift=Enable Daily Sign-in Reward Pack and Pray (Free)
+tcn_coc_max_8_min=Maximum time 8 minutes
+tcn_auto_swap_note=<font color="#c0b393">Note:</font> One move, one slot, and not distinguishable by page.<br>If the moves overlap, take the first move in order from page 1 to page 6.
+tcn_time_hour=Hour
+tcn_time_min=Minute
+tcn_time_sec=Second
+tcn_ky_ngo_xin=Random Encounter (VIP)
+tcn_ky_ngo_dom=Random Encounter (Poor)
+tcn_ky_ngo_skip=Skip Random Encounter
+tcn_auto_login_create_account=Create account
+tcn_auto_login_offline_set_free=Release effects
+tcn_auto_login_offline_set_free_link=<a href="">Release effects</a>
+tcn_auto_login_offline_set_free_hint=Set for the current section! After releasing effects, it will teleport to the selected map!
+tcn_auto_login_run_ai_function=Run TCN Assistant [AI]
+tcn_auto_login_run_ai_function_link=<a href="">Run TCN Assistant [AI]</a>
+tcn_auto_login_luyen_chi_bao=Treasure of Jianghu
+tcn_auto_login_luyen_chi_bao_link=<a href="">Treasure of Jianghu</a>
+tcn_auto_login_luyen_cong=Team Practice
+tcn_auto_login_luyen_cong_link=<a href="">Team Practice</a>
+tcn_auto_login_learning_nc2=Open gift box and exchange Internal Skill 2
+tcn_auto_login_learning_nc2_link=<a href="">Learn internal 2</a>
+tcn_auto_login_learning_nc3=Open gift box and exchange Internal Skill 3
+tcn_auto_login_learning_nc3_link=<a href="">Learn internal 3</a>
+tcn_auto_login_learning_nc6=Open gift box and exchange Internal Skill 6
+tcn_auto_login_learning_nc6_link=<a href="">Learn internal 6</a>
+tcn_auto_login_quest_chain=Quest chain
+tcn_auto_login_quest_chain_link=<a href="">Quest chain</a>
+tcn_auto_login_nhan_tinh_bao=Spy VIP
+tcn_auto_login_nhan_tinh_bao_link=<a href="">Spy VIP</a>
+tcn_auto_login_sinh_tu_phu=Life and Death Rune
+tcn_auto_login_sinh_tu_phu_link=<a href="">Life and Death Rune</a>
+tcn_auto_login_auto_job=Learn a Craft
+tcn_auto_login_auto_job_link=<a href="">Learn a Craft</a>
+tcn_auto_login_optional_function=Optional functions
+tcn_auto_login_optional_function_link=<a href="">Optional functions</a>
+tcn_auto_login_note=Note: First, select "section" then select feature!
+tcn_auto_login_start_hint=Start <font color="#47c15b">automatic</font> login!
+tcn_auto_login_ascending_name=Name in ascending order
+tcn_auto_login_random_name=Random name
+tcn_auto_login_section_paran=Section {@0:num}
+tcn_auto_login_choose_section=Choose section
+tcn_auto_login_section_label=Section:
+tcn_auto_login_setting_nc_max_level=Set the maximum level!
+tcn_auto_login_learning_nc_hint=Auto open gift box and exchange Internal Skill
+tcn_auto_login_random_name_hint=<font color="#ffcc00">Random</font> names can only be set <font color="#ffcc00">manually</font>!
+tcn_auto_login_enter_max_exchange_level=Enter the maximum level to exchange:
+tcn_auto_login_selected_level_param=You have selected level: <font color="#ffcc00">{@0:num}</font>
+tcn_auto_login_selected_data_incorrect=Incorrect data for section <font color="#ffcc00">[{@0:num}]</font>!
+tcn_auto_login_you_can_exchange_max_is_param=You can exchange a maximum of <font color="#ffcc00">{@0:value}</font> levels!
+tcn_auto_login_open_edit_name_file=Open the <font color="#47c15b">edit name</font> file for Create Account function!
+tcn_auto_login_start_num_guide=Enter the <font color="#47c15b">start</font> number (will be appended to the <font color="#47c15b">username</font>, running from <font color="#47c15b">start</font> to <font color="#47c15b">end</font>)<br><font color="#47c15b">Example:</font> Username: <font color="#47c15b">autotcn</font>, current number <font color="#47c15b">1</font> => <font color="#47c15b">autotcn1</font>!
+tcn_auto_login_end_num_guide=Enter the <font color="#47c15b">end</font> number (will be appended to the <font color="#47c15b">username</font>, running from <font color="#47c15b">start</font> to <font color="#47c15b">end</font>)<br><font color="#47c15b">Example:</font> Username: <font color="#47c15b">autotcn</font>, current number <font color="#47c15b">1</font> => <font color="#47c15b">autotcn1</font>!
+tcn_auto_login_save_cur_section=Save for the selected <font color="#47c15b">section</font>!
+tcn_auto_login_get_mail_user_kt=Get mail, use Artifact
+tcn_auto_login_get_mail_user_tn=Get mail, use Comprehension
+tcn_nghe_ren=Blacksmith
+tcn_nghe_may=Tailor
+tcn_nghe_xao=Craftsman
+tcn_shortcuts_ai=TCN Assistant [AI] Interface (Ctrl + Shift + A)
+tcn_shortcuts_auto_ct=Auto Battlefield (Ctrl + Shift + B)
+tcn_shortcuts_auto_coc=Auto Kidnap (Ctrl + Shift + C)
+tcn_shortcuts_auto_def=Auto Defense (Ctrl + Shift + D)
+tcn_shortcuts_auto_vt=Auto Escort (Ctrl + Shift + E)
+tcn_shortcuts_auto_item=Auto Use Items (Ctrl + Shift + I)
+tcn_shortcuts_auto_skill=Auto Skill (Ctrl + Shift + S)
+tcn_shortcuts_auto_train=Auto Train Interface (Ctrl + Shift + T)
+tcn_shortcuts_auto_fixitem=Quick fix equipped items (Ctrl + Shift + F)
+tcn_shortcuts_auto_find_player=Scan players around (Ctrl + Shift + Q)
+tcn_shortcuts_auto_thbb=Buff Hundred Transformations (Ctrl + Shift + H)
+tcn_shortcuts_shortcut_interface=Shortcut Interface (Ctrl + K)
+tcn_shortcuts_auto_hang_shop=Auto Open Stall Interface (Ctrl + P)
+tcn_shortcuts_auto_task_new=Auto TaskNew Interface (Ctrl + N)
+tcn_shortcuts_auto_blink=Auto Blink Interface (Ctrl + B)
+tcn_shortcuts_auto_tcn=AutoTCN Interface (Ctrl + U)
+tcn_shortcuts_tele=Teleport Interface (Ctrl + T)
+tcn_shortcuts_auto_receive_mail=Auto Mail Retrieval Interface (Ctrl + M)
+tcn_shortcuts_auto_bug_lam=Bug Pluck the Peacock's Plume Interface (Ctrl + L)
+tcn_shortcuts_auto_buff_ptc=Buff Heart Buddha Palm Interface (Shift + B)
+tcn_fixitem_auto_coc=Quickly repair items on Auto Kidnap
+tcn_fixitem_auto_train=Quickly repair items on Auto Train
+tcn_fixitem_auto_tiguan=Quickly repair items on Auto Factions Challenge
+tcn_fixitem_auto_thth=Quickly repair items on Auto Roaming the World
+tcn_fixitem_auto_haojie=Quickly repair items on Auto Jianghu Legends
+tcn_fixitem_auto_hunter=Quickly repair items on Auto Hunter
+tcn_fixitem_auto_thien_the=Quickly repair items on Auto Heaven Ladder challenge arena
+tcn_fixitem_auto_battle=Quickly repair items on Auto Battlefield
+tcn_fixitem_auto_task_round=Quickly repair items on Auto Recluslve/Faction
+tcn_fixitem_auto_task_nc6=Quickly repair items on Auto Tier 6 Internal Skill tasks
+tcn_fixitem_auto_task_new=Quickly repair items on Auto TaskNew
+tcn_fixitem_auto_throw_money=Quickly repair items after Throw Money
+tcn_fixitem_auto_cd=Quickly repair items after Forbidden Instance
+tcn_fixitem_btn=Quick fix items
+tcn_fixitem_note=To quickly fix equipment:<br>Chat <font color="#c0b393">/fix</font> or press <font color="#c0b393">Ctrl + Shift + F</font>
+tcn_fixitem_hint=Auto fix <font color="#47c15b">equipment</font> with durability from <font color="#47c15b">50%</font> downwards, compared to the <font color="#47c15b">maximum</font> durability of that item!
+tcn_loading_init_data=Initializing data
+tcn_loading_init_user_package=Auto is initializing
+tcn_loading_activate=Activating
+tcn_loading_auto_coc_maps=Getting the list of kidnap maps
+tcn_loading_auto_coc_map_detail=Loading
+tcn_loading_moi_gio_tham_lam=Getting Shady merchants data
+tcn_loading_task_new=Initializing data
+tcn_loading_task_round=Getting mission information
+tcn_loading_auto_login=Initializing data
+tcn_loading_news=Loading
+tcn_loading_check_activate=Checking activation
+tcn_loading_check_update=Checking updates
+tcn_loading_upgrade_progress=Updating AutoTCN
+tcn_loading_my_activation_code=Loading
+tcn_loading_get_player_config=Loading
+tcn_loading_backup_player_config=Backing up settings
+tcn_chat_get_final=Last Chat line
+tcn_chat_type_1_note=Nearby, Scene, School, Recluslve, Faction, Eastern Seas (Sec)
+tcn_chat_type_2_note=Guild, Alliance (Sec)
+tcn_chat_type_3_note=World (Sec)
+tcn_chat_type_1_hint=Minimum time 10s
+tcn_chat_type_2_hint=Minimum time 10s
+tcn_chat_type_3_hint=Minimum time 60s
+tcn_chat_msg_type_1=Nearby, Scene, School, Recluslve, Faction, Eastern Seas chat with minimum time 10s
+tcn_chat_msg_type_2=Guild, Alliance chat with minimum time 10s
+tcn_chat_msg_type_3=World chat with minimum time 60s
+tcn_npc_tran_goi_van=Cheng Jieyun
+tcn_npc_thuong_nhan=Sky Ladder Merchant
+tcn_enter_activation_code_label=Enter activation code:
+tcn_enter_my_activation_code=Enter your activation code
+tcn_check_update=Check update
+tcn_commands=List commands
+tcn_version=Version
+tcn_ui_functions=Functions
+tcn_zero_box=0 Box
+tcn_num_boxs={@0:value} Boxes
+tcn_num_pills={@0:value} Pills
+tcn_num_pieces={@0:value} Pieces
+tcn_num_sets={@0:value} Sets
+tcn_edit_name=Edit name
+tcn_edit_manual=Manual edit
+tcn_open_edit_manual=Open the <font color="#47c15b">manual edit</font> file!
+tcn_you_not_learned_param=You have not learned <font color="#ffcc00">[{@0:value}]</font>
+tcn_chest_password_invalid=Invalid chest password!
+tcn_chest_password_removed=Successfully removed chest password!
+tcn_incorrect_password=Incorrect password!
+tcn_from=From
+tcn_to=To
+tcn_joining_match=Joining pairing
+tcn_stop_exchange_swords=Stop exchanging Pure Yang Sword
+tcn_stop_exchange=Stop exchange
+tcn_start_exchange=Start exchange
+tcn_warning_ai_running_other_task=Running another task, cannot exchange items!
+tcn_item_exchange_stopped=Auto item exchange has stopped!
+tcn_completed_item_exchange=Item exchange completed!
+tcn_return_to_morgue=Return to the Revival Point!
+tcn_blink_to_param_m=Blink to: <font color="#ffcc00">{@0:distance}m</font>
+tcn_distance_param_m=Distance: <font color="#ffcc00">{@0:distance}m</font>
+tcn_distance_label=Distance:
+tcn_arrived=Arrived!
+tcn_in_coma=Faint!
+tcn_stop_blink=Stop blink
+tcn_btn_blink_to=Blink to
+tcn_btn_go_to_coordinates=Coordinates
+tcn_msg_auto_correcting_jumps=Auto correcting jumps!
+tcn_please_enter_x=Please enter X!
+tcn_please_enter_y=Please enter Y!
+tcn_enter_x=Enter X
+tcn_enter_y=Enter Y
+tcn_please_mark_on_map=Please <font color="#ffcc00">mark the position</font> on the map!
+tcn_marked_on_map_taken=Marked position on the map taken!
+tcn_target_not_found=Target not found!
+tcn_enter_player_name=Enter player name!
+tcn_enter_name_required=Name not entered!
+tcn_tele_advanced_link=<a href="">Advanced Tele</a>
+tcn_tele_advanced_link_hint=Advanced Tele (No cooling down)
+tcn_msg_no_task=No tasks!
+tcn_msg_no_support_my_schools=Not supported for your school!
+tcn_time_to=to
+tcn_hint_from_to={@0:type} from {@1:form}->{@2:to}
+tcn_please_wait_num_time=Wait for <font color="#ffcc00">{@0:second}s</font> before performing again!
+tcn_note_show_chat_info=Information will be displayed in the <font color="#47c15b">Combination</font> and <font color="#47c15b">Raid</font> Chat bars. Content is visible only to you!
+tcn_activate_countdown=Activate ({@0:second})
+tcn_sookshelves=Bookshelf
+tcn_book_box=Scattered Bookcase
+tcn_book_bearer=Book bearer
+tcn_find_books_stopped=Stopped searching for books!
+tcn_list_attack_you=People attacking you
+tcn_please_select_chat_type=Please select at least 1 Chat type!
+tcn_enemy_param=Enemy: {@0:name}
+tcn_enemy_not_found=No enemies found
+tcn_msg_guard_mode_start=Activated Guard mode!
+tcn_msg_guard_mode_stop=Stop Guard mode!
+tcn_not_tele=No teleport
+tcn_you_selected_map_success=You have successfully selected <font color="#ffcc00">{@0:map}</font>!
+tcn_format_error=<font color="#c70000">{@0:msg}</font>
+tcn_msg_invalid_item=Invalid item!
+tcn_auto_toa_ky_guide=Put Mounts or Windrider here, and take it out to stack functions!
+tcn_throw_money_start=Throw money
+tcn_throw_money_stop=Stop Throw money
+tcn_msg_throw_money_enabled=Enabled throw Silver pieces!
+tcn_msg_throw_money_stopped=Stopped throw Silver pieces!
+tcn_qin_player=Musician
+tcn_msg_find_qin_stopped=Stopped searching for Musician!
+tcn_find_qin_start=Find Musician
+tcn_find_qin_stop=Stop find Musician
+tcn_show_hp_percent=Show % HP
+tcn_hide_hp_percent=Hide % HP
+tcn_btn_farm_ky_stop=Stop Weiqi
+tcn_btn_farm_ky_start=Farm Weiqi
+tcn_find_books_start=Find books
+tcn_find_books_stop=Stop find books
+tcn_find_tree_start=Find tree
+tcn_find_tree_stop=Stop find tree
+tcn_de_ping_start=De ping
+tcn_de_ping_stop=Stop De ping
+tcn_commands_chat_title=-------------------- <font face="font_title" color="#47c15b">Chat</font> --------------------<br>
+tcn_commands_shortcuts_title=<br>-------------------- <font face="font_title" color="#ff9c22">Shortcuts</font> --------------------<br>
+tcn_enter_fps_label=Set FPS:
+tcn_fps_guide=Set to <= 0 for default FPS!
+tcn_set_fps_max=Set maximum <font color="#ffcc00">{@0:value}</font> FPS
+tcn_msg_notify_not_found=No notification, or unable to load notification!
+tcn_msg_please_wait=Wait for <font color="#ffcc00">{@0:second}s</font> before performing again!
+tcn_btn_delete_hint=Delete <font color="#47c15b">{@0:config}</font> from the list!
+tcn_receive_mail_btn_hint=Remove <font color="#47c15b">{@0:config}</font> from the mail withdrawal list!
+tcn_add_item_guide=Hold the item <font color="#47c15b">in hand</font>, and place it here!
+tcn_add_item=Add item
+tcn_receive_mail_warning=You haven't added an item to the list yet!
+tcn_msg_not_time_yet=Not time yet!
+tcn_msg_auto_def_monster_enabled=<font color="#ffcc00">Defense monsters</font> activated!
+tcn_msg_auto_def_monster_stopped=<font color="#ffcc00">Defense monsters</font> stopped!
+tcn_msg_cancel_def_skill=<font color="#ff00ff">[{@0:skill}]</font> (Cancel defense)
+tcn_hint_lock_arrange_manual=<font color="#47c15b">AutoTCN</font> temporarily disabled, to <font color="#47c15b">avoid errors</font>, will be re-enabled in a few seconds!
+tcn_tele_msg_warning=Cannot teleport to this map!
+tcn_tele_data_error=Teleport data error
+tcn_go_to_coc_format=Move to: <font color="#ffcc00">{@0:name}</font> - [Buff: <font color="#ffcc00">{@1:buff}</font>] - [Distance: <font color="#ffcc00">{@2:distance}m</font>]
+tcn_go_to_merchant_format=Go to merchant [<font color="#ffcc00">{@0:name}</font>] - Distance: <font color="#ffcc00">{@1:distance}m</font>
+tcn_go_to_pos_format=Go to position [<font color="#ffcc00">{@0:name}</font>] - Distance: <font color="#ffcc00">{@1:distance}m</font>
+tcn_auto_coc_loading_warning=[Auto Kidnap] After <font color="#ffcc00">{@0:second}s</font> the function will Auto execute!
+tcn_restart_function_timer=After <font color="#ffcc00">{@0:second}s</font> the functions will be restart!
+tcn_restart_function_timer_min=After <font color="#ffcc00">{@0:min} minutes {@1:second} second</font> the functions will be restart!
+tcn_msg_monster_attack=Counterattack: [<font color="#ffcc00">{@0:npc}</font>]
+tcn_msg_find_other_pos_for_tele=Finding another position to teleport to!
+tcn_msg_please_select_add_map=Please select additional Map!
+tcn_msg_established_om_coc_minutes=Established kidnapping in advance: <font color="#ffcc00">{@0:min}</font> minutes!
+tcn_msg_auto_coc_stopped=Stop auto kidnapping!
+tcn_msg_auto_coc_add_black_list=Add [<font color="#ffcc00">{@0:name}</font>] to the blacklist!
+tcn_msg_find_another_merchant=Finding another Merchant!
+tcn_msg_dao_bao_stopped=Stop teleporting to the location <font color="#ffcc00">Foreign Rare Treasure Map</font>!
+tcn_msg_dao_bao_running=Teleporting to <font color="#ffcc00">Foreign Rare Treasure Map</font>, move to stop Auto!
+tcn_auto_slogan=Start for free, and upgrade when you want
+tcn_grow_flower_buy_note=You can buy: <font color="#ffcc00">{@0:num}</font> flowers
+tcn_grow_flower_time_note=Growing time: <font color="#ffcc00">{@0:num}</font> hours
+tcn_tool_upgrade_hint=Click <font color="#47c15b">here</font> to <font color="#47c15b">check</font> what <font color="#47c15b">upgrade/bug fixes</font> the current auto version needs!
+tcn_tool_activate_hint=Click <font color="#47c15b">here</font> to <font color="#47c15b">Activate</font> some <font color="#47c15b">Premium</font> features on <font color="#47c15b">Auto TCN</font>!
+tcn_blink_95=To 95m
+tcn_blink_70=To 70m
+tcn_blink_50=To 50m
+tcn_blink_20=To 20m
+tcn_blink_obj_name=Object name
+tcn_blink_to_name=To Target name
+tcn_blink_target=To Target
+tcn_blink_to_mark_on_map=Blink to Distance or Mark on the map
+tcn_blink_to_forward=Blink forward by n (m)
+tcn_blink_enter_distance=Enter distance and blink to
+tcn_blink_pick_mark_on_map=Pick a point on the map and blink to
+tcn_blink_to_xy=Blink to coordinates (x, y)
+tcn_blink_enter_xy_and_blink=Enter coordinates x, y and blink to
+tcn_blink_up_20=Up 20m
+tcn_left_click_to_blink=Left click to blink
+tcn_blink_down_ground=Down
+tcn_ui_option=Options
+tcn_suicide_stuck=Suicide when stuck
+tcn_tele_to_leader=Teleports according to captain
+tcn_allows_attacking_players=Allow attacking players
+tcn_export_pt=Export PT file
+tcn_msg_reconnecting=<font color="#8fd6ef">Network disconnected</font>, check and <font color="#8fd6ef">reconnect</font>!
+tcn_reconnecting=Reconnecting
+tcn_welcome_window_title=Thank you for using AutoTCN!
+tcn_auto_swap_weapon=Swap Glove, Weapon
+tcn_auto_swap_weapon_hint=Reminder:<br>- This feature supports swapping Weapon with high "% skill.
+tcn_auto_swap_oan=Swap Glove
+tcn_auto_swap_oan_hint=Reminder:<br>- This feature supports swapping Glove with high "% skill.
+tcn_auto_swap_equip=Swap Outfit
+tcn_auto_swap_equip_hint=Reminder:<br>- This feature supports swapping Outfit with high "% skill".
+tcn_auto_swap_bt=Swap Annotate Book
+tcn_auto_swap_bt_hint=Reminder:<br>- This feature helps swap <font color="#ffcc00">Annotate Books</font> with suitable skill lines. If no suitable Annotate Book is found, it will use <font color="#ffcc00">Sun and Moon Demon King's Pen</font>, <font color="#ffcc00">Pen of the Primal Sun</font>, <font color="#ffcc00">Crimson Blood Icon.</font>
+tcn_auto_swap_fast=Change weapons quickly
+tcn_auto_swap_fast_hint=Reminder:<br>- This feature supports automatically changing the Weapon type to match the skill set.
+tcn_dao_thanh_hai=Penglai Island
+tcn_di_hoa_cung=Palace of Shifting Flowers
+tcn_path_finding=AutoTCN path finding
+tcn_select_pigeon_on_mailbox=Select the <font color="#ffcc00">Pigeon</font> to buy a <font color="#ffcc00">Carrier Pigeon</font>
+tcn_enable_auto_character_selection=Enable automatic character selection
+tcn_enable_auto_character_selection_hint=When connection is lost, AI will automatic choose the character!
+tcn_use_suicide_feature_required=To use the suicide feature, you need to learn at least 1 of the following 2 skills: <font color="#ffcc00">{@0:skill1}</font> and <font color="#ffcc00">{@0:skill2}</font>.
+tcn_auto_login_chest_password_required=Please enter chest password for Auto Login!
+tcn_auto_login_check_chest_password=Check chest password on Auto Login!
+tcn_receive_mail_rewards=Receive mail rewards
+tcn_blink_to_center=Jump to the center
+tcn_cancel_task_and_retake_to_right=Cancel the task and retake it until it's right!
+tcn_join_vip_require=Must be a <font color="#ffcc00">Jianghu VIP</font> to participate in <font color="#ffcc00">{@0:title}</font>
+tcn_pet=Pet
+tcn_thbb_swap_nc3_cb=Auto Swap Tier 3 Internal Beggar's Sect, auto swap back to previous internal when turned off!
+tcn_equip_world_gold=Equip dropped in core game (Gold)
+tcn_equip_world_jade=Equip dropped in core game (Jade)
+tcn_use_sinh_tu_phu=Use Life and Death Rune
+tcn_accept_sinh_tu_phu=Accept Life and Death Rune
+tcn_auto_roll_ao_ao_title=Refine until:
+tcn_auto_roll_ao_ao_0=Any quality
+tcn_auto_roll_ao_ao_100=Gold or Jade Quality
+tcn_auto_roll_ao_ao_400=Jade Quality
+tcn_member_limit=Member limit
+tcn_invalid_tool_warning=AutoTCN version is incomplete! Please check and re-install the official version!
+tcn_auto_move_last_pos=Auto move after respawn
+tcn_tiguan_level_1=Level 1
+tcn_tiguan_level_2=Level 2
+tcn_tiguan_level_3=Level 3
+tcn_tiguan_level_4=Level 4
+tcn_tiguan_level_5=Level 5
+tcn_tiguan_level_6=Level 6
+tcn_ui_stop_getprize=Stop receiving rewards
+tcn_priority_list=Priority list
+tcn_enable_withdraw_world_auction_letter=Enable withdrawal of World Auction letter
+tcn_run_with_tcn_assistant=Run with TCN Assistant
+tcn_link_custom_name=<a href="">Custom name</a>
+tcn_link_random=<a href="">Random</a>
+tcn_link_id_as_name=<a href="">ID as name</a>
+tcn_personal_list=Personal list
+tcn_default_list=Default list
+tcn_livestream_mode=Livestream mode
+tcn_switch_livestream_mode=[<font color="#ffcc00">{@0:type}</font>] Livestream mode!
+tcn_copy_current_username_to_new_username_hint=Copy from the current account to the new account!<br><br><font color="#47c15b">Example:</font> New account name: <font color="#47c15b">autotcn1</font><br>or for 1-50, enter: <font color="#47c15b">autotcn|1|50</font>
+tcn_enter_new_username=Enter new account name
+tcn_copy_no_ai=Do not copy AI
+tcn_copy_no_skill=Do not copy Auto Skill
+tcn_copy_no_swap=Do not copy Auto Swap
+tcn_copy_no_chest_password=Do not copy Chest Password
+tcn_copy=Copy
+tcn_msg_username_invalid=Invalid account name!
+tcn_msg_copy_faild=Copy failed!
+tcn_follow_settings=Follow Settings
+tcn_auto_follow=Follow
+tcn_stop_follow=Stop Following!
+tcn_follow_team_member_label=Team Member:
+tcn_follow_captain=Follow the captain
+tcn_enter_team_member_name=Enter the name of your team member! It will not work outside the team!
+tcn_distance_unit=m
+tcn_auto_start=Auto Start
+tcn_dodge_boss_skill_label=Dodge Skills:
+tcn_no_dodge_boss_skill=Do Not Dodge Boss Skills
+tcn_no_dodge_boss_skill_label=Do Not Dodge Skills:
+tcn_pvp_defense_counterattack_hint=Counterattack when the opponent uses a defense-breaking skill!
+tcn_pvp_defense_counterattack=Counterattack
+tcn_swap_nc_van_thu=Swap Beast Villa Internal Skill
+tcn_swap_nc_van_thu_hint=Automatically swap Beast Villa Internal Skill when your health is low!
+tcn_blood_belowt_percent=Health remaining below (%):
+tcn_swap_battlefield_weapon=Swap Battlefield Weapon
+tcn_swap_battlefield_weapon_hint=Automatically swap battlefield weapon when the opponent's health is low!
+tcn_swap_oan_doc_parry=Swap Poison Maker Bracer when Parry
+tcn_swap_oan_doc_parry_hint=Automatically swap Poison Maker Bracer when you Parry!
+tcn_ninja_role_title_9321=Junior Ninja
+tcn_ninja_role_title_9319=Ashigaru
+tcn_ninja_role_title_9184=Intermediate Ninja
+tcn_ninja_task_1=I'd like learn some Japanese
+tcn_ninja_task_2=Spy on the Japanese
+tcn_ninja_task_3=Check the North Bay Village
+tcn_ninja_task_4=Check Wuji Island
+tcn_ninja_task_5=Collect Clay
+tcn_ninja_task_6=A Friendly Match
+tcn_bug_tele_dao_thanh_hai=Tele bug to Penglai Island
+tcn_disguise=Disguise
+tcn_exchange_apprenticeship_value=Exchange Apprenticeship Value
+tcn_faculty_event_fc_02_c=Hunyuan Tendon-Relaxing Pill (Day One)
+tcn_item_4nei_duihuan=Sheepskins scraps
+tcn_item_5nei_duihuan=Martial Merit Token
+tcn_item_jindi_duihuan=He Family Jade Fragment
+tcn_item_exc_fc_mml=Demon Gate Token
+tcn_item_exc_fc_hss=Desolate Beast Stone
+tcn_item_jianghu_clone_key=Jianghu Forbidden Instance Order Plate
+tcn_stall_paid_package_support_save_items=Supports saving items when using a paid package!
+tcn_stall_you_not_activated_load_item=Sorry...! Your package does not support saving items! 
+tcn_wait_for_the_end_internal_cultivation=Wait for Internal Cultivation
+tcn_wait_for_the_end_internal_cultivation_hint=Wait until the 200% Internal Cultivation speed boost ends to proceed to the next step!
+tcn_guide_format_1={@0:dots} <a href="send_command,{@1:cmd}" style="HLStypefaction" face="font_title">[Open]</a> Chat <font color="#c0b393">{@2:cmd1}</font> open <font color="#c0b393">{@3:name}</font><br>{@4:desc}
+tcn_guide_format_2={@0:dots} <a href="send_command,{@1:cmd}" style="HLStypefaction" face="font_title">[Open]</a> Chat <font color="#c0b393">{@2:cmd1}</font> or <font color="#c0b393">{@3:cmd2}</font> open <font color="#c0b393">{@4:name}</font><br>{@5:desc}
+tcn_guide_ai_description=(Spy, Team Practice, Impart Knowledge, Battlefield, Heaven Ladder challenge arena, Hot Spring,<br>Kidnap, Factions Challenge, Escort, Collect, Hunter, Recluse School, Faction,...)<br>
+tcn_guide_task_new_description=(Can do all tasks + <font color="#c0b393">Novice is Guide</font>)<br>
+tcn_guide_fast_suicide_description=(Should be used in quiet places)<br>
+tcn_guide_exit_combat_state_description=(Error that cannot press Esc).<br>
+tcn_auto_bag_arrange=Auto arrange bag
+tcn_auto_reduce_purchase_quantity=Auto reduce purchase quantity
+tcn_auto_reduce_purchase_quantity_hint=Purchase quantity decreases when others sell the same item!
+tcn_warning_restart_game_after_upgrade=Please completely exit the game, wait about 30 seconds, then reopen it to receive the latest updates!
+tcn_you_not_learned_job_param=You have not learned the job <font color="#ffcc00">{@0:value}</font>
+tcn_open_farm_job_hint=Chat <font color="#47c15b">/farmnghe</font> or <font color="#47c15b">/farmjob</font> in chat to open the feature. This feature can be added to the <font color="#47c15b">TCN Assistant [AI]</font> for automation.
+tcn_tvtt_no_change=Players can only choose a sect once per week.
+tcn_school_task_param=School Task: <font color="#ffcc00">{@0:num}/{@1:max}</font>
+tcn_map_task_param=Map Task: <font color="#ffcc00">{@0:num}/{@1:max}</font>
+tcn_remaining_available_reflections_today=The remaining available Reflections today: <font color="#ffcc00">{@0:point}</font>
+tcn_time_remaining=Time remaining: <font color="#ffcc00">{@0:time}</font>
+tcn_time_remaining_min=Time remaining: <font color="#ffcc00">{@0:min} minutes, {@1:sec} seconds</font>
+tcn_time_remaining_full=Time remaining: <font color="#ffcc00">{@0:hour} hours {@1:min} minutes {@2:sec} seconds</font>
+

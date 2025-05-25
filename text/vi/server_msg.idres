@@ -1,0 +1,42 @@
+
+tcn_dll_can_not_connect_server=Không thể kết nối đến máy chủ!
+tcn_dll_connection_server_failed_function_limited=Kết nối đến máy chủ thất bại, chức năng bị hạn chế!
+tcn_dll_cannot_activated=Hiện tại chưa thể kích hoạt!
+tcn_dll_data_not_match=Dữ liệu không phù hợp!
+tcn_dll_data_not_match_function_limited=Dữ liệu không phù hợp, chức năng bị hạn chế!
+tcn_dll_you_have_not_activated_auto=Bạn chưa kích hoạt Auto!
+tcn_dll_invalid_activation_code=Mã kích hoạt không hợp lệ!
+tcn_dll_data_error=Dữ liệu có vấn đề!
+tcn_dll_data_error_try_reset_game=Dữ liệu có vấn đề, thử khởi động lại game!
+tcn_dll_app_out_of_date=Ứng dụng của bạn đã lỗi thời!
+tcn_dll_verification_failed=Xác thực thất bại
+tcn_dll_data_sync_failed=Đồng bộ dữ liệu thất bại!
+tcn_dll_file_download_failed=Tải tệp thất bại!
+tcn_dll_progress_not_exist=Tiến trình không tồn tại!
+tcn_dll_your_plan_not_support_feature=Rất tiếc...! Gói của bạn không hỗ trợ tính năng này!
+tcn_dll_sync_data_to_cloud_success=Đồng bộ dữ liệu lên đám may thành công!
+tcn_dll_get_my_config_failed=Lấy thông tin cài đặt thất bại!
+tcn_dll_get_my_activation_failed=Lấy mã kích hoạt thất bại!
+tcn_dll_check_update_failed=Kiểm tra cập nhật thất bại!
+tcn_server_activated=Đã kích hoạt!
+tcn_server_activation_success=Kích hoạt thành công!
+tcn_server_func_not_activated=Chức năng chưa được kích hoạt!
+tcn_server_your_package_not_support_map=Gói của bạn không hỗ trợ Map này!
+tcn_server_you_using_latest_version=Bạn đang sử dụng phiên bản mới nhất!
+tcn_server_new_version_available=Đã có phiên bản mới, hãy truy cập vào trang <a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">autotcn.com</a> để tải phiên bản mới nhất!
+tcn_server_invalid_activation_code=Mã kích hoạt không hợp lệ!
+tcn_server_use_unofficial_version=Bạn đang sử dụng phiên bản không chính thống! Vui lòng tải xuống tại [autotcn.com]
+tcn_server_invalid_id=ID không hợp lệ!
+tcn_server_upgrade_required=Cần nâng cấp phiên bản mới để có thể sử dụng!<br>Hãy truy cập vào trang <a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">autotcn.com</a> để tải phiên bản mới nhất!
+tcn_server_try_reset_game=Thử khởi động lại game.<br>Nến vẫm không vào được, cần nâng cấp phiên bản mới để có thể sử dụng!<br>Hãy truy cập vào trang <a color="#ff9c22" href="http://autotcn.com/9yin" style="HLStypefaction" face="font_title">autotcn.com</a> để tải phiên bản mới nhất!
+tcn_server_blocked=Rất tiếc... Bạn bị cấm sử dụng <font color="#ff9c22">AutoTCN</font>!
+tcn_server_invalid_version=Phiên bản của bạn không hợp lệ!
+tcn_server_you_not_sync_data=Bạn chưa có dữ liệu đồng bộ!
+tcn_server_sync_success=Đồng bộ thành công!
+tcn_server_please_init_auto=Vui lòng làm mới dữ liệu kết nối! (Bằng cách Chat <font color="#ff9c22">/ui</font> và bấm vào nút <font color="#ff9c22">Làm mới</font>!
+tcn_dll_add_user_success=Thêm người dùng thành công! 
+tcn_dll_username_invalid=Tên tài khoản đăng nhập không hợp lệ!
+tcn_dll_password_invalid=Mật khẩu không hợp lệ!
+tcn_dll_chest_password_invalid=Mật khẩu rương không hợp lệ!
+tcn_dll_init_error=Rất tiếc... Auto khởi tạo thất bại!<br>Vui lòng kiểm tra <font color="#47c15b">kết nốt</font> của bạn và <font color="#47c15b">thử lại</font>!
+

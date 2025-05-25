@@ -1,0 +1,32 @@
+[2025-05-25 09:20:02] [Log] AutoTCN: TCNCore.dll path: C:\CuuAmChanKinh2\bin64\tcncore.dll
+[2025-05-25 09:20:02] [Log] AutoTCN: Finding game process...
+[2025-05-25 09:20:04] [Log] AutoTCN: Inject TCNCore.dll thành công!
+[2025-05-25 09:20:04] [Log] TCNCore: Platform (x64)
+[2025-05-25 09:20:04] [Log] TCNCore: [DNSBypass] Start
+[2025-05-25 09:20:04] [Log] TCNCore: Finding game process...
+[2025-05-25 09:20:04] [Log] TCNCore: Unpacking...
+[2025-05-25 09:20:04] [Log] TCNCore: Get MAC Addresses [...]
+[2025-05-25 09:20:04] [Log] TCNCore: Get MAC Addresses [Done]
+[2025-05-25 09:20:04] [Log] TCNCore: Unpack completed (0.125457 seconds)
+[2025-05-25 09:20:05] [Log] TCNCore: NetFirewallRule
+[2025-05-25 09:20:11] [Log] TCNCore: Socket bypass
+[2025-05-25 09:20:23] [Log] TCNCore: Load tcn files...
+[2025-05-25 09:20:32] [Log] TCNCore: Load tcn files completed (8.639509 seconds)
+[2025-05-25 09:20:32] [Log] TCNCore: Clear stack
+[2025-05-25 09:20:32] [Log] TCNCore: Connecting...
+[2025-05-25 09:20:32] [Log] TCNCore: [DNSBypass] Mapped
+[2025-05-25 09:20:32] [Log] TCNCore: v1.2.84 (284) DLL-40
+[2025-05-25 09:20:32] [Log] TCNCore: Language (vi)
+[2025-05-25 09:20:32] [Log] Load auto text: 0 giây
+[2025-05-25 09:20:38] [Log] TCNCore: Load tcn files...
+[2025-05-25 09:20:44] [Log] TCNCore: Verification [Done]
+[2025-05-25 09:20:47] [Log] TCNCore: Load tcn files completed (9.650348 seconds)
+[2025-05-25 09:20:47] [Log] TCNCore: Clear stack
+[2025-05-25 09:20:47] [Log] TCNCore: Connecting...
+[2025-05-25 09:20:48] [Log] TCNCore: [DNSBypass] Mapped
+[2025-05-25 09:20:48] [Log] TCNCore: v1.2.84 (284) DLL-40
+[2025-05-25 09:20:48] [Log] TCNCore: Language (vi)
+[2025-05-25 09:20:48] [Log] Load auto text: 0 giây
+[2025-05-25 09:21:01] [Log] TCNCore: Verification [Done]
+[2025-05-25 09:21:42] [Log] TCNCore: Initialize [Done]
+[2025-05-25 09:21:45] [Log] TCNCore: LogSkillSet [Done]

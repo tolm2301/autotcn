@@ -1,0 +1,19 @@
+
+tcn_title_cd=Cấm Địa
+tcn_cd_lv_easy=Thường
+tcn_cd_lv_hard=Khó
+tcn_cd_lv_hell=Địa Ngục
+tcn_cd_lv_shura=Tu La
+tcn_cd_num=Số lần khiêu chiến còn: <font color="#ffcc00">{@0:num}</font>
+tcn_cd_challenge_until_remaining=Khiêu chiến cho đến khi còn:
+tcn_cd_phai_tltm_easy=Thí Luyện Tông Môn [Thường]
+tcn_cd_phai_tltm_hard=Thí Luyện Tông Môn [Khó]
+tcn_cd_nmq_easy=Nhạn Môn Quan [Thường]
+tcn_cd_khd=Khoái Hoạt Đảo
+tcn_cd_tdc=Tinh Dao Cung
+tcn_cd_dmqt=Đại Mạc Quỷ Thành
+tcn_cd_vtbc_easy=Vô Tranh Bí Cảnh [Thường]
+tcn_cd_vtbc_hard=Vô Tranh Bí Cảnh [Khó]
+tcn_cd_confirm_open_func=Mở cấm địa <font color="#47c15b">{@0:value}</font>. Nhấn tiếp tục để chạy Auto!
+tcn_cd_waiting_team_msg=Chờ đồng đội <font color="#ffcc00">{@0:name}</font>!
+

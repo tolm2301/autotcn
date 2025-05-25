@@ -1,0 +1,1209 @@
+
+tcn_ui_start=开始
+tcn_ui_stop=停止
+tcn_ui_off_end=停止
+tcn_ui_save=保存
+tcn_ui_apply=应用
+tcn_ui_ok=确定
+tcn_ui_setting=设置
+tcn_ui_setup=设置
+tcn_ui_add=添加
+tcn_ui_retry=重试
+tcn_ui_return=返回
+tcn_ui_cancel=取消
+tcn_ui_close=关闭
+tcn_ui_open=打开
+tcn_ui_open_now=立即打开
+tcn_ui_delete=删除
+tcn_ui_clear=清除
+tcn_ui_default=默认
+tcn_ui_status=状态
+tcn_ui_done=完成
+tcn_ui_exchange=交换
+tcn_ui_default_and_refresh=默认 / 刷新
+tcn_ui_refresh=刷新
+tcn_ui_continue=继续
+tcn_ui_find_range=怪物搜索范围（米）
+tcn_ui_support=支持
+tcn_ui_activate=激活
+tcn_ui_extend=延长
+tcn_ui_collapse=折叠
+tcn_msg_done=<font face="font_title" color="#ff9c22">完成</font>
+tcn_stopped=已停止
+tcn_ui_all=全部
+tcn_ui_list=列表
+tcn_ui_default_list=默认列表
+tcn_ui_select_label=选择：
+tcn_msg_added_param=已添加: <font color="#ffcc00">{@0:name}</font>
+tcn_msg_deleted=已删除！
+tcn_msg_saved=已保存！
+tcn_msg_default_saved=默认已保存！
+tcn_msg_cancelled=已取消！
+tcn_msg_copied=已复制！
+tcn_msg_changed=已更改！
+tcn_msg_cannot_open_file=无法打开文件！
+tcn_msg_already_exist=已存在！
+tcn_msg_file_saved_success=保存 <font color="#47c15b">成功</font>！是否<font color="#47c15b">打开文件</font>？
+tcn_mc_note_msg=目前，Auto 仅支持<font color="#ffcc00">梦境（4）</font>！
+tcn_ot_waiting_18h=等待至 <font color="#ffcc00">18小时</font>！
+tcn_boss_full_5=所有<font color="#ffcc00">坐标</font>已击败所有<font color="#ffcc00">5个Boss</font>，请添加新的坐标。
+tcn_ui_not_found_fish_pos=您尚未设置钓鱼坐标，按设置进行设置！
+tcn_ui_fast_action=操作太快，请稍候再试！
+tcn_ui_select_fish=请选择您要捕获的鱼：
+tcn_ui_not_found_fish=在20米范围内未发现鱼，请靠近一点！
+tcn_ui_choose_collect_mode=选择采集政权：
+tcn_ui_go_near=您站得太远，请靠近一点！
+tcn_ui_must_target=请瞄准要采集的物品！
+tcn_ui_must_merchant_target=请瞄准商人！
+tcn_kuangshi=挖矿
+tcn_qiaofu=伐木
+tcn_cailiao=采药
+tcn_caidu=采毒药类
+tcn_you_not_set_coordinates=您尚未设置坐标！
+tcn_ui_not_found_collect_pos=您尚未设置采集坐标！
+tcn_ui_select_bag=选择您要使用的物品所在的袋子
+tcn_ui_select_item=选择您要使用的物品
+tcn_ui_zhuangbei=装备
+tcn_ui_wupin=物品
+tcn_ui_yuanliao=材料
+tcn_ui_renwu=任务
+tcn_ui_not_found_item=在此袋中未找到物品
+tcn_ui_select_buff=选择使用物品后出现的增益效果
+tcn_ui_no_need_buff=连续使用，不考虑增益状态
+tcn_ev_reset=参数已重置，Auto 开始接收任务
+tcn_ev_start=注意：需要在苏州保存复活点
+tcn_ev_not_have_q=任务完成，开始接收任务
+tcn_ev_have_q=已经有任务或活动时间未到，去做任务
+tcn_ev_accepted=成功接受任务
+tcn_hand_no_item=请拾取物品！
+tcn_pvn_min_max_require=最低要求 <font color="#ffcc00">10%</font> 和最高 <font color="#ffcc00">80%</font> 健康！
+tcn_pvn_max_require=最高要求 <font color="#ffcc00">80%</font> 健康！
+tcn_running_can_change_mode_msg=Auto 正在运行，无法更改政权！
+tcn_pvn_activate_require=抱歉...! <font color="#ffcc00">队长</font>功能和使用<font color="#ffcc00">采摘孔雀的羽毛</font><br>是高级功能！<br>选择成为<font color="#ffcc00">会员</font>免费使用！
+tcn_pvn_join_require=必须是<font color="#ffcc00">江湖VIP</font>才能参加<font color="#ffcc00">风云崖</font>
+tcn_pvn_warning=刷新风云崖数据中...
+tcn_pvn_completed_this_week=本周完成！
+tcn_pvn_completed_round=完成一轮！
+tcn_use_sword=使用单剑！
+tcn_use_dual_swords=使用双剑！
+tcn_not_special_map=不是特殊地图！
+tcn_please_enter_coordinates_or_click_btn=请输入坐标或点击按钮获取坐标！
+tcn_coordinates_selected_invalid=您选择的坐标无效！
+tcn_item_exist=该物品已存在！
+tcn_member_removed=成员已移除！
+tcn_invited_name_to_team=邀请已保存：<font color="#ffcc00">{@0:name}</font>
+tcn_auto_skip_movie_is_on=Auto TCN 已隐藏1个故事情节，聊天 /movie 以禁用此功能！
+tcn_auto_skip_movie_is_off=聊天 /movie 以启用自动隐藏故事情节
+tcn_auto_skip_movie_turn_on=自动隐藏故事情节功能已开启
+tcn_auto_skip_movie_turn_off=自动隐藏故事情节功能已关闭
+msg_find_way=寻找路径
+tcn_min=分钟
+tcn_end_sec={@0:num} 秒
+tcn_end_min={@0:num} 分钟
+tcn_end_second={@0:num} 秒
+tcn_end_minute={@0:num} 分钟
+tcn_param_map_default={@0:map}（默认）
+tcn_save_success=保存成功！
+tcn_setup_success=设置成功！
+tcn_type_label=类型：
+tcn_ui_choose_type=选择类型：
+tcn_ui_account=用户名
+tcn_enter_account_hint=输入<font color="#47c15b">账户</font>登录名！
+tcn_ui_password=密码
+tcn_enter_password_hint=输入<font color="#47c15b">密码</font>！
+tcn_enter_chest_password_label=输入箱子密码：
+tcn_enter_chest_password_hint=输入箱子密码！
+tcn_enter_activation_available=激活码（如有请输入）
+tcn_enter_activation_available_hint=输入<font color="#47c15b">激活码</font>！
+tcn_not_open_chest_password_msg=箱子密码尚未打开！
+tcn_ui_merchant=商人
+tcn_ui_pos_find=寻找隐藏坐标
+tcn_npc_exist=该 NPC 已存在！
+tcn_pos_invalid=坐标已存在，范围5米内，请移至其他位置！
+tcn_ui_go_near_7=您距离目标超过7米，请靠近一点！
+tcn_ui_merchant_min=您需要在此地图上添加至少2个商人，Auto才能工作！
+tcn_ui_show_ph_turn_on=百分比健康显示功能已开启
+tcn_ui_show_ph_turn_off=百分比健康显示功能已关闭
+tcn_ui_escort_name_1=成都-金针沈家
+tcn_ui_escort_name_2=成都-南宫世家
+tcn_ui_escort_name_3=成都-丐帮驻地
+tcn_ui_escort_name_4=苏州-拥翠山庄
+tcn_ui_escort_name_5=苏州-吴王墓
+tcn_ui_escort_name_6=苏州-采石场
+tcn_ui_escort_name_7=金陵-梅花门
+tcn_ui_escort_name_8=金陵-御花园
+tcn_ui_escort_name_9=金陵-莫愁皇宫
+tcn_ui_escort_name_10=洛阳-秦公府
+tcn_ui_escort_name_11=洛阳-雁门家
+tcn_ui_escort_name_12=洛阳-包都寨
+tcn_ui_escort_name_13=燕京-军马场
+tcn_ui_escort_name_14=燕京-杀手之家
+tcn_ui_escort_name_15=燕京-东方家
+tcn_sys_exits_item=该物品已存在！
+tcn_sys_require_target_monster=请瞄准要采集的怪物！
+tcn_chat_default_content=聊些什么？
+tcn_link=<a href="">
+tcn_link_param=<a href="">{@0:param}</a>
+tcn_link_view=<a href="">查看</a>
+tcn_link_settings=<a href="">设置</a>
+tcn_link_delete=<a href="">删除</a>
+tcn_link_pos_xy=<a href="">{@0:x},{@1:y}</a>
+tcn_link_distance=<a href="">{@0:param}米</a>
+tcn_link_go_to=<a href="">前往</a>
+tcn_link_skip=<a href="">跳过</a>
+tcn_link_add_pos=<a href="">添加坐标</a>
+tcn_link_icon_up=<a href="">↑↑</a>
+tcn_link_icon_down=<a href="">↓↓</a>
+tcn_link_set=<a href="">设置</a>
+tcn_link_tele=<a href="">传送</a>
+tcn_link_choose_map=<a href="">选择地图</a>
+tcn_link_merchant=<a href="">商人</a>
+tcn_link_refresh=<a href="">刷新</a>
+tcn_link_update=<font color="#9c7d5c">升级于：</font> <a href="https://autotcn.com/">https://autotcn.com</a>
+tcn_link_page_1=<a href="">第1页</a>
+tcn_link_page_2=<a href="">第2页</a>
+tcn_link_page_3=<a href="">第3页</a>
+tcn_link_page_4=<a href="">第4页</a>
+tcn_link_page_5=<a href="">第5页</a>
+tcn_link_page_6=<a href="">第6页</a>
+tcn_create_account=<a href="">创建账户</a>
+tcn_ui_up=上
+tcn_ui_down=下
+tcn_setting_cur_section_hint=当前部分设置！
+tcn_btn_choose_map=选择地图
+tcn_btn_carry_sacks_setting=设置携带袋
+tcn_tele_pre_notice=传送至
+tcn_tele_label=传送：
+tcn_time_set=设置时间
+tcn_tele_notice=（需要开启所有5个神格槽）
+tcn_msg_fast_mount_stopped=Auto 快速安装已关闭！
+tcn_thth_shang_ma_zhong=自动上马！
+tcn_thth_click_too_fast=操作太快，请稍候！
+tcn_choice_buff_no_delay=<font color="#FFFF00">连续使用</font>
+tcn_choice_buff_delete_item=<font color="#c70000">删除物品</font>
+tcn_delete_item=删除物品
+tcn_delete_item_guide=将<font color="#47c15b">物品</font>拿在手中，放在<font color="#47c15b">加号</font>上添加到<font color="#ea4335">删除物品</font>列表中，如果您拿的是<font color="#47c15b">正确</font>物品，加号将<font color="#47c15b">亮起</font>！
+tcn_use_no_delay=连续使用
+tcn_delete_junk_item_guide=将<font color="#47c15b">物品</font>拿在手中，放<font color="#47c15b">这里</font>添加到<font color="#ea4335">删除物品</font>列表中！
+tcn_task_round_goto_new_school=前往隐世宗派...
+tcn_task_full_task_list=任务列表已满
+tcn_task_comeback_city=返回<font color="#ffcc00">{@0:city}</font>，避免隐藏以增加修为！
+tcn_fixing_move=修复移动错误！
+tcn_cleaning_luggage=等待清理行李...
+tcn_msg_cleaning_luggage=等待清理行李
+tcn_invalid_time=时间未到
+tcn_invalid_day=还没到日期
+tcn_all_day=全天
+tcn_daily=每日
+tcn_link_daily=<a href="">每日</a>
+tcn_weekly=每周
+tcn_link_weekly=<a href="">每周</a>
+tcn_this_week=本周
+tcn_event=事件
+tcn_doing=进行中...
+tcn_accept=接受...
+tcn_waiting=等待中...
+tcn_skip=跳过
+tcn_complete=完成
+tcn_completed=已完成！
+tcn_complete_cur_on_count=已完成: {@0:num}/{@1:max}
+tcn_unfinished=未完成
+tcn_not_enough=状态不足
+tcn_accepted=已接受
+tcn_not_accepted=未接受
+tcn_get_reward=领取奖励
+tcn_checking=检查中...
+tcn_ui_menu_friend_add_chouren=添加仇人
+tcn_ui_today=今天
+tcn_delete_log=删除日志
+tcn_ui_skill_picked=已选择技能组
+tcn_ui_skill_pick=选择技能组
+tcn_ui_skill_set=技能组
+tcn_ui_skill_set_param=技能组（组{@0:set}）
+tcn_ui_skill_set_param_link=<a href="">技能组（组{@0:set}）</a>
+tcn_ui_skill_set_1_param=主要技能设置（组{@0:set}）
+tcn_ui_skill_set_2_param=次要技能设置（组{@0:set}）
+tcn_ui_book_buff=注释书
+tcn_ui_weapon=武器
+tcn_hint_right_click_change_skill_type=右键单击以更改攻击类型
+tcn_hint_right_click_remove_weapon=右键单击以移除武器
+tcn_hint_right_click_remove_book_buff=右键单击以移除注释书
+tcn_skill_must_place_skill=您需要先放置技能
+tcn_skill_fly_skill=跳起攻击
+tcn_skill_hide_skill=使用隐藏技能
+tcn_skill_right_click_change=右键单击以更改攻击类型
+tcn_skill_must_place_weapon=必须装备武器
+tcn_skill_change_to_sky=<font color="#ffcc00">{@0:config}</font> 更改为空中攻击！
+tcn_skill_change_to_hide=<font color="#ffcc00">{@0:config}</font> 更改为隐藏技能！
+tcn_skill_change_to_normal=<font color="#ffcc00">{@0:config}</font> 更改为普通技能！
+tcn_skill_change_to_range=<font color="#ffcc00">{@0:config}</font> 更改为远程技能！
+tcn_skill_change_hide_range=<font color="#ffcc00">{@0:config}</font> 更改为隐藏和远程技能！
+tcn_auto_approach=自动接近
+tcn_smart_approach=智能接近
+tcn_smart_approach_hint=自动接近适当的距离以使用技能！
+tcn_skill_turned_off_approach_hint=当“自动接近”和“智能接近”关闭时，技能将连续在原地使用！
+tcn_auto_def_monster=自动防御（怪物）
+tcn_skill_gia_chieu=架招
+tcn_skill_pha_thu=虚招
+tcn_skill_power=怒招
+tcn_auto_skill_set_guide_1=指南:<br> + 将技能拖入技能组行，下面是相应的武器
+tcn_auto_skill_set_guide_2=<br> + 架招技能是带有<font color="#47c15b" face="font_tip">绿色外框</font>的技能（游戏技能栏）
+tcn_auto_skill_set_guide_3=<br> + 虚招技能是带有<font color="#00a9f7" face="font_tip">蓝色外框</font>的技能（游戏技能栏）
+tcn_auto_skill_set_guide_4=<br> + 怒招技能是消耗能量的技能（悬停在技能上阅读）
+tcn_auto_skill_set_guide_5=<br> + 冷却时间长的技能优先放置（从左到右）
+tcn_auto_skill_set_guide_6=<br> + 右键单击技能槽以更改攻击类型
+tcn_auto_skill_set_guide_7=跳起攻击<font color="#47c15b" face="font_tip">（绿色）</font>
+tcn_auto_skill_set_guide_8=隐藏技能<font color="#c70000" face="font_tip">（红色）</font>
+tcn_auto_skill_set_guide_9=允许远程攻击<font color="#ffcc00" face="font_tip">（黄色）</font>
+tcn_auto_skill_set_guide_10=隐藏技能，允许远程攻击<font color="#ff00ff" face="font_tip">（紫色）</font>
+tcn_auto_skill_set_guide_11=攻击附近<font color="#ffffff" face="font_tip">（默认）</font>
+tcn_set_1=设置1
+tcn_set_2=设置2
+tcn_set_3=设置3
+tcn_set_4=设置4
+tcn_link_set_1=<a href="">设置1</a>
+tcn_link_set_2=<a href="">设置2</a>
+tcn_link_set_3=<a href="">设置3</a>
+tcn_link_set_4=<a href="">设置4</a>
+tcn_link_set_5=<a href="">设置5</a>
+tcn_link_set_6=<a href="">设置6</a>
+tcn_link_set_7=<a href="">设置7</a>
+tcn_link_set_8=<a href="">设置8</a>
+tcn_link_set_9=<a href="">设置9</a>
+tcn_ui_reset_1=重置
+tcn_ui_reset=全部重置
+tcn_ui_not_reset=不重置
+tcn_thth_reset_count_1=完成探索江湖1
+tcn_thth_reset_count_2=完成探索江湖2
+tcn_thth_reset_count_3=完成探索江湖3
+tcn_thth_reset_count_4=完成探索江湖4
+tcn_ui_getprize=领取奖励
+tcn_ui_auto_craft=自动专业
+tcn_ui_choose_craft=选择专业
+tcn_ui_put_pos=位置
+tcn_forging=<a href="">铁匠</a>
+tcn_tailoring=<a href="">裁缝</a>
+tcn_skillful_handicraft=<a href="">工匠</a>
+tcn_ky_ngo=随机遭遇
+tcn_ky_ngo_received_param=收到随机遭遇 <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_miss_param=错过随机遭遇 <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_miss_2_param=刚错过随机遭遇 <font color="#ff00ff">{@0:id}</font>
+tcn_ky_ngo_restore=接收 <font color="#ff00ff">随机遭遇</font>，特性将在 <font color="#ff00ff">{@0:num}s</font>内恢复!
+tcn_ky_ngo_kim_ti_phan_note=（{@0:id}）
+tcn_auto_received=自动接收
+tcn_get_all=全部领取
+tcn_get_by_list=按列表领取
+tcn_skip_to_list=跳到列表
+tcn_enable_or_disable_all=启用/禁用全部
+tcn_add_ky_ngo=增加随机遭遇
+tcn_no_target=没有目标
+tcn_ui_cd_nmq_3=雁门关 - 简单
+tcn_cd_state=禁地状态!
+tcn_om_coc_setup=设置携带袋
+tcn_ui_pick_up=捡起
+tcn_network_delay_can_not_auto_arranged=网络延迟 <font color="#ffcc00">太高</font>，无法 <font color="#ffcc00">自动整理</font>库存!
+tcn_wait_auto_rearrange=等待 {@0:num}s 进行自动库存整理!
+tcn_first_help=按 Ctrl + U 打开 AutoTCN 界面!
+tcn_mod_skin_mount=激活 Mod 皮肤包以避免在安装时丢失!
+tcn_mod_skin=激活 Mod 皮肤包以避免在更换地图时丢失!
+tcn_notify=没有通知!
+tcn_no_fix=无需修复!
+tcn_fixed=已修复!
+tcn_fix_item_miss=【FixItem】 你缺少修理工具!
+tcn_fix_item_no_activate=【FixItem】 自动未激活!
+tcn_dv_bac_nen_khong=你真的要整银演武吗？
+tcn_dv_bac_nen_khong_du=压缩银子不足，无法练武!
+tcn_dv_bac_nen=整银演武
+tcn_dv_bac_nen_hint=将使用最低量的压缩银子进行自动练武，直到耗尽或停止!
+tcn_please_init_auto=请刷新连接数据！(通过在聊天中输入 /ui 并点击“刷新”按钮)
+tcn_please_wait=请稍候
+tcn_loading_format=<font face="font_title" color="#ff9c22">{@0:msg}{@1:loading}</font>
+tcn_stop=停止
+tcn_on=开
+tcn_off=关
+tcn_yes=是
+tcn_no=否
+tcn_confirm=确认
+tcn_farm_tm=农场持有
+tcn_farm_tm_hint=将自动练武 <font color="#ffcc00">0x</font> 直到出现 <font color="#ffcc00">持有</font>或手动停止!
+tcn_composite_split=制造-拆解
+tcn_composite_split_hint=自动制造和拆解!
+tcn_auto_picture=自动绘图
+tcn_auto_picture_hint=自动绘图!
+tcn_auto_handwriting=自动写字
+tcn_auto_handwriting_hint=自动写字!
+tcn_delete_empty_mail=删除空邮件
+tcn_delete_empty_mail_hint=将删除你 <font color="#47c15b">系统邮箱</font>中的所有 <font color="#47c15b">空邮件</font>!
+tcn_show_delete_empty_mail_btn=在邮箱显示 <font color="#c0b393">删除空邮件</font>按钮
+tcn_oops=糟糕...! 你的计划不支持这个功能!
+tcn_activated=已激活
+tcn_no_activated=未激活
+tcn_load_data=加载数据
+tcn_try_again=再试一次
+tcn_new_version=新版本
+tcn_green_version=版本 <font color="#47c15b">{@0:version}</font>
+tcn_down_now=立即下载
+tcn_upgrade=升级
+tcn_please_upgrade=请升级自动!
+tcn_upgraded_success=升级成功!
+tcn_window_title_by_name=【<font color="#ffcc00">{@0:type}</font>】 按账户名称设置游戏窗口标题!
+tcn_cd_participating=参与禁地!
+tcn_cd_participating_name=参与禁地 【<font color="#ffcc00">{@0:name}</font>】
+tcn_cd_no_more_turns=禁地回合用完!
+tcn_cd_completed_reset_turns=完成，重置禁地回合!
+tcn_cd_waiting_completion=等待禁地完成!
+tcn_cd_stop=停止禁地!
+tcn_cd_please_join_3=请加入雁门关（简单）!
+tcn_cd_cannot_completed_yet=无法完成禁地!
+tcn_cd_complete_action=完成禁地!
+tcn_cd_go_to_fight_boss_1=去打boss 1
+tcn_cd_go_to_fight_boss_2=去打boss 2
+tcn_cd_go_to_fight_boss_3=去打boss 3
+tcn_cd_fighting_boss_1=战斗中boss 1
+tcn_cd_fighting_boss_2=战斗中boss 2
+tcn_cd_fighting_boss_3=战斗中boss 3
+tcn_cd_boss_1_completed=完成boss 1!
+tcn_cd_boss_2_completed=完成boss 2!
+tcn_cd_boss_3_completed_go_to_exit=完成boss 3，去出口!
+tcn_cd_fixing_jumping=修复跳跃问题!
+tcn_cd_comeback_boss_1=回到boss 1!
+tcn_cd_comeback_boss_2=回到boss 2!
+tcn_checking_activation=检查激活...
+tcn_msg_you_not_activated_auto_coc=你还没有激活自动绑架功能!
+tcn_total_con=总数: {@0:num} 袋
+tcn_num_con={@0:num} 袋
+tcn_arrested=被捕: {@0:param}
+tcn_refresh_success=刷新成功!
+tcn_merchant_param=商人 【{@0:param}】
+tcn_msg_clean_mail_use_mld=清理邮件并使用清心丸!
+tcn_click_now=立即点击
+tcn_installed_success=安装成功!
+tcn_domain_web=https://autotcn.com/
+tcn_cur_version=<font color="#47c15b">{@0:version}</font>
+tcn_you_completed_mission=你已完成此任务!
+tcn_quest_chain_intro_nc6_c1=六阶内功任务（第1章）
+tcn_dots_icon=• 
+tcn_error_icon=<font face="font_tip" color="#c70000">✘</font>
+tcn_done_icon=<font face="font_tip" color="#ff9c22">✓</font>
+tcn_orange_param=<font face="font_tip" color="#ff9c22">{@0:param}</font>
+tcn_nc6_row_param=• <font face="font_tip" color="#9c7d5c">【{@0:map}】</font> {@1:title}   {@2:state}<br>
+tcn_confirm_log_delete=删除此日志，AutoTCN将重新运行任务!
+tcn_nc6_confirm_log_delete=删除今天的日志将导致自动重新开始六阶内功任务!
+tcn_ui_deleted_success=删除成功!
+tcn_msg_tele_to_no_color=传送到 {@0:map}
+tcn_msg_tele_to=传送到 <font color="#ffcc00">{@0:map}</font>
+tcn_msg_free_tele_to=免费传送到 <font color="#ffcc00">{@0:map}</font>
+tcn_msg_waiting_tele_time=等待 <font color="#ffcc00">{@0:num}s</font> 冷却传送时间!
+tcn_task_state_center_tag=<center>任务状态!</center>
+tcn_complete_task_param=完成任务 <font color="#ffcc00">【{@0:title}】</font>
+tcn_nc6_task_completed=完成六阶内功任务!
+tcn_seems_like_your_chest_full=看起来你的 <font color="#47c15b">库存</font>已满!
+tcn_go_to_pos=去 <font color="#47c15b">{@0:value}</font>
+tcn_not_found_value=未找到 <font color="#ffcc00">{@0:value}</font>
+tcn_nc6_go_to_accept_task=【接受任务】 去 <font color="#47c15b">{@0:value}</font>
+tcn_nc6_go_to_reset_task=【重置】 去 <font color="#47c15b">{@0:value}</font>
+tcn_nc6_fail_reset_task=【失败】 重置任务 <font color="#47c15b">{@0:value}</font>
+tcn_nc6_go_to_claim_reward=【领取奖励】 去 <font color="#47c15b">{@0:value}</font>
+tcn_nc6_join_scenario=【秘境】 去 <font color="#47c15b">{@0:value}</font>
+tcn_waiting_can_not_join_scenario=无法加入秘境在 <font color="#47c15b">{@0:value}</font> 分钟后!
+tcn_jump_to_water=跳到湖边!
+tcn_jump_to_pos=跳到 <font color="#47c15b">{@0:value}</font>!
+tcn_wait_all_buffs_expire=等待所有效果过期!
+tcn_find_and_pick_up_stone=找到并拾取 <font color="#47c15b">{@0:value}</font>
+tcn_picked_up_value=拾取 <font color="#47c15b">{@0:value}</font>
+tcn_unable_to_pick_up_value=无法拾取 <font color="#47c15b">{@0:value}</font>
+tcn_failure_num_times=失败 <font color="#47c15b">{@0:value}</font> 次!
+tcn_nc6_wait_columns_appear=等待 <font color="#47c15b">{@0:num}</font> 列出现!
+tcn_nc6_pick_up_buff_in_columns=拾取 <font color="#47c15b">列</font>中的效果!
+tcn_nc6_guide=当 <font color="#47c15b">传送</font> 时间未冷却时，自动将自动打开 <font color="#47c15b">六阶内功奖励包</font> 获得 <font color="#47c15b">旅行令</font> 用于使用，库存至少有4个插槽!
+tcn_open_luyen_nhom_open_msg=自动开启团练后: <font color="#ffcc00">{@0:num} 秒</font>!
+tcn_ui_max=最大
+tcn_use_param=使用: <font color="#ffcc00">{@0:item}</font>
+tcn_use=使用
+tcn_task_completed_nc1=学习一阶
+tcn_task_completed_first_skill_set=学习第一技能套装
+tcn_task_not_join_school=未加入学校（免费）
+tcn_task_param_type={@0:name}（收费）
+tcn_task_interact_note=互动任务<br><font color="#ff0000">【可能不是自动】</font>
+tcn_task_question_info_note=问题任务
+tcn_task_talk_note=对话
+tcn_task_interact_info_note=互动任务
+tcn_task_find_npc_note=寻找NPC
+tcn_task_collect_info_note=收集任务
+tcn_task_hunter_info_note=猎人任务
+tcn_task_story_info_note=故事任务
+tcn_task_use_item_info_note=使用物品
+tcn_task_special_note=特殊任务<br><font color="#ff0000">【可能不是自动】</font>
+tcn_task_convoy_info_note=运镖任务
+tcn_task_account_not_support=账户不支持
+tcn_task_error=错误任务
+tcn_task_param_block=阻止 {@0:num} 任务
+tcn_task_reward=任务奖励
+tcn_task_accept_task=接受任务
+tcn_title_ai=TCN 助手【AI】
+tcn_title_ui=Auto TCN【UI】
+tcn_title_comeback_setting=设置回归
+tcn_title_qin=自动演奏
+tcn_title_select_maps_blink=选择闪现地图
+tcn_title_select_maps_bac_coc=选择绑架地图
+tcn_title_auto_coc_setting=自动绑架设置
+tcn_title_auto_coc_statistics=绑架统计
+tcn_title_success=成功
+tcn_title_suggest=建议
+tcn_title_message=消息
+tcn_title_note=注释
+tcn_title_info=信息
+tcn_title_confirm=确认
+tcn_title_notify=通知
+tcn_title_auto_def=自动防御
+tcn_title_auto_swap=自动交换
+tcn_title_auto_swap_vip=自动交换VIP
+tcn_title_auto_buff_ptc=Buff 心佛掌
+tcn_title_auto_swap_setting=自动交换设置
+tcn_title_shortcuts=快捷键
+tcn_title_quest_chain=任务链
+tcn_title_auto_task=自动任务
+tcn_title_task=任务
+tcn_title_task_nc5=五阶内功任务【困难】
+tcn_title_task_nc6=六阶内功任务
+tcn_title_task_round=隐士和势力
+tcn_title_task_round_support=支持：隐士和势力
+tcn_title_auto_thien_the=天梯擂台
+tcn_title_exchange_item_thien_the=兑换天梯擂台物品
+tcn_title_setup_item_exchange=设置物品交换
+tcn_title_my_activate=我的激活码
+tcn_title_farm_ky=围棋农场
+tcn_title_fixitem=快速修理您携带的装备
+tcn_title_fixitem_setting=快速修理物品设置
+tcn_title_fix_bug_notify=漏洞修复通知
+tcn_title_grow_flower=种花（曼陀罗）
+tcn_title_auto_coc=绑架排行榜
+tcn_title_chien_truong=自动战场
+tcn_title_auto_login=自动登录
+tcn_title_auto_login_set=自动登录设置
+tcn_title_chest_password=箱子密码
+tcn_title_auto_tran=自动战术阵型
+tcn_title_guard_mode=守护政权
+tcn_title_guard_set=守护设置
+tcn_title_chi_bao_set=设置江湖宝藏位置
+tcn_title_luyen_cong_set=设置团练
+tcn_title_di_tam=温泉（快乐岛）
+tcn_title_auto_chat=自动聊天
+tcn_title_auto_crop=自动农夫
+tcn_title_auto_collect=自动收集
+tcn_title_auto_collect_set=自动收集设置
+tcn_title_receive_and_open_gift=自动打开礼物
+tcn_title_delete_junk_item=设置垃圾物品删除
+tcn_title_auto_escort=自动运镖
+tcn_title_auto_event_switch=归还物品
+tcn_title_auto_receive_mail=自动接收邮件
+tcn_title_auto_hang_shop=自动开摊
+tcn_title_choose_map=选择地图
+tcn_title_ride_config=坐骑
+tcn_title_fast_mount=快速坐骑
+tcn_title_auto_fish=自动钓鱼
+tcn_title_auto_fish_set=自动钓鱼设置
+tcn_title_auto_hai_bo=海捕
+tcn_title_hao_kiet=江湖豪杰
+tcn_title_hao_kiet_set=江湖豪杰设置
+tcn_title_hunter=自动猎人
+tcn_title_auto_item=使用物品
+tcn_title_auto_item_set=自动使用或删除物品设置
+tcn_title_modskin=Mod 皮肤
+tcn_title_mc=梦境（4）
+tcn_title_spa=温泉
+tcn_title_auto_pick_setting=自动拾取设置
+tcn_title_pvn=风云崖
+tcn_title_pvn_set=风云崖设置
+tcn_title_qpvv=群锋问武
+tcn_title_auto_skill_set=自动技能设置
+tcn_title_auto_skill=自动技能
+tcn_title_task_map=地图上的任务
+tcn_title_tele=传送
+tcn_title_thth=闯荡四海
+tcn_title_thth_set=闯荡四海（设置）
+tcn_title_tq=自动闯荡四海
+tcn_title_tq_set=闯荡四海设置
+tcn_title_train=自动训练
+tcn_title_train_set=自动训练设置
+tcn_title_choose_buff=选择Buff
+tcn_title_class_set=授业设置
+tcn_title_user_supplemental=自动丹药
+tcn_title_ngu_hanh_thien_cung=五行天宫
+tcn_title_lang_tieu_thanh=凌霄城
+tcn_title_doc_da_hanh=独夜行
+tcn_title_thbb=Buff 神行百变
+tcn_title_tich_lhq=Buff 罗汉拳
+tcn_title_auto_sinh_tu_phu=乱心尘
+tcn_title_task_accept_and_reward=接受和奖励任务
+tcn_title_scan_player_around=扫描周围的玩家
+tcn_title_exchange_dong_xu=兑换幸运硬币
+tcn_title_luyen_tuu=酿酒训练
+tcn_title_copy_configuration=复制配置
+tcn_title_farm_ninja_skill=Farm Ninja skill
+tcn_title_fast_suicide=自杀
+tcn_title_set_account_to_window_name=打开/关闭 将帐户名称作为游戏窗口名称
+tcn_title_exit_combat_state=退出战斗状态
+tcn_title_life_farm_skill=职业练级
+tcn_title_tvtt=驰援星垂
+tcn_luyen_nhom_tai_cho=现场团练
+tcn_task_accept_and_reward=接受/奖励
+tcn_tn_progress_class_1=达到100%时停止
+tcn_tn_progress_class_1_hint=进度达到100%时停止!
+tcn_tn_progress_class_2=直到小时结束
+tcn_tn_progress_class_2_hint=即使达到100%，也要继续进度直到小时结束!
+tcn_num_input_label=输入数量:
+tcn_ui_mode=政权
+tcn_train_around_current_coordinates=围绕当前坐标战斗
+tcn_train_around_set_coordinates=围绕设定坐标战斗
+tcn_train_by_captain=根据队长战斗
+tcn_train_pos_limit_label=范围:
+tcn_train_not_created_team_msg=你没有创建队伍或没有成员!
+tcn_waiting_have_not_created_team=你还没有创建队伍!
+tcn_msg_file_already_exists_confirm_overwrite=文件已经 <font color="#47c15b">存在</font>! 你想 <font color="#47c15b">覆盖</font>吗?
+tcn_enter_file_name=输入文件名
+tcn_tq_waiting_for_team_msg_1=队友 <font color="#ffcc00">{@0:name}</font> 尚未到达!
+tcn_tq_waiting_for_team_msg_2=队友 <font color="#ffcc00">{@0:name}</font> 还在远处!
+tcn_tq_waiting_for_team_msg_3=队友 <font color="#ffcc00">{@0:name}</font> 距离NPC超过5米!
+tcn_tq_waiting_for_team_msg_4=等待队友 <font color="#ffcc00">{@0:name}</font> 复活!
+tcn_tq_waiting_for_team_msg_5=等待队友 <font color="#ffcc00">{@0:name}</font> 距离NPC超过 <font color="#ffcc00">{@1:distance}米</font>!
+tcn_tq_team_note=注意: 如果启用团队等待政权，自动将在队友聚集前等待，并且如果未创建将自动创建团队!
+tcn_ptc_auto_buff_gia_chieu=自动 Buff 架招
+tcn_ptc_auto_attack=自动攻击
+tcn_ptc_auto_move=自动移动
+tcn_ptc_auto_attack_hint=优先攻击 <font color="#ffcc00">目标</font> 在自己身上，如果没有，攻击最近的敌人。
+tcn_ptc_auto_move_hint=自动移动到目标位置攻击或Buff。
+tcn_ptc_add_hint=输入名字或选择 <font color="#ffcc00">玩家</font> 进行 <font color="#ffcc00">Buff</font>，然后点击 <font color="#ffcc00">添加</font> 按钮以添加目标进行 <font color="#ffcc00">自动Buff</font>。
+tcn_enable_waiting_for_team=<a href="">启用团队等待政权</a>
+tcn_enable_tq_blink=<a href="">启用闯荡四海中的闪现政权</a>
+tcn_enable_tq_blink_fix_bug=<a href="">轻跳以修复位置错误</a>
+tcn_disabled_tq_blink_fix_bug_mdg=你已关闭位置修复跳跃政权!
+tcn_test_blink_waiting_msg=可以在 <font color="#ff9c22">{@0:num}</font> 秒后再次闪现!
+tcn_link_test_blink=<a href="">测试闪现</a>
+tcn_without_player_can_not_blink_msg=周围没有玩家，可以安全闪现!
+tcn_have_players_can_not_blink_msg=视线内有玩家，不安全闪现!
+tcn_pick_setting=物品拾取设置
+tcn_doing_label=执行中
+tcn_auto_accept_task_label=自动接受任务
+tcn_open_chest=自动打开箱子
+tcn_martial=武术
+tcn_martial_book=相关书籍
+tcn_book_page=书页
+tcn_nc=内功
+tcn_technique=技巧
+tcn_am_khi=暗器
+tcn_qinggong_1=轻功1
+tcn_qinggong_2=轻功2
+tcn_zhenfa=战术阵型
+tcn_facultybook_chip=注解碎片
+tcn_ore=矿石
+tcn_fabric=布料
+tcn_wood=柴火
+tcn_herbal=草药
+tcn_doc_thao=毒草
+tcn_pelts=兽皮
+tcn_item_ton=消耗品
+tcn_do_pho=手册
+tcn_additional=附加
+tcn_choose_zhenfa=选择阵型
+tcn_link_captain=<a href="">队长</a>
+tcn_pvn_captain_hint=<font color="#47c15b">队长</font> 是打开 <font color="#47c15b">通道</font> 的人，并有能力邀请 <font color="#47c15b">队员</font>（收费）。
+tcn_link_member=<a href="">队员</a>
+tcn_pvn_member_hint=<font color="#47c15b">队员</font> 需要邀请才能进入 <font color="#47c15b">通道</font>（免费）。
+tcn_pvn_name_input_hint=输入你想邀请的 <font color="#47c15b">队员</font> 的名字！你可以输入 <font color="#47c15b">空格</font>，自动将 <font color="#47c15b">自动删除</font> 它们!
+tcn_pvn_bug_lam=玩家需要学习 <font color="#47c15b">采摘孔雀羽毛</font> 并且自动将优先使用 <font color="#47c15b">采摘孔雀羽毛（古籍）</font><br>（收费）！
+tcn_pvn_round=轮数: <font color="#ffcc00">20</font>
+tcn_pvn_round_param=轮数: <font color="#ffcc00">{@0:num}</font>
+tcn_pvn_fee_note=<font color="#47c15b">队长</font> 和 <font color="#47c15b">采摘孔雀羽毛</font> 功能是 <font color="#47c15b">收费</font>功能!
+tcn_pvn_set_note=注意: 楼层 <font color="#c0b393">21-30</font> 没有 <font color="#c0b393">避技能</font> 和没有 <font color="#c0b393">试运行</font>！
+tcn_bug_lam_thien_ma_note=没有采摘孔雀羽毛，将使用飞马！
+tcn_bag_fixitem_hint=这是 <font color="#ffcc00">快速修理物品</font> 功能的 <font color="#ffcc00">AutoTCN</font>
+tcn_bag_shop_hint=这是 <font color="#ffcc00">杂货店</font> 功能的 <font color="#ffcc00">AutoTCN</font>
+tcn_bag_open_tiem_tuy_than_hint=是打开 <font color="#ffcc00">私人当铺</font> 功能的 <font color="#ffcc00">AutoTCN</font>
+tcn_bug_when_label=采摘孔雀羽毛<br>当生命值低于（%）：
+tcn_auto_remove_space=输入空格，自动将自动删除它们！
+tcn_invite_team_label=邀请团队：
+tcn_select_floors=选择楼层
+tcn_link_pick_flower=<a href="">采花</a>
+tcn_mc_note=<font face="font_tip" color="#c0b393">注意：</font><br>• 自动梦境（4）<br>• 任务100分
+tcn_modskin_label_1=删除和刷新功能
+tcn_modskin_label_2=传说
+tcn_modskin_label_3=武器
+tcn_modskin_rv_hair=去除头发
+tcn_modskin_rv_shirt=去除衬衫
+tcn_modskin_rv_trousers=去除裤子
+tcn_modskin_rv_shoes=去除鞋子
+tcn_modskin_rv_weapons=去除武器
+tcn_modskin_rv_cloak=去除披风
+tcn_modskin_rv_jewelry_1=去除腰部
+tcn_modskin_rv_jewelry_2=去除背部
+tcn_modskin_rv_mask=去除面具
+tcn_modskin_rv_horse=去除马匹
+tcn_modskin_normal_hair=正常头发
+tcn_modskin_pvc_hair=传说头发
+tcn_modskin_normal_shirt=正常衬衫
+tcn_modskin_pvc_shirt=传说衬衫
+tcn_modskin_trousers=裤子
+tcn_modskin_shoes=鞋子
+tcn_modskin_identity_set=身份服装
+tcn_modskin_jewelry_2=背部配饰
+tcn_modskin_jewelry_1=腰部配饰
+tcn_modskin_mask=面具
+tcn_modskin_horse=马匹
+tcn_modskin_cloak=披风
+tcn_modskin_sword=单剑
+tcn_modskin_dual_swords=双剑
+tcn_modskin_blade=单刀
+tcn_modskin_dual_blade=双刀
+tcn_modskin_cosh=四分之一杖
+tcn_modskin_long_cosh=长杖
+tcn_modskin_short_sword=匕首
+tcn_modskin_dual_thorn=双匕
+tcn_modskin_bow=弓（弓）
+tcn_modskin_enable=<a href="">启用mod皮肤</a>
+tcn_modskin_enable_hint=勾选框激活mod皮肤！
+tcn_modskin_enable_change=更改为 <font color="#ffcc00">{@0:type}</font> 政权 <font color="#ffcc00">Mod 皮肤</font>！
+tcn_modskin_error_model=模型错误：{@0:model}
+tcn_modskin_mount_change=这种类型的坐骑已应用。如果你在马上，请下马再叫马。如果你不在马上，请上马应用！
+tcn_pickup_all=全部捡起
+tcn_choose_lam=选择采摘孔雀羽毛
+tcn_how_works=工作原理
+tcn_auto_lam_type_1=满生命值，法力值
+tcn_auto_lam_type_2=被扔时
+tcn_auto_lam_type_1_note=<font color="#47c15b">注意：</font><br>- 漏洞揽雀尾满健康和法力。<br>- <font color="#FF0000">此功能被认为是严重的黑客漏洞，只能在禁止区域使用。</font>
+tcn_auto_lam_type_2_note=<font color="#47c15b">注意：</font><br>- 漏洞揽雀尾当你被扔时（昏迷时无效）。<br>- <font color="#FF0000">此功能被认为是严重的黑客漏洞，只能在禁止区域使用。</font>
+tcn_reduce_speed_fix_lag=减速（减少延迟）
+tcn_auto_item_note=注意：错误的Buff设置会导致自动连续使用物品
+tcn_delete_junk=删除垃圾
+tcn_pick_vlts=拾取武林秘籍
+tcn_pick_dot_pha_nc=拾取内功训练脚本
+tcn_pick_bao_vat=拾取宝物
+tcn_hao_kiet_enable_farm_dot_pha_mode=启用内功训练脚本农场政权
+tcn_hao_kiet_farm_dot_pha_msg=<font color="#ffcc00">内功训练脚本农场</font>政权将自动跳过如果只有<font color="#ffcc00">1</font>个boss出现！
+tcn_hao_kiet_farm_dot_pha_hint=选择此政权时，如果遇到<font color="#c0b393">1个boss</font>，豪杰将自动<font color="#c0b393">退出</font>而不战斗。农场怪物直到同时遇到<font color="#c0b393">2个boss</font> 江湖豪杰以获得内功训练脚本！
+tcn_auto_hai_bo_guide=<font color="#c0b393">指南：</font>点击打开下方，输入准确的<br>玩家名字。
+tcn_choose_city=选择城市
+tcn_only_accept_free_quests=只接受免费任务
+tcn_keep_label=保持：
+tcn_accept_team=接受团队
+tcn_escort_clear_mail_use_mld=清理邮件并使用清心丸
+tcn_escort_mld=清心丸
+tcn_escort_round=运镖轮次
+tcn_today_completed_label=今天完成：
+tcn_auto_escort_team_guide=注意：如果<font color="#ffcc00">禁用</font>，接受团队将创建一个<font color="#ffcc00">6</font>人团队！
+tcn_auto_escort_mld_maximum_limit=最大<font color="#ffcc00">680</font>清心丸！
+tcn_delete_paint=删除绘图
+tcn_delete_junk_item=删除垃圾物品
+tcn_delete_item_by_list=按列表删除物品
+tcn_luyen_cong_set_label=设置团练
+tcn_luyen_cong_invite=创建团练
+tcn_luyen_cong_join=仅加入
+tcn_luyen_cong_invite_or_join=如果没有人创建团练，则创建
+tcn_enable_guard_mode=启用守护政权
+tcn_on_off_guard=打开/关闭守护功能
+tcn_chat_setting=聊天设置
+tcn_chat_vt=粗俗聊天
+tcn_chat_tn=礼貌聊天
+tcn_guard_fight_back_setting=反击设置
+tcn_guard_not_fight_back=不反击
+tcn_guard_fight_back_high_type=战斗到死
+tcn_guard_fight_back_low_type=接近死亡时停止战斗
+tcn_restart_another_feature_after_being_hit=在被击中后重新启动另一个功能（分钟）
+tcn_chat_test=聊天测试
+tcn_auto_use_ck=使用气丸
+tcn_auto_use_dcd=使用易筋丸
+tcn_auto_use_tv=使用修炼丸
+tcn_auto_get_mail=自动获取邮件
+tcn_btn_history=历史
+tcn_choose_seeds_label=选择种子：
+tcn_seeds=种子
+tcn_get_seeds=接收种子
+tcn_radius_label=半径：
+tcn_add_seeds_guide=点击<font color="#47c15b">接收种子</font>自动将所有<font color="#47c15b">种子</font>从<font color="#47c15b">存储</font>中添加到<font color="#47c15b">种子</font>槽中！
+tcn_saved_scrap_silver_label=已保存的碎银（L）：
+tcn_harvest_time_label=剩余收获时间（分钟）：
+tcn_harvest_time_hint=如果不正确，请调整<font color="#47c15b">收获时间</font>。调整后将<font color="#47c15b">自动</font>保存！
+tcn_input_money_hint=当<font color="#47c15b">碎银</font>可用时，自动购买花卉，剩余如<font color="#47c15b">配置</font>，当没有足够的碎银或配置的Buff结束时停止购买！
+tcn_ui_revenge_quit=结束配对
+tcn_thien_the_on_off_tgv_exchange=开启/关闭成杰云物品交换
+tcn_thien_the_on_off_tn_exchange=开启/关闭天梯商人物品交换
+tcn_thien_the_note=如果比赛次数不正确，请关闭并重新开启天梯擂台自动刷新比赛次数！
+tcn_thien_the_go_to_exchange_xm_mark_01=去交换剑
+tcn_thien_the_warning_miss_item=你没有足够的<font color="#ffcc00">【乌鸦草】</font>，跳过<font color="#ffcc00">【周一仙】</font>任务
+tcn_ui_taskfinish=完成
+tcn_ui_condition_pass=当前有资格参加
+tcn_ui_event_has_ended=活动已结束
+tcn_ui_not_time_event_yet=活动尚未开始
+tcn_support_param=支持：<font color="#ffcc00">{@0:value}</font>
+tcn_ponit=积分
+tcn_name=名字
+tcn_time=时间
+tcn_time_label=时间：
+tcn_progress=进度
+tcn_progress_label=进度：
+tcn_receiver=接收者
+tcn_round=轮次
+tcn_map=地图
+tcn_unfollow=取消关注
+tcn_join_param=加入：<font color="#47c15b">{@0:value}</font>
+tcn_joined_param=已加入：<font color="#47c15b">{@0:value}</font>
+tcn_join_schools=加入学校
+tcn_join_schools_choose_maximum_progress=选择最大进度（加入学校）
+tcn_allow_blink=允许闪现
+tcn_allow_sitcross=允许打坐
+tcn_mark_on_map=在地图上标记
+tcn_go_to_target_obj=到目标
+tcn_guide=指南
+tcn_newbie_guide=新手指南
+tcn_msg_confirm_open_func=打开功能 <font color="#47c15b">{@0:value}</font>。按继续运行自动！
+tcn_auto_crop_introduce=当前版本将<font color="#47c15b">自动</font>找到<font color="#47c15b">空</font>位种植种子，当当前位置<font color="#47c15b">满</font>时！
+tcn_there_are_no_valid=这里没有合适的<font color="#ffcc00">{@0:name}</font>！
+tcn_crop=种植作物
+tcn_silkworm=养蚕
+tcn_grow_flower=种花
+tcn_grow_flower_nlb=种花（念萝坝）
+tcn_msg_confirm_open_profession_func=自动将<font color="#ffcc00">{@0:value}</font>，你想继续打开功能吗？
+tcn_not_found_profession_npc=未找到职业NPC！
+tcn_auto_def=自动防御
+tcn_auto_cancel_def=自动取消防御
+tcn_blink=闪现
+tcn_jogging=慢跑
+tcn_qin_buff=Buff政权
+tcn_qin_training=训练政权
+tcn_enter_content_hint=输入内容！
+tcn_enter_content_label=输入内容：
+tcn_add_pos=添加位置
+tcn_cur_pos=当前位置
+tcn_pos_label=位置：
+tcn_pos_label_param=位置：<font color="#47c15b">{@0:value}</font>
+tcn_choose_pos=选择位置
+tcn_choose_pos_label=选择位置：
+tcn_select_target_label=选择目标：
+tcn_all_enemies=所有敌人
+tcn_by_names_list=按名字列表
+tcn_add_all=添加全部
+tcn_get_coordinates=获取坐标
+tcn_get_pos=获取位置
+tcn_get_pos_map=获取位置（地图）
+tcn_get_current_pos=获取当前位置
+tcn_can_mark_on_map_guide=可以<font color="#47c15b">在地图上标记</font>，然后点击这里！
+tcn_get_coordinates_dotted_on_map=获取在地图上标记的坐标
+tcn_go_to_setup_pos_note=如果设置，将移动到指定位置！
+tcn_qin_training_pos_note=在原地演奏音乐，用于训练！
+tcn_auto_revives_nearby=自动复活附近
+tcn_qpvv_guide=<font face="font_tip" color="#c0b393">指南：</font><br>• 在2个框中输入坐标。<br>• 在地图上标记 » 获取位置。
+tcn_qpvv_available_coordinates=<font face="font_tip" color="#c0b393">可用坐标：</font>
+tcn_qpvv_blue_note=<font face="font_text">• 蓝色：</font> <font face="font_tip" color="#0096FF">307，-319</font>  <a href="">获取</a>
+tcn_qpvv_red_note=<font face="font_text">• 红色：</font> <font face="font_tip" color="#c70000">     163，-742</font>  <a href="">获取</a>
+tcn_qpvv_support_maps_label=<font face="font_tip" color="#c0b393">支持地图：</font>
+tcn_qpvv_support_maps=• 群锋问武 <br>• 夜城
+tcn_times=次数
+tcn_choose_maps_allow_jump=选择允许闪现的地图！
+tcn_auto_revives_nearby_note=死亡后自动复活附近！
+tcn_coc_bat_khi_con_buff=仍有Buff时激活：
+tcn_coc_vi_tri_om_coc=携带袋位置：
+tcn_coc_vi_tri_om_coc_info=携带袋位置，允许玩家在每张地图上设置，如果没有，自动将选择最近的绑架商人位置！
+tcn_choose_pos_note=注意：选择自动可以移动到的位置，不要选择滞后的角落，屋顶，树上，水下等。
+tcn_coc_comeback_info=销售后回到的位置，允许玩家在每张地图上设置，如果没有，自动将选择默认位置！
+tcn_coc_auto_receive_and_open_gift_hint=自动在每天<font color="#47c15b">20:00</font>接收并打开<font color="#47c15b">每日签到奖励袋</font>。每天还会自动使用<font color="#47c15b">免费祝福</font>。
+tcn_coc_auto_throw_money_hint=在<font color="#47c15b">销售绑架</font>后，如果玩家有<font color="#47c15b">7D</font>或更多绑定银子，将自动激活<font color="#47c15b">倒银</font>政权，直到低于<font color="#47c15b">2D</font>绑定银子，或<font color="#47c15b">Buff</font>结束，然后停止<font color="#47c15b">倒银</font>政权！
+tcn_coc_checked_throw_money=启用倒银块功能
+tcn_coc_checked_black_market_trader=启用黑市商人功能
+tcn_coc_checked_receive_and_open_gift=启用每日签到奖励袋和祈祷（免费）
+tcn_coc_max_8_min=最长时间8分钟
+tcn_auto_swap_note=<font color="#c0b393">注意：</font>一招一插槽，并且不区分页面。<br>如果招式重叠，从第1页到第6页按顺序选择第一个招式。
+tcn_time_hour=小时
+tcn_time_min=分钟
+tcn_time_sec=秒
+tcn_ky_ngo_xin=随机遭遇（VIP）
+tcn_ky_ngo_dom=随机遭遇（穷）
+tcn_ky_ngo_skip=跳过随机遭遇
+tcn_auto_login_create_account=创建账户
+tcn_auto_login_offline_set_free=释放效果
+tcn_auto_login_offline_set_free_link=<a href="">释放效果</a>
+tcn_auto_login_offline_set_free_hint=为当前部分设置！释放效果后，将传送到选择的地图！
+tcn_auto_login_run_ai_function=运行TCN助手【AI】
+tcn_auto_login_run_ai_function_link=<a href="">运行TCN助手【AI】</a>
+tcn_auto_login_luyen_chi_bao=江湖宝藏
+tcn_auto_login_luyen_chi_bao_link=<a href="">江湖宝藏</a>
+tcn_auto_login_luyen_cong=团练
+tcn_auto_login_luyen_cong_link=<a href="">团练</a>
+tcn_auto_login_learning_nc2=打开礼盒并兑换内功2
+tcn_auto_login_learning_nc2_link=<a href="">学习内功2</a>
+tcn_auto_login_learning_nc3=打开礼盒并兑换内功3
+tcn_auto_login_learning_nc3_link=<a href="">学习内功3</a>
+tcn_auto_login_learning_nc6=打开礼盒并兑换内功6
+tcn_auto_login_learning_nc6_link=<a href="">学习内功6</a>
+tcn_auto_login_quest_chain=任务链
+tcn_auto_login_quest_chain_link=<a href="">任务链</a>
+tcn_auto_login_nhan_tinh_bao=刺探VIP
+tcn_auto_login_nhan_tinh_bao_link=<a href="">刺探VIP</a>
+tcn_auto_login_sinh_tu_phu=乱心尘
+tcn_auto_login_sinh_tu_phu_link=<a href="">乱心尘</a>
+tcn_auto_login_auto_job=学习手艺
+tcn_auto_login_auto_job_link=<a href="">学习手艺</a>
+tcn_auto_login_optional_function=可选功能
+tcn_auto_login_optional_function_link=<a href="">可选功能</a>
+tcn_auto_login_note=注意：首先选择“部分”，然后选择功能！
+tcn_auto_login_start_hint=启动<font color="#47c15b">自动</font>登录！
+tcn_auto_login_ascending_name=按升序排列名字
+tcn_auto_login_random_name=随机名字
+tcn_auto_login_section_paran=部分 {@0:num}
+tcn_auto_login_choose_section=选择部分
+tcn_auto_login_section_label=部分：
+tcn_auto_login_setting_nc_max_level=设置最大等级！
+tcn_auto_login_learning_nc_hint=自动打开礼盒并兑换内功
+tcn_auto_login_random_name_hint=<font color="#ffcc00">随机</font>名字只能<font color="#ffcc00">手动</font>设置！
+tcn_auto_login_enter_max_exchange_level=输入最大兑换等级：
+tcn_auto_login_selected_level_param=你选择的等级：<font color="#ffcc00">{@0:num}</font>
+tcn_auto_login_selected_data_incorrect=部分<font color="#ffcc00">【{@0:num}】</font>数据不正确！
+tcn_auto_login_you_can_exchange_max_is_param=你可以兑换的最大等级是<font color="#ffcc00">{@0:value}</font>级！
+tcn_auto_login_open_edit_name_file=打开<font color="#47c15b">编辑名字</font>文件以创建账户功能！
+tcn_auto_login_start_num_guide=输入<font color="#47c15b">开始</font>编号（将附加到<font color="#47c15b">用户名</font>后，从<font color="#47c15b">开始</font>到<font color="#47c15b">结束</font>运行）<br><font color="#47c15b">例：</font>用户名：<font color="#47c15b">autotcn</font>，当前编号<font color="#47c15b">1</font> => <font color="#47c15b">autotcn1</font>！
+tcn_auto_login_end_num_guide=输入<font color="#47c15b">结束</font>编号（将附加到<font color="#47c15b">用户名</font>后，从<font color="#47c15b">开始</font>到<font color="#47c15b">结束</font>运行）<br><font color="#47c15b">例：</font>用户名：<font color="#47c15b">autotcn</font>，当前编号<font color="#47c15b">1</font> => <font color="#47c15b">autotcn1</font>！
+tcn_auto_login_save_cur_section=保存所选的<font color="#47c15b">部分</font>！
+tcn_auto_login_get_mail_user_kt=获取邮件，使用神器
+tcn_auto_login_get_mail_user_tn=获取邮件，使用悟性
+tcn_nghe_ren=铁匠
+tcn_nghe_may=裁缝
+tcn_nghe_xao=工匠
+tcn_shortcuts_ai=TCN助手【AI】界面（Ctrl + Shift + A）
+tcn_shortcuts_auto_ct=自动战场（Ctrl + Shift + B）
+tcn_shortcuts_auto_coc=自动绑架（Ctrl + Shift + C）
+tcn_shortcuts_auto_def=自动防御（Ctrl + Shift + D）
+tcn_shortcuts_auto_vt=自动运镖（Ctrl + Shift + E）
+tcn_shortcuts_auto_item=自动使用物品（Ctrl + Shift + I）
+tcn_shortcuts_auto_skill=自动技能（Ctrl + Shift + S）
+tcn_shortcuts_auto_train=自动训练界面（Ctrl + Shift + T）
+tcn_shortcuts_auto_fixitem=快速修理装备物品（Ctrl + Shift + F）
+tcn_shortcuts_auto_find_player=扫描周围的玩家（Ctrl + Shift + F）
+tcn_shortcuts_auto_thbb=Buff 神行百变（Ctrl + Shift + H）
+tcn_shortcuts_shortcut_interface=快捷键界面（Ctrl + K）
+tcn_shortcuts_auto_hang_shop=自动开摊界面（Ctrl + P）
+tcn_shortcuts_auto_task_new=自动任务新界面（Ctrl + N）
+tcn_shortcuts_auto_blink=自动闪现界面（Ctrl + B）
+tcn_shortcuts_auto_tcn=AutoTCN界面（Ctrl + U）
+tcn_shortcuts_tele=传送界面（Ctrl + T）
+tcn_shortcuts_auto_receive_mail=自动邮件接收界面（Ctrl + M）
+tcn_shortcuts_auto_bug_lam=漏洞揽雀尾界面（Ctrl + L）
+tcn_shortcuts_auto_buff_ptc=Buff心佛掌界面（Shift + B）
+tcn_fixitem_auto_coc=快速修理自动绑架的物品
+tcn_fixitem_auto_train=快速修理自动训练的物品
+tcn_fixitem_auto_tiguan=快速修理自动闯荡四海的物品
+tcn_fixitem_auto_thth=快速修理自动闯荡四海（老的）的物品
+tcn_fixitem_auto_haojie=快速修理自动江湖豪杰的物品
+tcn_fixitem_auto_hunter=快速修理自动猎人的物品
+tcn_fixitem_auto_thien_the=快速修理自动天梯擂台的物品
+tcn_fixitem_auto_battle=快速修理自动战场的物品
+tcn_fixitem_auto_task_round=快速修理自动隐士和势力的物品
+tcn_fixitem_auto_task_nc6=快速修理自动六阶内功任务的物品
+tcn_fixitem_auto_task_new=快速修理自动任务新的物品
+tcn_fixitem_auto_throw_money=快速修理倒银后的物品
+tcn_fixitem_auto_cd=快速修理自动禁地的物品
+tcn_fixitem_btn=快速修理物品
+tcn_fixitem_note=快速修理装备：<br>聊天 <font color="#c0b393">/fix</font> 或按 <font color="#c0b393">Ctrl + Shift + F</font>
+tcn_fixitem_hint=自动修理 <font color="#47c15b">装备</font> 的耐久度从 <font color="#47c15b">50%</font> 向下，相比该物品的 <font color="#47c15b">最大</font> 耐久度！
+tcn_loading_init_data=初始化数据
+tcn_loading_init_user_package=自动初始化中
+tcn_loading_activate=激活中
+tcn_loading_auto_coc_maps=获取绑架地图列表
+tcn_loading_auto_coc_map_detail=加载中
+tcn_loading_moi_gio_tham_lam=获取贪心牙侩数据
+tcn_loading_task_new=初始化数据
+tcn_loading_task_round=获取任务信息
+tcn_loading_auto_login=初始化数据
+tcn_loading_news=加载中
+tcn_loading_check_activate=检查激活
+tcn_loading_check_update=检查更新
+tcn_loading_upgrade_progress=更新AutoTCN
+tcn_loading_my_activation_code=加载中
+tcn_loading_get_player_config=加载中
+tcn_loading_backup_player_config=备份设置
+tcn_chat_get_final=最后的聊天行
+tcn_chat_type_1_note=附近，场景，门派，隐世，势力，东海（秒）
+tcn_chat_type_2_note=帮会，联盟（秒）
+tcn_chat_type_3_note=世界（秒）
+tcn_chat_type_1_hint=最短时间10秒
+tcn_chat_type_2_hint=最短时间10秒
+tcn_chat_type_3_hint=最短时间60秒
+tcn_chat_msg_type_1=附近，场景，门派，隐世，势力，东海（聊天最短时间10秒）
+tcn_chat_msg_type_2=帮会，联盟（聊天最短时间10秒）
+tcn_chat_msg_type_3=世界（聊天最短时间60秒）
+tcn_npc_tran_goi_van=成杰云
+tcn_npc_thuong_nhan=天梯商人
+tcn_enter_activation_code_label=输入激活码：
+tcn_enter_my_activation_code=输入你的激活码
+tcn_check_update=检查更新
+tcn_commands=命令列表
+tcn_version=版本
+tcn_ui_functions=功能
+tcn_zero_box=0箱
+tcn_num_boxs={@0:value}箱
+tcn_num_pills={@0:value}药丸
+tcn_num_pieces={@0:value}件
+tcn_num_sets={@0:value}套
+tcn_edit_name=编辑名字
+tcn_edit_manual=手动编辑
+tcn_open_edit_manual=打开<font color="#47c15b">手动编辑</font>文件！
+tcn_you_not_learned_param=你还没有学习<font color="#ffcc00">【{@0:value}】</font>
+tcn_chest_password_invalid=无效的箱子密码！
+tcn_chest_password_removed=成功移除箱子密码！
+tcn_incorrect_password=密码错误！
+tcn_from=来自
+tcn_to=到
+tcn_joining_match=加入配对
+tcn_stop_exchange_swords=停止交换纯阳剑
+tcn_stop_exchange=停止交换
+tcn_start_exchange=开始交换
+tcn_warning_ai_running_other_task=运行其他任务时无法交换物品！
+tcn_item_exchange_stopped=自动物品交换已停止！
+tcn_completed_item_exchange=物品交换完成！
+tcn_return_to_morgue=返回复活点！
+tcn_blink_to_param_m=闪现到：<font color="#ffcc00">{@0:distance}米</font>
+tcn_distance_param_m=距离：<font color="#ffcc00">{@0:distance}米</font>
+tcn_distance_label=距离：
+tcn_arrived=到达！
+tcn_in_coma=昏迷！
+tcn_stop_blink=停止闪现
+tcn_btn_blink_to=闪现到
+tcn_btn_go_to_coordinates=坐标
+tcn_msg_auto_correcting_jumps=自动修正跳跃！
+tcn_please_enter_x=请输入X！
+tcn_please_enter_y=请输入Y！
+tcn_enter_x=输入X
+tcn_enter_y=输入Y
+tcn_please_mark_on_map=请<font color="#ffcc00">在地图上标记位置</font>！
+tcn_marked_on_map_taken=地图上标记的位置已被占用！
+tcn_target_not_found=未找到目标！
+tcn_enter_player_name=输入玩家名字！
+tcn_enter_name_required=未输入名字！
+tcn_tele_advanced_link=<a href="">高级传送</a>
+tcn_tele_advanced_link_hint=高级传送（无冷却）
+tcn_msg_no_task=没有任务！
+tcn_msg_no_support_my_schools=不支持你的学校！
+tcn_time_to=到
+tcn_hint_from_to={@0:type} 从 {@1:form} -> {@2:to}
+tcn_please_wait_num_time=请等待 <font color="#ffcc00">{@0:second}秒</font> 后再执行！
+tcn_note_show_chat_info=信息将显示在<font color="#47c15b">组合</font>和<font color="#47c15b">突袭</font>聊天栏中。内容仅对你可见！
+tcn_activate_countdown=激活（{@0:second}）
+tcn_sookshelves=书架
+tcn_book_box=散乱的书箱
+tcn_book_bearer=书籍承载者
+tcn_find_books_stopped=停止搜索书籍！
+tcn_list_attack_you=攻击你的人
+tcn_please_select_chat_type=请至少选择1种聊天类型！
+tcn_enemy_param=敌人：{@0:name}
+tcn_enemy_not_found=未找到敌人
+tcn_msg_guard_mode_start=已激活守护政权！
+tcn_msg_guard_mode_stop=停止守护政权！
+tcn_not_tele=无法传送
+tcn_you_selected_map_success=你已成功选择<font color="#ffcc00">{@0:map}</font>！
+tcn_format_error=<font color="#c70000">{@0:msg}</font>
+tcn_msg_invalid_item=无效的物品！
+tcn_auto_toa_ky_guide=把坐骑或风行者放在这里，并拿出来堆叠功能！
+tcn_throw_money_start=扔钱
+tcn_throw_money_stop=停止扔钱
+tcn_msg_throw_money_enabled=启用扔银块！
+tcn_msg_throw_money_stopped=停止扔银块！
+tcn_qin_player=音乐家
+tcn_msg_find_qin_stopped=停止搜索音乐家！
+tcn_find_qin_start=寻找音乐家
+tcn_find_qin_stop=停止寻找音乐家
+tcn_show_hp_percent=显示%生命值
+tcn_hide_hp_percent=隐藏%生命值
+tcn_btn_farm_ky_stop=停止围棋
+tcn_btn_farm_ky_start=围棋农场
+tcn_find_books_start=寻找书籍
+tcn_find_books_stop=停止寻找书籍
+tcn_find_tree_start=寻找树木
+tcn_find_tree_stop=停止寻找树木
+tcn_de_ping_start=Deping
+tcn_de_ping_stop=停止Deping
+tcn_commands_chat_title=-------------------- <font face="font_title" color="#47c15b">聊天</font> --------------------<br>
+tcn_commands_shortcuts_title=<br>-------------------- <font face="font_title" color="#ff9c22">快捷键</font> --------------------<br>
+tcn_enter_fps_label=设置FPS：
+tcn_fps_guide=设置为<=0为默认FPS！
+tcn_set_fps_max=设置最大 <font color="#ffcc00">{@0:value}</font> FPS
+tcn_msg_notify_not_found=没有通知，或无法加载通知！
+tcn_msg_please_wait=请等待 <font color="#ffcc00">{@0:second}秒</font> 后再执行！
+tcn_btn_delete_hint=从列表中删除<font color="#47c15b">{@0:config}</font>！
+tcn_receive_mail_btn_hint=从邮件提取列表中移除<font color="#47c15b">{@0:config}</font>！
+tcn_add_item_guide=将物品<font color="#47c15b">拿在手上</font>，并放在这里！
+tcn_add_item=添加物品
+tcn_receive_mail_warning=你还没有将物品添加到列表中！
+tcn_msg_not_time_yet=还没到时间！
+tcn_msg_auto_def_monster_enabled=<font color="#ffcc00">防御怪物</font>已激活！
+tcn_msg_auto_def_monster_stopped=<font color="#ffcc00">防御怪物</font>已停止！
+tcn_msg_cancel_def_skill=<font color="#ff00ff">【{@0:skill}】</font>（取消防御）
+tcn_hint_lock_arrange_manual=<font color="#47c15b">AutoTCN</font>暂时禁用，为<font color="#47c15b">避免错误</font>，将在几秒钟后重新启用！
+tcn_tele_msg_warning=无法传送到这张地图！
+tcn_tele_data_error=传送数据错误
+tcn_go_to_coc_format=移动到：<font color="#ffcc00">{@0:name}</font> - 【Buff: <font color="#ffcc00">{@1:buff}</font>】 - 【距离：<font color="#ffcc00">{@2:distance}米</font>】
+tcn_go_to_merchant_format=去商人 【<font color="#ffcc00">{@0:name}</font>】 - 距离：<font color="#ffcc00">{@1:distance}米</font>
+tcn_go_to_pos_format=去位置 【<font color="#ffcc00">{@0:name}</font>】 - 距离：<font color="#ffcc00">{@1:distance}米</font>
+tcn_auto_coc_loading_warning=【自动绑架】 在 <font color="#ffcc00">{@0:second}秒</font>后功能将自动执行！
+tcn_restart_function_timer=在 <font color="#ffcc00">{@0:second}s</font> 后，功能将重新激活！
+tcn_restart_function_timer_min=在 <font color="#ffcc00">{@0:min} 分钟 {@1:second} 秒</font> 后，功能将重新激活！
+tcn_msg_monster_attack=反击：【<font color="#ffcc00">{@0:npc}</font>】
+tcn_msg_find_other_pos_for_tele=寻找其他位置传送！
+tcn_msg_please_select_add_map=请选择附加地图！
+tcn_msg_established_om_coc_minutes=提前建立绑架：<font color="#ffcc00">{@0:min}</font> 分钟！
+tcn_msg_auto_coc_stopped=停止自动绑架！
+tcn_msg_auto_coc_add_black_list=添加 【<font color="#ffcc00">{@0:name}</font>】 到黑名单！
+tcn_msg_find_another_merchant=寻找其他商人！
+tcn_msg_dao_bao_stopped=停止传送到位置<font color="#ffcc00">国外珍宝地图</font>！
+tcn_msg_dao_bao_running=传送到<font color="#ffcc00">国外珍宝地图</font>，移动以停止自动！
+tcn_auto_slogan=免费开始，随时升级
+tcn_grow_flower_buy_note=你可以买：<font color="#ffcc00">{@0:num}</font>花
+tcn_grow_flower_time_note=生长时间：<font color="#ffcc00">{@0:num}</font>小时
+tcn_tool_upgrade_hint=点击<font color="#47c15b">这里</font>查看<font color="#47c15b">升级/漏洞修复</font>当前自动版本需要的内容！
+tcn_tool_activate_hint=点击<font color="#47c15b">这里</font>激活<font color="#47c15b">Auto TCN</font>的一些<font color="#47c15b">高级</font>功能！
+tcn_blink_95=到95米
+tcn_blink_70=到70米
+tcn_blink_50=到50米
+tcn_blink_20=到20米
+tcn_blink_obj_name=对象名称
+tcn_blink_to_name=到目标名称
+tcn_blink_target=到目标
+tcn_blink_to_mark_on_map=闪现到距离或在地图上标记
+tcn_blink_to_forward=向前闪现n（米）
+tcn_blink_enter_distance=输入距离并闪现到
+tcn_blink_pick_mark_on_map=在地图上选择一个点并闪现到
+tcn_blink_to_xy=闪现到坐标（x，y）
+tcn_blink_enter_xy_and_blink=输入坐标x，y并闪现到
+tcn_blink_up_20=上20米
+tcn_left_click_to_blink=左键点击跳跃
+tcn_blink_down_ground=下降
+tcn_ui_option=选项
+tcn_suicide_stuck=卡住时自杀
+tcn_tele_to_leader=根据队长传送
+tcn_allows_attacking_players=允许攻击玩家
+tcn_export_pt=导出PT文件
+tcn_msg_reconnecting=<font color="#8fd6ef">网络断开</font>，检查并<font color="#8fd6ef">重新连接</font>！
+tcn_reconnecting=重新连接
+tcn_welcome_window_title=感谢使用AutoTCN！
+tcn_auto_swap_weapon=交换手套，武器
+tcn_auto_swap_weapon_hint=提示：<br>- 此功能支持交换具有高“% 技能”的武器。
+tcn_auto_swap_oan=交换手套
+tcn_auto_swap_oan_hint=提示：<br>- 此功能支持交换具有高“% 技能”的手套。
+tcn_auto_swap_equip=交换装备
+tcn_auto_swap_equip_hint=提示：<br>- 此功能支持自动交换具有高“% 技能”的装备。
+tcn_auto_swap_bt=切换批注书
+tcn_auto_swap_bt_hint=提醒：<br>- 此功能支持切换具有适当技能条的<font color="#ffcc00">批注书</font>。如果没有适合的批注书，将使用<font color="#ffcc00">日月魔帝笔意</font>、<font color="#ffcc00">先天一阳笔意</font>、<font color="#ffcc00">赤血神照画境。</font>
+tcn_auto_swap_fast=快速更换武器
+tcn_auto_swap_fast_hint=提示：<br>- 此功能支持自动更换武器类型以匹配技能套装。
+tcn_dao_thanh_hai=蓬莱岛
+tcn_di_hoa_cung=移花宫
+tcn_path_finding=AutoTCN 路径查找
+tcn_select_pigeon_on_mailbox=选择<font color="#ffcc00">信鸽</font>以购买<font color="#ffcc00">信使鸽</font>
+tcn_enable_auto_character_selection=启用自动角色选择
+tcn_enable_auto_character_selection_hint=当连接断开时，AI将自动选择角色！
+tcn_use_suicide_feature_required=要使用自杀功能，你需要学习以下两种技能中的至少一种：<font color="#ffcc00">{@0:skill1}</font> 和 <font color="#ffcc00">{@0:skill2}</font>。
+tcn_auto_login_chest_password_required=请为自动登录输入箱子密码！
+tcn_auto_login_check_chest_password=在自动登录时检查箱子密码！
+tcn_receive_mail_rewards=接收邮件奖励
+tcn_blink_to_center=跳到中心
+tcn_cancel_task_and_retake_to_right=取消任务并重新领取直到正确！
+tcn_join_vip_require=必须是<font color="#ffcc00">江湖VIP</font>才能参加<font color="#ffcc00">{@0:title}</font>
+tcn_pet=宠物
+tcn_thbb_swap_nc3_cb=自动交换三阶内功丐帮，关闭时自动交换回以前的内功！
+tcn_equip_world_gold=核心游戏中掉落的装备（金品质）
+tcn_equip_world_jade=核心游戏中掉落的装备（玉品质）
+tcn_use_sinh_tu_phu=使用乱心尘
+tcn_accept_sinh_tu_phu=接受乱心尘
+tcn_auto_roll_ao_ao_title=炼制直到：
+tcn_auto_roll_ao_ao_0=任何品质
+tcn_auto_roll_ao_ao_100=金品质或玉品质
+tcn_auto_roll_ao_ao_400=玉品质
+tcn_member_limit=成员限制
+tcn_invalid_tool_warning=AutoTCN版本不完整！请检查并重新安装正式版本！
+tcn_auto_move_last_pos=复活后自动移动
+tcn_tiguan_level_1=等级1
+tcn_tiguan_level_2=等级2
+tcn_tiguan_level_3=等级3
+tcn_tiguan_level_4=等级4
+tcn_tiguan_level_5=等级5
+tcn_tiguan_level_6=等级6
+tcn_ui_stop_getprize=停止领取奖励
+tcn_priority_list=优先列表
+tcn_enable_withdraw_world_auction_letter=启用提取世界拍卖信件
+tcn_run_with_tcn_assistant=与 TCN 助手一起运行
+tcn_link_custom_name=<a href="">自定义名称</a>
+tcn_link_random=<a href="">随机的</a>
+tcn_link_id_as_name=<a href="">获取 ID 作为名称</a>
+tcn_personal_list=个人列表
+tcn_default_list=默认列表
+tcn_livestream_mode=直播模式
+tcn_switch_livestream_mode=[<font color="#ffcc00">{@0:type}</font>] 直播模式!
+tcn_copy_current_username_to_new_username_hint=从当前账户复制到新账户！<br><br><font color="#47c15b">示例:</font> 新账户名: <font color="#47c15b">autotcn1</font><br>或输入1-50的: <font color="#47c15b">autotcn|1|50</font>
+tcn_enter_new_username=输入新账户名
+tcn_copy_no_ai=不复制AI
+tcn_copy_no_skill=不复制自动技能
+tcn_copy_no_swap=不复制自动切换
+tcn_copy_no_chest_password=不复制箱子密码
+tcn_copy=复制
+tcn_msg_username_invalid=账户名无效！
+tcn_msg_copy_faild=复制失败！
+tcn_follow_settings=跟随设置
+tcn_auto_follow=跟随
+tcn_stop_follow=停止跟随！
+tcn_follow_team_member_label=队伍成员:
+tcn_follow_captain=跟随队长
+tcn_enter_team_member_name=输入你队伍成员的名字！不在队伍中将无法工作！
+tcn_distance_unit=米
+tcn_auto_start=自动启动
+tcn_dodge_boss_skill_label=躲避技能:
+tcn_no_dodge_boss_skill=不躲避Boss技能
+tcn_no_dodge_boss_skill_label=不躲避技能:
+tcn_pvp_defense_counterattack_hint=当对手使用破防技能时反击！
+tcn_pvp_defense_counterattack=反击
+tcn_swap_nc_van_thu=切换百兽庄内功
+tcn_swap_nc_van_thu_hint=当自身血量过低时自动切换百兽庄内功！
+tcn_blood_belowt_percent=剩余血量低于 (%):
+tcn_swap_battlefield_weapon=切换战场武器
+tcn_swap_battlefield_weapon_hint=当对手血量过低时自动切换战场武器！
+tcn_swap_oan_doc_parry=切换毒师护腕于架招时
+tcn_swap_oan_doc_parry_hint=架招时自动切换毒师护腕！
+tcn_ninja_role_title_9321=下忍
+tcn_ninja_role_title_9319=足轻
+tcn_ninja_role_title_9184=中忍
+tcn_ninja_task_1=学习东瀛语
+tcn_ninja_task_2=探查倭人占领区域
+tcn_ninja_task_3=探查北湾村
+tcn_ninja_task_4=探查无极岛
+tcn_ninja_task_5=收集粘土
+tcn_ninja_task_6=武艺切磋
+tcn_bug_tele_dao_thanh_hai=快速传送到蓬莱岛的Bug
+tcn_disguise=伪装
+tcn_exchange_apprenticeship_value=兑换师徒值
+tcn_faculty_event_fc_02_c=混元易筋丹（一天）
+tcn_item_4nei_duihuan=羊皮残片
+tcn_item_5nei_duihuan=圣武令
+tcn_item_jindi_duihuan=和氏璧碎片
+tcn_item_exc_fc_mml=魔门令
+tcn_item_exc_fc_hss=荒兽石
+tcn_item_jianghu_clone_key=江湖禁地令牌
+tcn_stall_paid_package_support_save_items=使用付费套餐时支持保存物品！
+tcn_stall_you_not_activated_load_item=很抱歉...！您的套餐不支持保存物品！
+tcn_wait_for_the_end_internal_cultivation=等待内修增益
+tcn_wait_for_the_end_internal_cultivation_hint=等待200%内修速度提升结束后再进行下一步！
+tcn_guide_format_1={@0:dots} <a href="send_command,{@1:cmd}" style="HLStypefaction" face="font_title">[打开]</a> 聊天 <font color="#c0b393">{@2:cmd1}</font> 打开 <font color="#c0b393">{@3:name}</font><br>{@4:desc}
+tcn_guide_format_2={@0:dots} <a href="send_command,{@1:cmd}" style="HLStypefaction" face="font_title">[打开]</a> 聊天 <font color="#c0b393">{@2:cmd1}</font> 或 <font color="#c0b393">{@3:cmd2}</font> 打开 <font color="#c0b393">{@4:name}</font><br>{@5:desc}
+tcn_guide_ai_description=（刺探、团练、授业、战场、天梯擂台、温泉、<br>绑架、闯荡四海、运镖、收集、猎人、隐世、势力、...）<br>
+tcn_guide_task_new_description=（可以做所有任务 + <font color="#c0b393">新手指南</font>）<br>
+tcn_guide_fast_suicide_description=<br>（应在安静的地方使用）。<br>
+tcn_guide_exit_combat_state_description=<br>（无法按 Esc 的错误）。<br>
+tcn_auto_bag_arrange=自动整理背包
+tcn_auto_reduce_purchase_quantity=自动减少购买数量
+tcn_auto_reduce_purchase_quantity_hint=当其他人出售相同物品时，购买数量将减少！
+tcn_warning_restart_game_after_upgrade=请完全退出游戏，等待约30秒后重新打开，以获取最新更新！
+tcn_you_not_learned_job_param=你尚未学习职业 <font color="#ffcc00">{@0:value}</font>
+tcn_open_farm_job_hint=在聊天中输入 <font color="#47c15b">/farmnghe</font> 或 <font color="#47c15b">/farmjob</font> 以打开该功能。此功能可以添加到 <font color="#47c15b">TCN 助手【AI】</font> 中以自动运行。
+tcn_tvtt_no_change=玩家每周只能选择一次门派。
+tcn_school_task_param=门派任务：<font color="#ffcc00">{@0:num}/{@1:max}</font>
+tcn_map_task_param=地图任务：<font color="#ffcc00">{@0:num}/{@1:max}</font>
+tcn_remaining_available_reflections_today=今日剩余可获得心得：<font color="#ffcc00">{@0:point}</font>
+tcn_time_remaining=剩余时间: <font color="#ffcc00">{@0:time}</font>
+tcn_time_remaining_min=剩余时间: <font color="#ffcc00">{@0:min} 分钟, {@1:sec} 秒</font>
+tcn_time_remaining_full=剩余时间: <font color="#ffcc00">{@0:hour} 小时 {@1:min} 分钟 {@2:sec} 秒</font>
+
